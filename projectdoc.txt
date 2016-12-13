@@ -1,0 +1,1585 @@
+Mon Feb  1 12:13:59 EST 2016 virtual user etransactiondev started to upload file /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201171358.TXT
+ /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201171358.txt was not created
+Mon Feb  1 12:14:00 EST 2016 virtual user etransactiondev uploaded file /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201171358.TXT
+chmod 600 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201171358.txt
+chown 9999092 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201171358.TXT
+chgrp 9999092 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201171358.txt
+recipient is --etransactiondev-- AND the full targetUid path is ---etransactiondevuploadsetransactionenvironmentABCrrdin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:14:25 EST 2016 virtual user etransactiondev started to upload file /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201171424.TXT
+ /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201171424.txt was not created
+Mon Feb  1 12:14:25 EST 2016 virtual user etransactiondev uploaded file /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201171424.TXT
+chmod 600 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201171424.txt
+chown 9999092 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201171424.TXT
+chgrp 9999092 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201171424.TXT
+recipient is --etransactiondev-- AND the full targetUid path is ---etransactiondevuploadsetransactionenvironmentABCrrdin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:20:23 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201122022.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201122022.zip was not created
+Mon Feb  1 12:20:23 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201122022.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201122022.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201122022.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201122022.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:20:26 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201122025.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201122025.zip was not created
+Mon Feb  1 12:20:26 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201122025.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201122025.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201122025.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201122025.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:20:28 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201122027.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201122027.zip was not created
+Mon Feb  1 12:20:29 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201122027.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201122027.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201122027.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201122027.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:20:30 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201122029.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201122029.zip was not created
+Mon Feb  1 12:20:31 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201122029.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201122029.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201122029.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201122029.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:20:34 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201122033.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201122033.zip was not created
+Mon Feb  1 12:20:34 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201122033.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201122033.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201122033.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201122033.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:22:04 EST 2016 virtual user pfinity_bie_uat started to upload file /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_02_pfs.txt
+ /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_02_pfs.txt was not created
+Mon Feb  1 12:22:05 EST 2016 virtual user pfinity_bie_uat uploaded file /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_02_pfs.txt
+chmod 600 /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_02_pfs.txt
+chown 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_02_pfs.txt
+chgrp 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_02_pfs.txt
+recipient is --pfinity_bie_uat-- AND the full targetUid path is ---pfinity_bie_uatoutpfinity_nbfe_uat---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:27:26 EST 2016 virtual user pcXYZ started to upload file /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201122785318200010.zip
+ /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201122785318200010.zip was not created
+Mon Feb  1 12:27:27 EST 2016 virtual user pcXYZ uploaded file /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201122785318200010.zip
+chmod 600 /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201122785318200010.zip
+chown 99990353 /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201122785318200010.zip
+chgrp 99990353 /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201122785318200010.zip
+recipient is --pcXYZ-- AND the full targetUid path is ---pcXYZoutpcdst---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:28:23 EST 2016 virtual user pfinity_bie_uat started to upload file /export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011224.xml
+ /export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011224.xml was not created
+Mon Feb  1 12:28:23 EST 2016 virtual user pfinity_bie_uat uploaded file /export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011224.xml
+chmod 600 /export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011224.xml
+chown 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011224.xml
+chgrp 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011224.xml
+recipient is --pfinity_bie_uat-- AND the full targetUid path is ---pfinity_bie_uatoutpfinity_biert_uat---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:28:25 EST 2016 virtual user pfinity_bie_uat started to upload file /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt
+ /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt was not created
+==========================================================================
+Mon Feb  1 12:28:25 EST 2016 virtual user pfinity_biert_uat started to upload file /export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A
+ /export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A was not created
+Mon Feb  1 12:28:26 EST 2016 virtual user pfinity_biert_uat uploaded file /export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A
+Mon Feb  1 12:28:26 EST 2016 virtual user pfinity_bie_uat uploaded file /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt
+chmod 600 /export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A
+chmod 600 /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt
+chown 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt
+chown 999900977 /export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A
+chgrp 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt
+chgrp 999900977 /export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A
+recipient is --pfinity_biert_uat-- AND the full targetUid path is ---pfinity_biert_uatout---
+uploaded file to self.
+recipient is --pfinity_bie_uat-- AND the full targetUid path is ---pfinity_bie_uatoutpfinity_nbfe_uat---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:28:28 EST 2016 virtual user pfinity_bie_uat started to upload file /export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL2.CYC2.APPFILE.POLNUM
+ /export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL2.CYC2.APPFILE.POLNUM was not created
+Mon Feb  1 12:28:28 EST 2016 virtual user pfinity_bie_uat uploaded file /export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL2.CYC2.APPFILE.POLNUM
+chmod 600 /export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL2.CYC2.APPFILE.POLNUM
+chown 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL2.CYC2.APPFILE.POLNUM
+chgrp 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL2.CYC2.APPFILE.POLNUM
+recipient is --pfinity_bie_uat-- AND the full targetUid path is ---pfinity_bie_uatoutpfinity_rvd_uat---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:28:30 EST 2016 virtual user pfinity_bie_uat started to upload file /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011224.xml
+ /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011224.xml was not created
+Mon Feb  1 12:28:31 EST 2016 virtual user pfinity_bie_uat uploaded file /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011224.xml
+chmod 600 /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011224.xml
+chown 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011224.xml
+chgrp 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011224.xml
+recipient is --pfinity_bie_uat-- AND the full targetUid path is ---pfinity_bie_uatoutpfinity_exp_uat---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:28:33 EST 2016 virtual user pfinity_bie_uat started to upload file /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011224.xml
+ /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011224.xml was not created
+Mon Feb  1 12:28:33 EST 2016 virtual user pfinity_bie_uat uploaded file /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011224.xml
+chmod 600 /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011224.xml
+chown 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011224.xml
+chgrp 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011224.xml
+recipient is --pfinity_bie_uat-- AND the full targetUid path is ---pfinity_bie_uatoutpfinity_exp_uat---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:28:34 EST 2016 virtual user pfinity_wma_qa5 started to upload file /export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.QM3.ROR.EXTRACT.WMA
+ /export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.QM3.ROR.EXTRACT.WMA was not created
+Mon Feb  1 12:28:35 EST 2016 virtual user pfinity_wma_qa5 uploaded file /export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.QM3.ROR.EXTRACT.WMA
+chmod 600 /export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.QM3.ROR.EXTRACT.WMA
+chown 999901088 /export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.QM3.ROR.EXTRACT.WMA
+chgrp 999901088 /export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.QM3.ROR.EXTRACT.WMA
+recipient is --pfinity_wma_qa5-- AND the full targetUid path is ---pfinity_wma_qa5outpfinity_bie_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:28:40 EST 2016 virtual user pcXYZ started to upload file /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201122808031700025.zip
+ /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201122808031700025.zip was not created
+==========================================================================
+Mon Feb  1 12:28:40 EST 2016 virtual user awdnb2 started to upload file /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201122808031700025.pdf
+ /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201122808031700025.pdf was not created
+Mon Feb  1 12:28:41 EST 2016 virtual user awdnb2 uploaded file /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201122808031700025.pdf
+chmod 600 /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201122808031700025.pdf
+Mon Feb  1 12:28:41 EST 2016 virtual user pcXYZ uploaded file /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201122808031700025.zip
+chmod 600 /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201122808031700025.zip
+chown 999901156 /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201122808031700025.pdf
+chown 99990353 /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201122808031700025.zip
+chgrp 99990353 /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201122808031700025.zip
+chgrp 999901156 /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201122808031700025.pdf
+recipient is --pcXYZ-- AND the full targetUid path is ---pcXYZoutpcdst---
+uploaded file to self.
+recipient is --awdnb2-- AND the full targetUid path is ---awdnb2outwin_awdnb2_int---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:33:49 EST 2016 virtual user pcdst started to upload file /export/home/pub/pcdst/in/Nava_6407XYZ16020114921.zip
+ /export/home/pub/pcdst/in/Nava_6407XYZ16020114921.zip was not created
+Mon Feb  1 12:33:49 EST 2016 virtual user pcdst uploaded file /export/home/pub/pcdst/in/Nava_6407XYZ16020114921.zip
+chmod 600 /export/home/pub/pcdst/in/Nava_6407XYZ16020114921.zip
+chown 99990354 /export/home/pub/pcdst/in/Nava_6407XYZ16020114921.zip
+chgrp 99990354 /export/home/pub/pcdst/in/Nava_6407XYZ16020114921.zip
+recipient is --pcdst-- AND the full targetUid path is ---pcdstin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:34:45 EST 2016 virtual user pcdst started to upload file /export/home/pub/pcdst/in/Nava_6407XYZ16020114922.zip
+ /export/home/pub/pcdst/in/Nava_6407XYZ16020114922.zip was not created
+Mon Feb  1 12:34:46 EST 2016 virtual user pcdst uploaded file /export/home/pub/pcdst/in/Nava_6407XYZ16020114922.zip
+chmod 600 /export/home/pub/pcdst/in/Nava_6407XYZ16020114922.zip
+chown 99990354 /export/home/pub/pcdst/in/Nava_6407XYZ16020114922.zip
+chgrp 99990354 /export/home/pub/pcdst/in/Nava_6407XYZ16020114922.zip
+recipient is --pcdst-- AND the full targetUid path is ---pcdstin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:43:30 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201124329.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201124329.zip was not created
+Mon Feb  1 12:43:30 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201124329.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201124329.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201124329.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201124329.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:43:32 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201124331.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201124331.zip was not created
+Mon Feb  1 12:43:33 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201124331.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201124331.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201124331.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201124331.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:43:35 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201124334.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201124334.zip was not created
+Mon Feb  1 12:43:36 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201124334.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201124334.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201124334.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201124334.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:43:37 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201124337.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201124337.zip was not created
+Mon Feb  1 12:43:38 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201124337.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201124337.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201124337.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201124337.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:43:41 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201124340.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201124340.zip was not created
+Mon Feb  1 12:43:41 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201124340.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201124340.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201124340.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201124340.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:53:54 EST 2016 virtual user fd_int started to upload file /export/home/pub/fd_int/in/String_List.txt
+chmod 666 /export/home/pub/fd_int/in/String_List.txt
+Mon Feb  1 12:53:55 EST 2016 virtual user fd_int uploaded file /export/home/pub/fd_int/in/String_List.txt
+chmod 600 /export/home/pub/fd_int/in/String_List.txt
+chown root /export/home/pub/fd_int/in/String_List.txt
+chgrp root /export/home/pub/fd_int/in/String_List.txt
+recipient is --fd_int-- AND the full targetUid path is ---fd_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:56:11 EST 2016 virtual user pfinity_bie_qa2 started to upload file /export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES
+ /export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES was not created
+Mon Feb  1 12:56:12 EST 2016 virtual user pfinity_bie_qa2 uploaded file /export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES
+chmod 600 /export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES
+chown 999900912 /export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES
+chgrp 999900912 /export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES
+recipient is --pfinity_bie_qa2-- AND the full targetUid path is ---pfinity_bie_qa2outpfinity_wma_qa2---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 12:56:13 EST 2016 virtual user pfinity_bie_qa2 started to upload file /export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST
+ /export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST was not created
+Mon Feb  1 12:56:14 EST 2016 virtual user pfinity_bie_qa2 uploaded file /export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST
+chmod 600 /export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST
+chown 999900912 /export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST
+chgrp 999900912 /export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST
+recipient is --pfinity_bie_qa2-- AND the full targetUid path is ---pfinity_bie_qa2outsftp403b_int---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:00:02 EST 2016 virtual user eedmetaid started to upload file /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+chmod 666 /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+Mon Feb  1 13:00:02 EST 2016 virtual user eedmetaid uploaded file /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+chmod 600 /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+chown 999903464 /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+chgrp 999903464 /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+recipient is --EEDMETAID_TO_bie-- AND the full targetUid path is ---EEDMETAID_TO_biein---
+"Sending e-mail [eedmetaid has sent you a file, please click on this link to view/download-->  extranet user: https://testXYZftps.equitable.com/EEDMETAID_TO_bie/in/  intranet user: https://testXYZftpsinternal.equitable.com/EEDMETAID_TO_bie/in/EBExtractFeed.txt] to "
+==========================================================================
+Mon Feb  1 13:02:08 EST 2016 virtual user aplifi_int started to upload file /export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T130204
+ /export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T130204 was not created
+Mon Feb  1 13:02:09 EST 2016 virtual user aplifi_int uploaded file /export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T130204
+chmod 600 /export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T130204
+chown 999903368 /export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T130204
+chgrp 999903368 /export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T130204
+recipient is --aplifi_int-- AND the full targetUid path is ---aplifi_intoutpfinity_bie_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:02:39 EST 2016 virtual user awd_to_qa6_int started to upload file /export/home/pub/awd_to_qa6_int/in/NOCEM011916112300154.zip
+ /export/home/pub/awd_to_qa6_int/in/NOCEM011916112300154.zip was not created
+Mon Feb  1 13:02:40 EST 2016 virtual user awd_to_qa6_int uploaded file /export/home/pub/awd_to_qa6_int/in/NOCEM011916112300154.zip
+chmod 600 /export/home/pub/awd_to_qa6_int/in/NOCEM011916112300154.zip
+chown 999903264 /export/home/pub/awd_to_qa6_int/in/NOCEM011916112300154.zip
+chgrp 999903264 /export/home/pub/awd_to_qa6_int/in/NOCEM011916112300154.zip
+recipient is --awd_to_qa6_int-- AND the full targetUid path is ---awd_to_qa6_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:10:26 EST 2016 virtual user pfinity_bie_uat started to upload file /export/home/pub/pfinity_bie_uat/out/pfinity_wma_uat/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES
+ /export/home/pub/pfinity_bie_uat/out/pfinity_wma_uat/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES was not created
+Mon Feb  1 13:10:27 EST 2016 virtual user pfinity_bie_uat uploaded file /export/home/pub/pfinity_bie_uat/out/pfinity_wma_uat/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES
+chmod 600 /export/home/pub/pfinity_bie_uat/out/pfinity_wma_uat/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES
+chown 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_wma_uat/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES
+chgrp 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_wma_uat/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES
+recipient is --pfinity_bie_uat-- AND the full targetUid path is ---pfinity_bie_uatoutpfinity_wma_uat---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:10:29 EST 2016 virtual user pfinity_bie_uat started to upload file /export/home/pub/pfinity_bie_uat/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST
+ /export/home/pub/pfinity_bie_uat/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST was not created
+Mon Feb  1 13:10:30 EST 2016 virtual user pfinity_bie_uat uploaded file /export/home/pub/pfinity_bie_uat/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST
+chmod 600 /export/home/pub/pfinity_bie_uat/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST
+chown 999900968 /export/home/pub/pfinity_bie_uat/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST
+chgrp 999900968 /export/home/pub/pfinity_bie_uat/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST
+recipient is --pfinity_bie_uat-- AND the full targetUid path is ---pfinity_bie_uatoutsftp403b_int---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:12:01 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201131200.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201131200.zip was not created
+Mon Feb  1 13:12:02 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201131200.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201131200.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201131200.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201131200.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:12:03 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201131203.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201131203.zip was not created
+Mon Feb  1 13:12:04 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201131203.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201131203.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201131203.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201131203.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:12:06 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201131205.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201131205.zip was not created
+Mon Feb  1 13:12:07 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201131205.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201131205.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201131205.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201131205.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:12:08 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201131207.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201131207.zip was not created
+Mon Feb  1 13:12:09 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201131207.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201131207.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201131207.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201131207.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:12:12 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201131211.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201131211.zip was not created
+Mon Feb  1 13:12:12 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201131211.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201131211.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201131211.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201131211.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:18:46 EST 2016 virtual user awd_to_qa6_int started to upload file /export/home/pub/awd_to_qa6_int/in/NOCEM102615115300859.zip
+ /export/home/pub/awd_to_qa6_int/in/NOCEM102615115300859.zip was not created
+Mon Feb  1 13:18:46 EST 2016 virtual user awd_to_qa6_int uploaded file /export/home/pub/awd_to_qa6_int/in/NOCEM102615115300859.zip
+chmod 600 /export/home/pub/awd_to_qa6_int/in/NOCEM102615115300859.zip
+chown 999903264 /export/home/pub/awd_to_qa6_int/in/NOCEM102615115300859.zip
+chgrp 999903264 /export/home/pub/awd_to_qa6_int/in/NOCEM102615115300859.zip
+recipient is --awd_to_qa6_int-- AND the full targetUid path is ---awd_to_qa6_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:26:10 EST 2016 virtual user bie_xpression_int started to upload file /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1325.xml
+ /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1325.xml was not created
+Mon Feb  1 13:26:10 EST 2016 virtual user bie_xpression_int uploaded file /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1325.xml
+chmod 600 /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1325.xml
+chown 999903488 /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1325.xml
+chgrp 999903488 /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1325.xml
+recipient is --bie_xpression_int-- AND the full targetUid path is ---bie_xpression_intoutUAT---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:28:53 EST 2016 virtual user pfinity_wma_qa5 started to upload file /export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.WMA.QM3CATVD.FEEINFO.EXT(0)
+ /export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.WMA.QM3CATVD.FEEINFO.EXT(0) was not created
+Mon Feb  1 13:28:53 EST 2016 virtual user pfinity_wma_qa5 uploaded file /export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.WMA.QM3CATVD.FEEINFO.EXT(0)
+chmod 600 /export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.WMA.QM3CATVD.FEEINFO.EXT(0)
+chown 999901088 /export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.WMA.QM3CATVD.FEEINFO.EXT(0)
+chgrp 999901088 /export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.WMA.QM3CATVD.FEEINFO.EXT(0)
+recipient is --pfinity_wma_qa5-- AND the full targetUid path is ---pfinity_wma_qa5outpfinity_bie_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:34:21 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201133420.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201133420.zip was not created
+Mon Feb  1 13:34:21 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201133420.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201133420.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201133420.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201133420.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:34:24 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201133423.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201133423.zip was not created
+Mon Feb  1 13:34:24 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201133423.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201133423.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201133423.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201133423.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:34:27 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201133426.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201133426.zip was not created
+Mon Feb  1 13:34:27 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201133426.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201133426.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201133426.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201133426.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:34:31 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201133430.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201133430.zip was not created
+Mon Feb  1 13:34:31 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201133430.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201133430.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201133430.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201133430.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:34:34 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201133433.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201133433.zip was not created
+Mon Feb  1 13:34:34 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201133433.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201133433.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201133433.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201133433.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:38:00 EST 2016 virtual user bie_xpression_int started to upload file /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1337.xml
+ /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1337.xml was not created
+Mon Feb  1 13:38:01 EST 2016 virtual user bie_xpression_int uploaded file /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1337.xml
+chmod 600 /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1337.xml
+chown 999903488 /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1337.xml
+chgrp 999903488 /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1337.xml
+recipient is --bie_xpression_int-- AND the full targetUid path is ---bie_xpression_intoutUAT---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:44:52 EST 2016 virtual user pfinity_rvd_qa5 started to upload file /export/home/pub/pfinity_rvd_qa5/out/pfinity_nt_qa5/ECOTG.QC3POLFD.POLFIL
+ /export/home/pub/pfinity_rvd_qa5/out/pfinity_nt_qa5/ECOTG.QC3POLFD.POLFIL was not created
+Mon Feb  1 13:44:54 EST 2016 virtual user pfinity_rvd_qa5 uploaded file /export/home/pub/pfinity_rvd_qa5/out/pfinity_nt_qa5/ECOTG.QC3POLFD.POLFIL
+chmod 600 /export/home/pub/pfinity_rvd_qa5/out/pfinity_nt_qa5/ECOTG.QC3POLFD.POLFIL
+chown 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_nt_qa5/ECOTG.QC3POLFD.POLFIL
+chgrp 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_nt_qa5/ECOTG.QC3POLFD.POLFIL
+recipient is --pfinity_rvd_qa5-- AND the full targetUid path is ---pfinity_rvd_qa5outpfinity_nt_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:45:33 EST 2016 virtual user pfinity_rvd_qa5 started to upload file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_MASTER.TXT
+ /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_MASTER.TXT was not created
+Mon Feb  1 13:46:00 EST 2016 virtual user pfinity_rvd_qa5 uploaded file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_MASTER.txt
+chmod 600 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_MASTER.TXT
+chown 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_MASTER.TXT
+chgrp 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_MASTER.TXT
+recipient is --pfinity_rvd_qa5-- AND the full targetUid path is ---pfinity_rvd_qa5outpfinity_adl_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:46:01 EST 2016 virtual user pfinity_rvd_qa5 started to upload file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_FUND.TXT
+ /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_FUND.TXT was not created
+Mon Feb  1 13:46:01 EST 2016 virtual user pfinity_rvd_qa5 uploaded file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_FUND.TXT
+chmod 600 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_FUND.TXT
+chown 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_FUND.TXT
+chgrp 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_FUND.TXT
+recipient is --pfinity_rvd_qa5-- AND the full targetUid path is ---pfinity_rvd_qa5outpfinity_adl_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:46:02 EST 2016 virtual user pfinity_rvd_qa5 started to upload file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_COMMISSION_DATA.TXT
+ /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_COMMISSION_DATA.TXT was not created
+Mon Feb  1 13:46:04 EST 2016 virtual user pfinity_rvd_qa5 uploaded file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_COMMISSION_DATA.TXT
+chmod 600 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_COMMISSION_DATA.TXT
+chown 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_COMMISSION_DATA.TXT
+chgrp 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_COMMISSION_DATA.TXT
+recipient is --pfinity_rvd_qa5-- AND the full targetUid path is ---pfinity_rvd_qa5outpfinity_adl_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:46:05 EST 2016 virtual user pfinity_rvd_qa5 started to upload file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_STATE.TXT
+ /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_STATE.TXT was not created
+Mon Feb  1 13:46:06 EST 2016 virtual user pfinity_rvd_qa5 uploaded file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_STATE.TXT
+chmod 600 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_STATE.TXT
+chown 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_STATE.TXT
+chgrp 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_STATE.txt
+recipient is --pfinity_rvd_qa5-- AND the full targetUid path is ---pfinity_rvd_qa5outpfinity_adl_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:46:07 EST 2016 virtual user pfinity_rvd_qa5 started to upload file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_GOA.TXT
+ /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_GOA.TXT was not created
+Mon Feb  1 13:46:10 EST 2016 virtual user pfinity_rvd_qa5 uploaded file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_GOA.TXT
+chmod 600 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_GOA.TXT
+chown 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_GOA.TXT
+chgrp 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_GOA.txt
+recipient is --pfinity_rvd_qa5-- AND the full targetUid path is ---pfinity_rvd_qa5outpfinity_adl_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:46:10 EST 2016 virtual user pfinity_rvd_qa5 started to upload file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_PLANFUND.txt
+ /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_PLANFUND.TXT was not created
+Mon Feb  1 13:46:31 EST 2016 virtual user pfinity_rvd_qa5 uploaded file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_PLANFUND.TXT
+chmod 600 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_PLANFUND.TXT
+chown 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_PLANFUND.txt
+chgrp 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_PLANFUND.TXT
+recipient is --pfinity_rvd_qa5-- AND the full targetUid path is ---pfinity_rvd_qa5outpfinity_adl_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:47:24 EST 2016 virtual user pfinity_rvd_qa5 started to upload file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUND_REBL.TXT
+ /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUND_REBL.TXT was not created
+Mon Feb  1 13:47:26 EST 2016 virtual user pfinity_rvd_qa5 uploaded file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUND_REBL.TXT
+chmod 600 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUND_REBL.txt
+chown 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUND_REBL.TXT
+chgrp 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUND_REBL.TXT
+recipient is --pfinity_rvd_qa5-- AND the full targetUid path is ---pfinity_rvd_qa5outpfinity_adl_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:47:27 EST 2016 virtual user pfinity_rvd_qa5 started to upload file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_LST_FUND_REB.TXT
+ /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_LST_FUND_REB.TXT was not created
+Mon Feb  1 13:47:28 EST 2016 virtual user pfinity_rvd_qa5 uploaded file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_LST_FUND_REB.TXT
+chmod 600 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_LST_FUND_REB.TXT
+chown 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_LST_FUND_REB.TXT
+chgrp 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_LST_FUND_REB.TXT
+recipient is --pfinity_rvd_qa5-- AND the full targetUid path is ---pfinity_rvd_qa5outpfinity_adl_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:47:29 EST 2016 virtual user pfinity_rvd_qa5 started to upload file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_ALERT.TXT
+ /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_ALERT.TXT was not created
+Mon Feb  1 13:47:29 EST 2016 virtual user pfinity_rvd_qa5 uploaded file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_ALERT.TXT
+chmod 600 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_ALERT.TXT
+chown 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_ALERT.TXT
+chgrp 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_ALERT.TXT
+recipient is --pfinity_rvd_qa5-- AND the full targetUid path is ---pfinity_rvd_qa5outpfinity_adl_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:47:30 EST 2016 virtual user pfinity_rvd_qa5 started to upload file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_EXER_ALERT.TXT
+ /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_EXER_ALERT.TXT was not created
+Mon Feb  1 13:47:30 EST 2016 virtual user pfinity_rvd_qa5 uploaded file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_EXER_ALERT.TXT
+chmod 600 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_EXER_ALERT.TXT
+chown 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_EXER_ALERT.TXT
+chgrp 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_EXER_ALERT.TXT
+recipient is --pfinity_rvd_qa5-- AND the full targetUid path is ---pfinity_rvd_qa5outpfinity_adl_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:47:30 EST 2016 virtual user pfinity_rvd_qa5 started to upload file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_IE120_ALERT.TXT
+ /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_IE120_ALERT.TXT was not created
+Mon Feb  1 13:47:31 EST 2016 virtual user pfinity_rvd_qa5 uploaded file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_IE120_ALERT.TXT
+chmod 600 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_IE120_ALERT.TXT
+chown 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_IE120_ALERT.TXT
+chgrp 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_IE120_ALERT.TXT
+recipient is --pfinity_rvd_qa5-- AND the full targetUid path is ---pfinity_rvd_qa5outpfinity_adl_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:47:55 EST 2016 virtual user pfinity_rvd_qa5 started to upload file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUTURE_CONT.TXT
+ /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUTURE_CONT.TXT was not created
+==========================================================================
+Mon Feb  1 13:48:16 EST 2016 virtual user pfinity_rvd_qa5 started to upload file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_transaction_DATA_CNTL.TXT
+ /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_transaction_DATA_CNTL.TXT was not created
+Mon Feb  1 13:48:16 EST 2016 virtual user pfinity_rvd_qa5 uploaded file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_transaction_DATA_CNTL.TXT
+Mon Feb  1 13:48:16 EST 2016 virtual user pfinity_rvd_qa5 uploaded file /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUTURE_CONT.TXT
+chmod 600 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_transaction_DATA_CNTL.TXT
+chmod 600 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUTURE_CONT.TXT
+chown 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_transaction_DATA_CNTL.TXT
+chown 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUTURE_CONT.TXT
+chgrp 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_transaction_DATA_CNTL.TXT
+chgrp 999901083 /export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUTURE_CONT.TXT
+recipient is --pfinity_rvd_qa5-- AND the full targetUid path is ---pfinity_rvd_qa5outpfinity_adl_qa5---
+uploaded file to self.
+recipient is --pfinity_rvd_qa5-- AND the full targetUid path is ---pfinity_rvd_qa5outpfinity_adl_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 13:59:29 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/in/IRONMTN_POLN_201602010915351.zip
+ /export/home/pub/awduat10/in/IRONMTN_POLN_201602010915351.zip was not created
+Mon Feb  1 13:59:32 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/in/IRONMTN_POLN_201602010915351.zip
+chmod 600 /export/home/pub/awduat10/in/IRONMTN_POLN_201602010915351.zip
+chown 9999113 /export/home/pub/awduat10/in/IRONMTN_POLN_201602010915351.zip
+chgrp 9999113 /export/home/pub/awduat10/in/IRONMTN_POLN_201602010915351.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10in---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:00:01 EST 2016 virtual user wmb_cmod_int started to upload file /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf.ind
+ /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf.ind was not created
+==========================================================================
+Mon Feb  1 14:00:01 EST 2016 virtual user wmb_cmod_int started to upload file /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf
+ /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf was not created
+Mon Feb  1 14:00:01 EST 2016 virtual user wmb_cmod_int uploaded file /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf.ind
+chmod 600 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf.ind
+Mon Feb  1 14:00:01 EST 2016 virtual user wmb_cmod_int uploaded file /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf
+chmod 600 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf
+chown 9999228 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf.ind
+chown 9999228 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf
+chgrp 9999228 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf.ind
+chgrp 9999228 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf
+recipient is --wmb_cmod_int-- AND the full targetUid path is ---wmb_cmod_intout---
+uploaded file to self.
+recipient is --wmb_cmod_int-- AND the full targetUid path is ---wmb_cmod_intout---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:00:02 EST 2016 virtual user eedmetaid started to upload file /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+chmod 666 /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+Mon Feb  1 14:00:02 EST 2016 virtual user eedmetaid uploaded file /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+chmod 600 /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+chown 999903464 /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+chgrp 999903464 /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+recipient is --EEDMETAID_TO_bie-- AND the full targetUid path is ---EEDMETAID_TO_biein---
+"Sending e-mail [eedmetaid has sent you a file, please click on this link to view/download-->  extranet user: https://testXYZftps.equitable.com/EEDMETAID_TO_bie/in/  intranet user: https://testXYZftpsinternal.equitable.com/EEDMETAID_TO_bie/in/EBExtractFeed.txt] to "
+==========================================================================
+Mon Feb  1 14:02:08 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201140207.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201140207.zip was not created
+Mon Feb  1 14:02:08 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201140207.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201140207.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201140207.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201140207.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:02:10 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201140209.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201140209.zip was not created
+Mon Feb  1 14:02:10 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201140209.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201140209.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201140209.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201140209.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:02:14 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201140213.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201140213.zip was not created
+Mon Feb  1 14:02:14 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201140213.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201140213.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201140213.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201140213.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:02:18 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201140217.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201140217.zip was not created
+Mon Feb  1 14:02:18 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201140217.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201140217.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201140217.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201140217.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:02:21 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201140220.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201140220.zip was not created
+Mon Feb  1 14:02:22 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201140220.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201140220.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201140220.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201140220.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:04:44 EST 2016 virtual user fd_int started to upload file /export/home/pub/fd_int/String_List.txt
+chmod 666 /export/home/pub/fd_int/String_List.txt
+Mon Feb  1 14:04:45 EST 2016 virtual user fd_int uploaded file /export/home/pub/fd_int/String_List.txt
+chmod 600 /export/home/pub/fd_int/String_List.txt
+chown root /export/home/pub/fd_int/String_List.txt
+chgrp root /export/home/pub/fd_int/String_List.txt
+recipient is --fd_int-- AND the full targetUid path is ---fd_int---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:05:03 EST 2016 virtual user primerica_bie_int started to upload file /export/home/pub/primerica_bie_int/out/AG6407XYZ16020104591.01
+ /export/home/pub/primerica_bie_int/out/AG6407XYZ16020104591.01 was not created
+Mon Feb  1 14:05:04 EST 2016 virtual user primerica_bie_int uploaded file /export/home/pub/primerica_bie_int/out/AG6407XYZ16020104591.01
+chmod 600 /export/home/pub/primerica_bie_int/out/AG6407XYZ16020104591.01
+chown 9999046 /export/home/pub/primerica_bie_int/out/AG6407XYZ16020104591.01
+chgrp 9999046 /export/home/pub/primerica_bie_int/out/AG6407XYZ16020104591.01
+recipient is --primerica_bie_int-- AND the full targetUid path is ---primerica_bie_intout---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:05:04 EST 2016 virtual user primerica_bie_int started to upload file /export/home/pub/primerica_bie_int/out/A6407XYZ16020104929.01
+ /export/home/pub/primerica_bie_int/out/A6407XYZ16020104929.01 was not created
+Mon Feb  1 14:05:06 EST 2016 virtual user primerica_bie_int uploaded file /export/home/pub/primerica_bie_int/out/A6407XYZ16020104929.01
+chmod 600 /export/home/pub/primerica_bie_int/out/A6407XYZ16020104929.01
+chown 9999046 /export/home/pub/primerica_bie_int/out/A6407XYZ16020104929.01
+chgrp 9999046 /export/home/pub/primerica_bie_int/out/A6407XYZ16020104929.01
+recipient is --primerica_bie_int-- AND the full targetUid path is ---primerica_bie_intout---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:10:16 EST 2016 virtual user fd_int started to upload file /export/home/pub/fd_int/String_List.txt
+chmod 666 /export/home/pub/fd_int/String_List.txt
+Mon Feb  1 14:10:17 EST 2016 virtual user fd_int uploaded file /export/home/pub/fd_int/String_List.txt
+chmod 600 /export/home/pub/fd_int/String_List.txt
+chown root /export/home/pub/fd_int/String_List.txt
+chgrp root /export/home/pub/fd_int/String_List.txt
+recipient is --fd_int-- AND the full targetUid path is ---fd_int---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:10:26 EST 2016 virtual user etransactiondev started to upload file /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPG3_D_M_20160201191025.TXT
+ /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPG3_D_M_20160201191025.TXT was not created
+Mon Feb  1 14:10:27 EST 2016 virtual user etransactiondev uploaded file /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPG3_D_M_20160201191025.TXT
+chmod 600 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPG3_D_M_20160201191025.TXT
+chown 9999092 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPG3_D_M_20160201191025.TXT
+chgrp 9999092 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPG3_D_M_20160201191025.TXT
+recipient is --etransactiondev-- AND the full targetUid path is ---etransactiondevuploadsetransactionenvironmentABCrrdin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:11:14 EST 2016 virtual user etransactiondev started to upload file /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPOL_D_M_20160201191113.TXT
+ /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPOL_D_M_20160201191113.TXT was not created
+Mon Feb  1 14:11:15 EST 2016 virtual user etransactiondev uploaded file /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPOL_D_M_20160201191113.TXT
+chmod 600 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPOL_D_M_20160201191113.TXT
+chown 9999092 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPOL_D_M_20160201191113.TXT
+chgrp 9999092 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPOL_D_M_20160201191113.TXT
+recipient is --etransactiondev-- AND the full targetUid path is ---etransactiondevuploadsetransactionenvironmentABCrrdin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:13:07 EST 2016 virtual user etransactiondev started to upload file /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CMIX_D_M_20160201191306.TXT
+ /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CMIX_D_M_20160201191306.TXT was not created
+Mon Feb  1 14:13:08 EST 2016 virtual user etransactiondev uploaded file /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CMIX_D_M_20160201191306.TXT
+chmod 600 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CMIX_D_M_20160201191306.TXT
+chown 9999092 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CMIX_D_M_20160201191306.TXT
+chgrp 9999092 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CMIX_D_M_20160201191306.TXT
+recipient is --etransactiondev-- AND the full targetUid path is ---etransactiondevuploadsetransactionenvironmentABCrrdin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:13:34 EST 2016 virtual user etransactiondev started to upload file /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APG3_D_M_20160201191333.TXT
+ /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APG3_D_M_20160201191333.TXT was not created
+Mon Feb  1 14:13:34 EST 2016 virtual user etransactiondev uploaded file /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APG3_D_M_20160201191333.TXT
+chmod 600 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APG3_D_M_20160201191333.TXT
+chown 9999092 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APG3_D_M_20160201191333.TXT
+chgrp 9999092 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APG3_D_M_20160201191333.TXT
+recipient is --etransactiondev-- AND the full targetUid path is ---etransactiondevuploadsetransactionenvironmentABCrrdin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:14:00 EST 2016 virtual user etransactiondev started to upload file /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201191359.TXT
+ /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201191359.TXT was not created
+Mon Feb  1 14:14:00 EST 2016 virtual user etransactiondev uploaded file /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201191359.TXT
+chmod 600 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201191359.TXT
+chown 9999092 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201191359.TXT
+chgrp 9999092 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201191359.TXT
+recipient is --etransactiondev-- AND the full targetUid path is ---etransactiondevuploadsetransactionenvironmentABCrrdin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:14:25 EST 2016 virtual user etransactiondev started to upload file /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201191425.TXT
+ /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201191425.TXT was not created
+Mon Feb  1 14:14:26 EST 2016 virtual user etransactiondev uploaded file /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201191425.TXT
+chmod 600 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201191425.TXT
+chown 9999092 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201191425.TXT
+chgrp 9999092 /export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201191425.TXT
+recipient is --etransactiondev-- AND the full targetUid path is ---etransactiondevuploadsetransactionenvironmentABCrrdin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:15:04 EST 2016 virtual user wmb_bpel_int started to upload file /export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC
+ /export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC was not created
+Mon Feb  1 14:15:04 EST 2016 virtual user wmb_bpel_int uploaded file /export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC
+chmod 600 /export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC
+chown 9999240 /export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC
+chgrp 9999240 /export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC
+recipient is --wmb_bpel_int-- AND the full targetUid path is ---wmb_bpel_intout---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:16:37 EST 2016 virtual user awd_to_qa6_int started to upload file /export/home/pub/awd_to_qa6_int/in/NOCEM091615135032195.zip
+ /export/home/pub/awd_to_qa6_int/in/NOCEM091615135032195.zip was not created
+Mon Feb  1 14:16:37 EST 2016 virtual user awd_to_qa6_int uploaded file /export/home/pub/awd_to_qa6_int/in/NOCEM091615135032195.zip
+chmod 600 /export/home/pub/awd_to_qa6_int/in/NOCEM091615135032195.zip
+chown 999903264 /export/home/pub/awd_to_qa6_int/in/NOCEM091615135032195.zip
+chgrp 999903264 /export/home/pub/awd_to_qa6_int/in/NOCEM091615135032195.zip
+recipient is --awd_to_qa6_int-- AND the full targetUid path is ---awd_to_qa6_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:21:39 EST 2016 virtual user wmb_bpel_int started to upload file /export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC
+chmod 666 /export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC
+Mon Feb  1 14:21:39 EST 2016 virtual user wmb_bpel_int uploaded file /export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC
+chmod 600 /export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC
+chown 9999240 /export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC
+chgrp 9999240 /export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC
+recipient is --wmb_bpel_int-- AND the full targetUid path is ---wmb_bpel_intout---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:22:52 EST 2016 virtual user awd_to_qa6_int started to upload file /export/home/pub/awd_to_qa6_int/in/NOCEM102615141639158.zip
+ /export/home/pub/awd_to_qa6_int/in/NOCEM102615141639158.zip was not created
+Mon Feb  1 14:22:53 EST 2016 virtual user awd_to_qa6_int uploaded file /export/home/pub/awd_to_qa6_int/in/NOCEM102615141639158.zip
+chmod 600 /export/home/pub/awd_to_qa6_int/in/NOCEM102615141639158.zip
+chown 999903264 /export/home/pub/awd_to_qa6_int/in/NOCEM102615141639158.zip
+chgrp 999903264 /export/home/pub/awd_to_qa6_int/in/NOCEM102615141639158.zip
+recipient is --awd_to_qa6_int-- AND the full targetUid path is ---awd_to_qa6_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:24:44 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201142443.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201142443.zip was not created
+Mon Feb  1 14:24:45 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201142443.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201142443.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201142443.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201142443.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:24:47 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201142446.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201142446.zip was not created
+Mon Feb  1 14:24:48 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201142446.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201142446.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201142446.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201142446.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:24:50 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201142449.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201142449.zip was not created
+Mon Feb  1 14:24:50 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201142449.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201142449.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201142449.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201142449.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:24:52 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201142451.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201142451.zip was not created
+Mon Feb  1 14:24:53 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201142451.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201142451.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201142451.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201142451.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:24:55 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201142455.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201142455.zip was not created
+Mon Feb  1 14:24:56 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201142455.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201142455.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201142455.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201142455.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:33:41 EST 2016 virtual user pfinity_bie_uat started to upload file /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_01_pfs.txt
+ /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_01_pfs.txt was not created
+Mon Feb  1 14:33:42 EST 2016 virtual user pfinity_bie_uat uploaded file /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_01_pfs.txt
+chmod 600 /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_01_pfs.txt
+chown 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_01_pfs.txt
+chgrp 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_01_pfs.txt
+recipient is --pfinity_bie_uat-- AND the full targetUid path is ---pfinity_bie_uatoutpfinity_nbfe_uat---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:38:07 EST 2016 virtual user pfinity_wma_qa5 started to upload file /export/home/pub/pfinity_wma_qa5/out/pfinity_rvd_qa5/KKTP.U8XYZMPE.REFfile.EXTRACT
+ /export/home/pub/pfinity_wma_qa5/out/pfinity_rvd_qa5/KKTP.U8XYZMPE.REFfile.EXTRACT was not created
+Mon Feb  1 14:38:08 EST 2016 virtual user pfinity_wma_qa5 uploaded file /export/home/pub/pfinity_wma_qa5/out/pfinity_rvd_qa5/KKTP.U8XYZMPE.REFfile.EXTRACT
+chmod 600 /export/home/pub/pfinity_wma_qa5/out/pfinity_rvd_qa5/KKTP.U8XYZMPE.REFfile.EXTRACT
+chown 999901088 /export/home/pub/pfinity_wma_qa5/out/pfinity_rvd_qa5/KKTP.U8XYZMPE.REFfile.EXTRACT
+chgrp 999901088 /export/home/pub/pfinity_wma_qa5/out/pfinity_rvd_qa5/KKTP.U8XYZMPE.REFfile.EXTRACT
+recipient is --pfinity_wma_qa5-- AND the full targetUid path is ---pfinity_wma_qa5outpfinity_rvd_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:40:06 EST 2016 virtual user pfinity_v1_qa5 started to upload file /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT
+ /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT was not created
+Mon Feb  1 14:40:07 EST 2016 virtual user pfinity_v1_qa5 uploaded file /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT
+chmod 600 /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT
+chown 999901084 /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT
+chgrp 999901084 /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT
+recipient is --pfinity_v1_qa5-- AND the full targetUid path is ---pfinity_v1_qa5outpfinity_bie_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:40:59 EST 2016 virtual user pfinity_bie_uat started to upload file /export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011436.xml
+ /export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011436.xml was not created
+Mon Feb  1 14:40:59 EST 2016 virtual user pfinity_bie_uat uploaded file /export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011436.xml
+chmod 600 /export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011436.xml
+chown 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011436.xml
+chgrp 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011436.xml
+recipient is --pfinity_bie_uat-- AND the full targetUid path is ---pfinity_bie_uatoutpfinity_biert_uat---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:41:02 EST 2016 virtual user pfinity_biert_uat started to upload file /export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A
+ /export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A was not created
+==========================================================================
+Mon Feb  1 14:41:02 EST 2016 virtual user pfinity_bie_uat started to upload file /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt
+ /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt was not created
+Mon Feb  1 14:41:02 EST 2016 virtual user pfinity_biert_uat uploaded file /export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A
+chmod 600 /export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A
+Mon Feb  1 14:41:02 EST 2016 virtual user pfinity_bie_uat uploaded file /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt
+chmod 600 /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt
+chown 999900977 /export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A
+chown 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt
+chgrp 999900977 /export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A
+chgrp 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt
+recipient is --pfinity_biert_uat-- AND the full targetUid path is ---pfinity_biert_uatout---
+uploaded file to self.
+recipient is --pfinity_bie_uat-- AND the full targetUid path is ---pfinity_bie_uatoutpfinity_nbfe_uat---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:41:05 EST 2016 virtual user pfinity_bie_uat started to upload file /export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL1.CYC1.APPFILE.POLNUM
+ /export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL1.CYC1.APPFILE.POLNUM was not created
+Mon Feb  1 14:41:05 EST 2016 virtual user pfinity_bie_uat uploaded file /export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL1.CYC1.APPFILE.POLNUM
+chmod 600 /export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL1.CYC1.APPFILE.POLNUM
+chown 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL1.CYC1.APPFILE.POLNUM
+chgrp 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL1.CYC1.APPFILE.POLNUM
+recipient is --pfinity_bie_uat-- AND the full targetUid path is ---pfinity_bie_uatoutpfinity_rvd_uat---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:41:08 EST 2016 virtual user pfinity_bie_uat started to upload file /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011436.xml
+ /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011436.xml was not created
+Mon Feb  1 14:41:08 EST 2016 virtual user pfinity_bie_uat uploaded file /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011436.xml
+chmod 600 /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011436.xml
+chown 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011436.xml
+chgrp 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011436.xml
+recipient is --pfinity_bie_uat-- AND the full targetUid path is ---pfinity_bie_uatoutpfinity_exp_uat---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:41:11 EST 2016 virtual user pfinity_bie_uat started to upload file /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011436.xml
+ /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011436.xml was not created
+Mon Feb  1 14:41:11 EST 2016 virtual user pfinity_bie_uat uploaded file /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011436.xml
+chmod 600 /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011436.xml
+chown 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011436.xml
+chgrp 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011436.xml
+recipient is --pfinity_bie_uat-- AND the full targetUid path is ---pfinity_bie_uatoutpfinity_exp_uat---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:41:41 EST 2016 virtual user ff_bie_int started to upload file /export/home/pub/ff_bie_int/in/FF_CONTROL
+chmod 666 /export/home/pub/ff_bie_int/in/FF_CONTROL
+==========================================================================
+Mon Feb  1 14:41:42 EST 2016 virtual user ff_bie_int started to upload file /export/home/pub/ff_bie_int/in/FF_PERSON
+chmod 666 /export/home/pub/ff_bie_int/in/FF_PERSON
+Mon Feb  1 14:41:42 EST 2016 virtual user ff_bie_int uploaded file /export/home/pub/ff_bie_int/in/FF_CONTROL
+chmod 600 /export/home/pub/ff_bie_int/in/FF_CONTROL
+chown 999903474 /export/home/pub/ff_bie_int/in/FF_CONTROL
+chgrp 999903474 /export/home/pub/ff_bie_int/in/FF_CONTROL
+recipient is --ff_bie_int-- AND the full targetUid path is ---ff_bie_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:41:43 EST 2016 virtual user ff_bie_int started to upload file /export/home/pub/ff_bie_int/in/FF_ORGANIZATION
+chmod 666 /export/home/pub/ff_bie_int/in/FF_ORGANIZATION
+Mon Feb  1 14:41:43 EST 2016 virtual user ff_bie_int uploaded file /export/home/pub/ff_bie_int/in/FF_PERSON
+chmod 600 /export/home/pub/ff_bie_int/in/FF_PERSON
+chown 999903474 /export/home/pub/ff_bie_int/in/FF_PERSON
+chgrp 999903474 /export/home/pub/ff_bie_int/in/FF_PERSON
+recipient is --ff_bie_int-- AND the full targetUid path is ---ff_bie_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:41:44 EST 2016 virtual user ff_bie_int started to upload file /export/home/pub/ff_bie_int/in/FF_AGREEMENT
+chmod 666 /export/home/pub/ff_bie_int/in/FF_AGREEMENT
+Mon Feb  1 14:41:44 EST 2016 virtual user ff_bie_int uploaded file /export/home/pub/ff_bie_int/in/FF_ORGANIZATION
+chmod 600 /export/home/pub/ff_bie_int/in/FF_ORGANIZATION
+chown 999903474 /export/home/pub/ff_bie_int/in/FF_ORGANIZATION
+chgrp 999903474 /export/home/pub/ff_bie_int/in/FF_ORGANIZATION
+recipient is --ff_bie_int-- AND the full targetUid path is ---ff_bie_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:41:45 EST 2016 virtual user ff_bie_int started to upload file /export/home/pub/ff_bie_int/in/FF_CONTACT_POINT
+chmod 666 /export/home/pub/ff_bie_int/in/FF_CONTACT_POINT
+Mon Feb  1 14:41:45 EST 2016 virtual user ff_bie_int uploaded file /export/home/pub/ff_bie_int/in/FF_AGREEMENT
+chmod 600 /export/home/pub/ff_bie_int/in/FF_AGREEMENT
+chown 999903474 /export/home/pub/ff_bie_int/in/FF_AGREEMENT
+chgrp 999903474 /export/home/pub/ff_bie_int/in/FF_AGREEMENT
+recipient is --ff_bie_int-- AND the full targetUid path is ---ff_bie_intin---
+uploaded file to self.
+Mon Feb  1 14:41:49 EST 2016 virtual user ff_bie_int uploaded file /export/home/pub/ff_bie_int/in/FF_CONTACT_POINT
+chmod 600 /export/home/pub/ff_bie_int/in/FF_CONTACT_POINT
+chown 999903474 /export/home/pub/ff_bie_int/in/FF_CONTACT_POINT
+chgrp 999903474 /export/home/pub/ff_bie_int/in/FF_CONTACT_POINT
+recipient is --ff_bie_int-- AND the full targetUid path is ---ff_bie_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:41:49 EST 2016 virtual user ff_bie_int started to upload file /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_CONTACT_POINT
+chmod 666 /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_CONTACT_POINT
+Mon Feb  1 14:41:50 EST 2016 virtual user ff_bie_int uploaded file /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_CONTACT_POINT
+chmod 600 /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_CONTACT_POINT
+chown 999903474 /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_CONTACT_POINT
+chgrp 999903474 /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_CONTACT_POINT
+recipient is --ff_bie_int-- AND the full targetUid path is ---ff_bie_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:41:50 EST 2016 virtual user ff_bie_int started to upload file /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_AGREEMENT
+chmod 666 /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_AGREEMENT
+Mon Feb  1 14:41:57 EST 2016 virtual user ff_bie_int uploaded file /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_AGREEMENT
+chmod 600 /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_AGREEMENT
+==========================================================================
+chown 999903474 /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_AGREEMENT
+Mon Feb  1 14:41:57 EST 2016 virtual user ff_bie_int started to upload file /export/home/pub/ff_bie_int/in/FF_PARTY_NAME
+chmod 666 /export/home/pub/ff_bie_int/in/FF_PARTY_NAME
+chgrp 999903474 /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_AGREEMENT
+recipient is --ff_bie_int-- AND the full targetUid path is ---ff_bie_intin---
+uploaded file to self.
+Mon Feb  1 14:41:58 EST 2016 virtual user ff_bie_int uploaded file /export/home/pub/ff_bie_int/in/FF_PARTY_NAME
+chmod 600 /export/home/pub/ff_bie_int/in/FF_PARTY_NAME
+chown 999903474 /export/home/pub/ff_bie_int/in/FF_PARTY_NAME
+chgrp 999903474 /export/home/pub/ff_bie_int/in/FF_PARTY_NAME
+recipient is --ff_bie_int-- AND the full targetUid path is ---ff_bie_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:41:58 EST 2016 virtual user ff_bie_int started to upload file /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_RELATIONSHIP
+chmod 666 /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_RELATIONSHIP
+==========================================================================
+Mon Feb  1 14:41:59 EST 2016 virtual user ff_bie_int started to upload file /export/home/pub/ff_bie_int/in/FF_INTERMEDIARY
+chmod 666 /export/home/pub/ff_bie_int/in/FF_INTERMEDIARY
+Mon Feb  1 14:41:59 EST 2016 virtual user ff_bie_int uploaded file /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_RELATIONSHIP
+chmod 600 /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_RELATIONSHIP
+chown 999903474 /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_RELATIONSHIP
+chgrp 999903474 /export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_RELATIONSHIP
+recipient is --ff_bie_int-- AND the full targetUid path is ---ff_bie_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:42:00 EST 2016 virtual user ff_bie_int started to upload file /export/home/pub/ff_bie_int/in/FF_PRIVACY
+Mon Feb  1 14:42:00 EST 2016 virtual user ff_bie_int uploaded file /export/home/pub/ff_bie_int/in/FF_INTERMEDIARY
+chmod 666 /export/home/pub/ff_bie_int/in/FF_PRIVACY
+chmod 600 /export/home/pub/ff_bie_int/in/FF_INTERMEDIARY
+chown 999903474 /export/home/pub/ff_bie_int/in/FF_INTERMEDIARY
+chgrp 999903474 /export/home/pub/ff_bie_int/in/FF_INTERMEDIARY
+recipient is --ff_bie_int-- AND the full targetUid path is ---ff_bie_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:42:01 EST 2016 virtual user ff_bie_int started to upload file /export/home/pub/ff_bie_int/in/FF_PARTY
+chmod 666 /export/home/pub/ff_bie_int/in/FF_PARTY
+Mon Feb  1 14:42:01 EST 2016 virtual user ff_bie_int uploaded file /export/home/pub/ff_bie_int/in/FF_PRIVACY
+chmod 600 /export/home/pub/ff_bie_int/in/FF_PRIVACY
+chown 999903474 /export/home/pub/ff_bie_int/in/FF_PRIVACY
+chgrp 999903474 /export/home/pub/ff_bie_int/in/FF_PRIVACY
+recipient is --ff_bie_int-- AND the full targetUid path is ---ff_bie_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:42:02 EST 2016 virtual user ff_bie_int started to upload file /export/home/pub/ff_bie_int/in/FF_GULNO
+chmod 666 /export/home/pub/ff_bie_int/in/FF_GULNO
+Mon Feb  1 14:42:02 EST 2016 virtual user ff_bie_int uploaded file /export/home/pub/ff_bie_int/in/FF_GULNO
+Mon Feb  1 14:42:02 EST 2016 virtual user ff_bie_int uploaded file /export/home/pub/ff_bie_int/in/FF_PARTY
+chmod 600 /export/home/pub/ff_bie_int/in/FF_PARTY
+chmod 600 /export/home/pub/ff_bie_int/in/FF_GULNO
+chown 999903474 /export/home/pub/ff_bie_int/in/FF_PARTY
+chown 999903474 /export/home/pub/ff_bie_int/in/FF_GULNO
+chgrp 999903474 /export/home/pub/ff_bie_int/in/FF_PARTY
+chgrp 999903474 /export/home/pub/ff_bie_int/in/FF_GULNO
+recipient is --ff_bie_int-- AND the full targetUid path is ---ff_bie_intin---
+uploaded file to self.
+recipient is --ff_bie_int-- AND the full targetUid path is ---ff_bie_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:43:48 EST 2016 virtual user pcdst started to upload file /export/home/pub/pcdst/in/Nava_6407XYZ16020114925.zip
+ /export/home/pub/pcdst/in/Nava_6407XYZ16020114925.zip was not created
+Mon Feb  1 14:43:49 EST 2016 virtual user pcdst uploaded file /export/home/pub/pcdst/in/Nava_6407XYZ16020114925.zip
+chmod 600 /export/home/pub/pcdst/in/Nava_6407XYZ16020114925.zip
+chown 99990354 /export/home/pub/pcdst/in/Nava_6407XYZ16020114925.zip
+chgrp 99990354 /export/home/pub/pcdst/in/Nava_6407XYZ16020114925.zip
+recipient is --pcdst-- AND the full targetUid path is ---pcdstin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:44:13 EST 2016 virtual user pcdst started to upload file /export/home/pub/pcdst/in/Nava_6407XYZ16020114924.zip
+ /export/home/pub/pcdst/in/Nava_6407XYZ16020114924.zip was not created
+Mon Feb  1 14:44:14 EST 2016 virtual user pcdst uploaded file /export/home/pub/pcdst/in/Nava_6407XYZ16020114924.zip
+chmod 600 /export/home/pub/pcdst/in/Nava_6407XYZ16020114924.zip
+chown 99990354 /export/home/pub/pcdst/in/Nava_6407XYZ16020114924.zip
+chgrp 99990354 /export/home/pub/pcdst/in/Nava_6407XYZ16020114924.zip
+recipient is --pcdst-- AND the full targetUid path is ---pcdstin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:44:45 EST 2016 virtual user pcdst started to upload file /export/home/pub/pcdst/in/Nava_6407XYZ16020114927.zip
+ /export/home/pub/pcdst/in/Nava_6407XYZ16020114927.zip was not created
+Mon Feb  1 14:44:45 EST 2016 virtual user pcdst uploaded file /export/home/pub/pcdst/in/Nava_6407XYZ16020114927.zip
+chmod 600 /export/home/pub/pcdst/in/Nava_6407XYZ16020114927.zip
+chown 99990354 /export/home/pub/pcdst/in/Nava_6407XYZ16020114927.zip
+chgrp 99990354 /export/home/pub/pcdst/in/Nava_6407XYZ16020114927.zip
+recipient is --pcdst-- AND the full targetUid path is ---pcdstin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:52:23 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201145222.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201145222.zip was not created
+Mon Feb  1 14:52:24 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201145222.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201145222.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201145222.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201145222.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:52:26 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201145225.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201145225.zip was not created
+Mon Feb  1 14:52:26 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201145225.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201145225.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201145225.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201145225.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:52:29 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201145228.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201145228.zip was not created
+Mon Feb  1 14:52:30 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201145228.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201145228.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201145228.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201145228.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:52:32 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201145231.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201145231.zip was not created
+Mon Feb  1 14:52:32 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201145231.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201145231.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201145231.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201145231.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 14:52:35 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201145235.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201145235.zip was not created
+Mon Feb  1 14:52:36 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201145235.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201145235.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201145235.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201145235.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:00:02 EST 2016 virtual user eedmetaid started to upload file /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+chmod 666 /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+Mon Feb  1 15:00:03 EST 2016 virtual user eedmetaid uploaded file /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+chmod 600 /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+chown 999903464 /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+chgrp 999903464 /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+recipient is --EEDMETAID_TO_bie-- AND the full targetUid path is ---EEDMETAID_TO_biein---
+"Sending e-mail [eedmetaid has sent you a file, please click on this link to view/download-->  extranet user: https://testXYZftps.equitable.com/EEDMETAID_TO_bie/in/  intranet user: https://testXYZftpsinternal.equitable.com/EEDMETAID_TO_bie/in/EBExtractFeed.txt] to "
+==========================================================================
+Mon Feb  1 15:00:29 EST 2016 virtual user l2012bie_int started to upload file /export/home/pub/l2012bie_int/out/l2012olsa_int/NBACOLLN_020116150013
+ /export/home/pub/l2012bie_int/out/l2012olsa_int/NBACOLLN_020116150013 was not created
+Mon Feb  1 15:00:30 EST 2016 virtual user l2012bie_int uploaded file /export/home/pub/l2012bie_int/out/l2012olsa_int/NBACOLLN_020116150013
+chmod 600 /export/home/pub/l2012bie_int/out/l2012olsa_int/NBACOLLN_020116150013
+chown 999901069 /export/home/pub/l2012bie_int/out/l2012olsa_int/NBACOLLN_020116150013
+chgrp 99990001 /export/home/pub/l2012bie_int/out/l2012olsa_int/NBACOLLN_020116150013
+recipient is --l2012bie_int-- AND the full targetUid path is ---l2012bie_intoutl2012olsa_int---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:00:42 EST 2016 virtual user l2012bie_int started to upload file /export/home/pub/l2012bie_int/out/l2012tai_int/L2012_20160201_1500.TXT
+ /export/home/pub/l2012bie_int/out/l2012tai_int/L2012_20160201_1500.TXT was not created
+Mon Feb  1 15:00:43 EST 2016 virtual user l2012bie_int uploaded file /export/home/pub/l2012bie_int/out/l2012tai_int/L2012_20160201_1500.TXT
+chmod 600 /export/home/pub/l2012bie_int/out/l2012tai_int/L2012_20160201_1500.TXT
+chown 999901069 /export/home/pub/l2012bie_int/out/l2012tai_int/L2012_20160201_1500.TXT
+chgrp 99990001 /export/home/pub/l2012bie_int/out/l2012tai_int/L2012_20160201_1500.TXT
+recipient is --l2012bie_int-- AND the full targetUid path is ---l2012bie_intoutl2012tai_int---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:00:46 EST 2016 virtual user l2012bie_int started to upload file /export/home/pub/l2012bie_int/out/l2012checkwriting_int/NBAFILE_020116150013
+ /export/home/pub/l2012bie_int/out/l2012checkwriting_int/NBAFILE_020116150013 was not created
+Mon Feb  1 15:00:47 EST 2016 virtual user l2012bie_int uploaded file /export/home/pub/l2012bie_int/out/l2012checkwriting_int/NBAFILE_020116150013
+chmod 600 /export/home/pub/l2012bie_int/out/l2012checkwriting_int/NBAFILE_020116150013
+chown 999901069 /export/home/pub/l2012bie_int/out/l2012checkwriting_int/NBAFILE_020116150013
+chgrp 99990001 /export/home/pub/l2012bie_int/out/l2012checkwriting_int/NBAFILE_020116150013
+recipient is --l2012bie_int-- AND the full targetUid path is ---l2012bie_intoutl2012checkwriting_int---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:14:08 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201151407.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201151407.zip was not created
+Mon Feb  1 15:14:08 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201151407.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201151407.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201151407.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201151407.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:14:10 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201151410.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201151410.zip was not created
+Mon Feb  1 15:14:11 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201151410.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201151410.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201151410.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201151410.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:14:13 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201151413.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201151413.zip was not created
+Mon Feb  1 15:14:14 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201151413.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201151413.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201151413.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201151413.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:14:16 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201151415.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201151415.zip was not created
+Mon Feb  1 15:14:17 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201151415.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201151415.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201151415.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201151415.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:14:19 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201151418.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201151418.zip was not created
+Mon Feb  1 15:14:20 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201151418.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201151418.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201151418.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201151418.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:19:05 EST 2016 virtual user awd_to_qa6_int started to upload file /export/home/pub/awd_to_qa6_int/in/NOCEM012616094045895.zip
+ /export/home/pub/awd_to_qa6_int/in/NOCEM012616094045895.zip was not created
+Mon Feb  1 15:19:05 EST 2016 virtual user awd_to_qa6_int uploaded file /export/home/pub/awd_to_qa6_int/in/NOCEM012616094045895.zip
+chmod 600 /export/home/pub/awd_to_qa6_int/in/NOCEM012616094045895.zip
+chown 999903264 /export/home/pub/awd_to_qa6_int/in/NOCEM012616094045895.zip
+chgrp 999903264 /export/home/pub/awd_to_qa6_int/in/NOCEM012616094045895.zip
+recipient is --awd_to_qa6_int-- AND the full targetUid path is ---awd_to_qa6_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:20:31 EST 2016 virtual user fd_int started to upload file /export/home/pub/fd_int/in/UAT_CA7_JobList.txt
+chmod 666 /export/home/pub/fd_int/in/UAT_CA7_JobList.txt
+Mon Feb  1 15:20:31 EST 2016 virtual user fd_int uploaded file /export/home/pub/fd_int/in/UAT_CA7_JobList.txt
+chmod 600 /export/home/pub/fd_int/in/UAT_CA7_JobList.txt
+chown root /export/home/pub/fd_int/in/UAT_CA7_JobList.txt
+chgrp root /export/home/pub/fd_int/in/UAT_CA7_JobList.txt
+recipient is --fd_int-- AND the full targetUid path is ---fd_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:21:52 EST 2016 virtual user bie_xpression_int started to upload file /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1520.xml
+ /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1520.xml was not created
+Mon Feb  1 15:21:52 EST 2016 virtual user bie_xpression_int uploaded file /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1520.xml
+chmod 600 /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1520.xml
+chown 999903488 /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1520.xml
+chgrp 999903488 /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1520.xml
+recipient is --bie_xpression_int-- AND the full targetUid path is ---bie_xpression_intoutUAT---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:24:34 EST 2016 virtual user bie_xpression_int started to upload file /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1524.xml
+ /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1524.xml was not created
+Mon Feb  1 15:24:34 EST 2016 virtual user bie_xpression_int uploaded file /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1524.xml
+chmod 600 /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1524.xml
+chown 999903488 /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1524.xml
+chgrp 999903488 /export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1524.xml
+recipient is --bie_xpression_int-- AND the full targetUid path is ---bie_xpression_intoutUAT---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:30:01 EST 2016 virtual user wmb_cmod_int started to upload file /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf.ind
+ /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf.ind was not created
+==========================================================================
+Mon Feb  1 15:30:01 EST 2016 virtual user wmb_cmod_int started to upload file /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf
+ /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf was not created
+Mon Feb  1 15:30:02 EST 2016 virtual user wmb_cmod_int uploaded file /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf
+Mon Feb  1 15:30:02 EST 2016 virtual user wmb_cmod_int uploaded file /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf.ind
+chmod 600 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf
+chmod 600 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf.ind
+chown 9999228 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf.ind
+chown 9999228 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf
+chgrp 9999228 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf.ind
+chgrp 9999228 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf
+recipient is --wmb_cmod_int-- AND the full targetUid path is ---wmb_cmod_intout---
+uploaded file to self.
+recipient is --wmb_cmod_int-- AND the full targetUid path is ---wmb_cmod_intout---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:42:28 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201154228.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201154228.zip was not created
+Mon Feb  1 15:42:29 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201154228.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201154228.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201154228.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201154228.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:42:31 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201154230.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201154230.zip was not created
+Mon Feb  1 15:42:32 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201154230.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201154230.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201154230.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201154230.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:42:34 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201154233.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201154233.zip was not created
+Mon Feb  1 15:42:35 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201154233.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201154233.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201154233.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201154233.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:42:36 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201154235.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201154235.zip was not created
+Mon Feb  1 15:42:37 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201154235.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201154235.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201154235.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201154235.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:42:40 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201154239.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201154239.zip was not created
+Mon Feb  1 15:42:41 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201154239.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201154239.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201154239.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201154239.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:48:35 EST 2016 virtual user pcXYZ started to upload file /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201154887596000019.zip
+ /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201154887596000019.zip was not created
+Mon Feb  1 15:48:35 EST 2016 virtual user pcXYZ uploaded file /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201154887596000019.zip
+chmod 600 /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201154887596000019.zip
+chown 99990353 /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201154887596000019.zip
+chgrp 99990353 /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201154887596000019.zip
+recipient is --pcXYZ-- AND the full targetUid path is ---pcXYZoutpcdst---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:49:40 EST 2016 virtual user pfinity_v1_qa5 started to upload file /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT
+ /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT was not created
+Mon Feb  1 15:49:41 EST 2016 virtual user pfinity_v1_qa5 uploaded file /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT
+chmod 600 /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT
+chown 999901084 /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT
+chgrp 999901084 /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT
+recipient is --pfinity_v1_qa5-- AND the full targetUid path is ---pfinity_v1_qa5outpfinity_bie_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:49:45 EST 2016 virtual user pcXYZ started to upload file /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201154976457400029.zip
+ /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201154976457400029.zip was not created
+==========================================================================
+Mon Feb  1 15:49:45 EST 2016 virtual user awdnb2 started to upload file /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201154976457400029.pdf
+ /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201154976457400029.pdf was not created
+Mon Feb  1 15:49:45 EST 2016 virtual user pcXYZ uploaded file /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201154976457400029.zip
+Mon Feb  1 15:49:45 EST 2016 virtual user awdnb2 uploaded file /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201154976457400029.pdf
+chmod 600 /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201154976457400029.zip
+chmod 600 /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201154976457400029.pdf
+chown 99990353 /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201154976457400029.zip
+chown 999901156 /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201154976457400029.pdf
+chgrp 99990353 /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201154976457400029.zip
+chgrp 999901156 /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201154976457400029.pdf
+recipient is --pcXYZ-- AND the full targetUid path is ---pcXYZoutpcdst---
+uploaded file to self.
+recipient is --awdnb2-- AND the full targetUid path is ---awdnb2outwin_awdnb2_int---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:50:04 EST 2016 virtual user oaasftp_int started to upload file /export/home/pub/oaasftp_int/in/CAPSBeneUpdate
+chmod 666 /export/home/pub/oaasftp_int/in/CAPSBeneUpdate
+Mon Feb  1 15:50:04 EST 2016 virtual user oaasftp_int uploaded file /export/home/pub/oaasftp_int/in/CAPSBeneUpdate
+chmod 600 /export/home/pub/oaasftp_int/in/CAPSBeneUpdate
+chown 999903381 /export/home/pub/oaasftp_int/in/CAPSBeneUpdate
+chgrp 999903381 /export/home/pub/oaasftp_int/in/CAPSBeneUpdate
+recipient is --oaasftp_int-- AND the full targetUid path is ---oaasftp_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:50:05 EST 2016 virtual user oaasftp_int started to upload file /export/home/pub/oaasftp_int/in/CAPSSystematicUpdate
+chmod 666 /export/home/pub/oaasftp_int/in/CAPSSystematicUpdate
+Mon Feb  1 15:50:05 EST 2016 virtual user oaasftp_int uploaded file /export/home/pub/oaasftp_int/in/CAPSSystematicUpdate
+chmod 600 /export/home/pub/oaasftp_int/in/CAPSSystematicUpdate
+chown 999903381 /export/home/pub/oaasftp_int/in/CAPSSystematicUpdate
+chgrp 999903381 /export/home/pub/oaasftp_int/in/CAPSSystematicUpdate
+recipient is --oaasftp_int-- AND the full targetUid path is ---oaasftp_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:50:05 EST 2016 virtual user oaasftp_int started to upload file /export/home/pub/oaasftp_int/in/CAPSModeUpdate
+chmod 666 /export/home/pub/oaasftp_int/in/CAPSModeUpdate
+==========================================================================
+Mon Feb  1 15:50:06 EST 2016 virtual user oaasftp_int started to upload file /export/home/pub/oaasftp_int/in/CAPSBillingUpdate
+chmod 666 /export/home/pub/oaasftp_int/in/CAPSBillingUpdate
+==========================================================================
+Mon Feb  1 15:50:06 EST 2016 virtual user pfinity_v1_qa5 started to upload file /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT
+ /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT was not created
+Mon Feb  1 15:50:06 EST 2016 virtual user oaasftp_int uploaded file /export/home/pub/oaasftp_int/in/CAPSBillingUpdate
+Mon Feb  1 15:50:06 EST 2016 virtual user pfinity_v1_qa5 uploaded file /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT
+Mon Feb  1 15:50:06 EST 2016 virtual user oaasftp_int uploaded file /export/home/pub/oaasftp_int/in/CAPSModeUpdate
+chmod 600 /export/home/pub/oaasftp_int/in/CAPSBillingUpdate
+chmod 600 /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT
+chmod 600 /export/home/pub/oaasftp_int/in/CAPSModeUpdate
+chown 999903381 /export/home/pub/oaasftp_int/in/CAPSBillingUpdate
+chown 999901084 /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT
+chown 999903381 /export/home/pub/oaasftp_int/in/CAPSModeUpdate
+chgrp 999903381 /export/home/pub/oaasftp_int/in/CAPSBillingUpdate
+chgrp 999901084 /export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT
+recipient is --oaasftp_int-- AND the full targetUid path is ---oaasftp_intin---
+uploaded file to self.
+chgrp 999903381 /export/home/pub/oaasftp_int/in/CAPSModeUpdate
+recipient is --pfinity_v1_qa5-- AND the full targetUid path is ---pfinity_v1_qa5outpfinity_bie_qa5---
+uploaded file to self.
+recipient is --oaasftp_int-- AND the full targetUid path is ---oaasftp_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:50:26 EST 2016 virtual user oaasftp_int started to upload file /export/home/pub/oaasftp_int/in/GMIChaseExtract
+chmod 666 /export/home/pub/oaasftp_int/in/GMIChaseExtract
+Mon Feb  1 15:50:27 EST 2016 virtual user oaasftp_int uploaded file /export/home/pub/oaasftp_int/in/GMIChaseExtract
+chmod 600 /export/home/pub/oaasftp_int/in/GMIChaseExtract
+chown 999903381 /export/home/pub/oaasftp_int/in/GMIChaseExtract
+chgrp 999903381 /export/home/pub/oaasftp_int/in/GMIChaseExtract
+recipient is --oaasftp_int-- AND the full targetUid path is ---oaasftp_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:51:17 EST 2016 virtual user bie_file70_uat started to upload file /export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES
+ /export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES was not created
+Mon Feb  1 15:51:17 EST 2016 virtual user bie_file70_uat uploaded file /export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES
+chmod 600 /export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES
+chown 999901317 /export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES
+chgrp 999901317 /export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES
+recipient is --bie_file70_uat-- AND the full targetUid path is ---bie_file70_uatoutto_file70_uat---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 15:53:00 EST 2016 virtual user bie_file70_uat started to upload file /export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES
+ /export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES was not created
+Mon Feb  1 15:53:01 EST 2016 virtual user bie_file70_uat uploaded file /export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES
+chmod 600 /export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES
+chown 999901317 /export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES
+chgrp 999901317 /export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES
+recipient is --bie_file70_uat-- AND the full targetUid path is ---bie_file70_uatoutto_file70_uat---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:00:02 EST 2016 virtual user wmb_cmod_int started to upload file /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf.ind
+ /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf.ind was not created
+==========================================================================
+Mon Feb  1 16:00:02 EST 2016 virtual user wmb_cmod_int started to upload file /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf.ind
+ /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf.ind was not created
+==========================================================================
+Mon Feb  1 16:00:02 EST 2016 virtual user wmb_cmod_int started to upload file /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf
+ /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf was not created
+==========================================================================
+Mon Feb  1 16:00:02 EST 2016 virtual user wmb_cmod_int started to upload file /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf
+ /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf was not created
+==========================================================================
+Mon Feb  1 16:00:02 EST 2016 virtual user eedmetaid started to upload file /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+chmod 666 /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+Mon Feb  1 16:00:02 EST 2016 virtual user wmb_cmod_int uploaded file /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf.ind
+Mon Feb  1 16:00:02 EST 2016 virtual user wmb_cmod_int uploaded file /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf
+chmod 600 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf.ind
+chmod 600 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf
+Mon Feb  1 16:00:02 EST 2016 virtual user wmb_cmod_int uploaded file /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf.ind
+Mon Feb  1 16:00:02 EST 2016 virtual user eedmetaid uploaded file /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+chmod 600 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf.ind
+chmod 600 /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+Mon Feb  1 16:00:02 EST 2016 virtual user wmb_cmod_int uploaded file /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf
+chown 9999228 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf
+chmod 600 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf
+chown 9999228 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf.ind
+chown 9999228 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf.ind
+chown 999903464 /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+chown 9999228 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf
+chgrp 9999228 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf.ind
+chgrp 9999228 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf
+chgrp 9999228 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf.ind
+recipient is --wmb_cmod_int-- AND the full targetUid path is ---wmb_cmod_intout---
+uploaded file to self.
+chgrp 999903464 /export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt
+recipient is --wmb_cmod_int-- AND the full targetUid path is ---wmb_cmod_intout---
+uploaded file to self.
+chgrp 9999228 /export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf
+recipient is --wmb_cmod_int-- AND the full targetUid path is ---wmb_cmod_intout---
+uploaded file to self.
+recipient is --wmb_cmod_int-- AND the full targetUid path is ---wmb_cmod_intout---
+uploaded file to self.
+recipient is --EEDMETAID_TO_bie-- AND the full targetUid path is ---EEDMETAID_TO_biein---
+"Sending e-mail [eedmetaid has sent you a file, please click on this link to view/download-->  extranet user: https://testXYZftps.equitable.com/EEDMETAID_TO_bie/in/  intranet user: https://testXYZftpsinternal.equitable.com/EEDMETAID_TO_bie/in/EBExtractFeed.txt] to "
+==========================================================================
+Mon Feb  1 16:02:26 EST 2016 virtual user aplifi_int started to upload file /export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T160221
+ /export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T160221 was not created
+Mon Feb  1 16:02:26 EST 2016 virtual user aplifi_int uploaded file /export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T160221
+chmod 600 /export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T160221
+chown 999903368 /export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T160221
+chgrp 999903368 /export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T160221
+recipient is --aplifi_int-- AND the full targetUid path is ---aplifi_intoutpfinity_bie_qa5---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:03:20 EST 2016 virtual user pcXYZ started to upload file /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201160362074400004.zip
+ /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201160362074400004.zip was not created
+Mon Feb  1 16:03:20 EST 2016 virtual user pcXYZ uploaded file /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201160362074400004.zip
+chmod 600 /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201160362074400004.zip
+chown 99990353 /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201160362074400004.zip
+chgrp 99990353 /export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201160362074400004.zip
+recipient is --pcXYZ-- AND the full targetUid path is ---pcXYZoutpcdst---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:04:09 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201160408.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201160408.zip was not created
+Mon Feb  1 16:04:09 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201160408.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201160408.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201160408.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201160408.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:04:11 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201160411.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201160411.zip was not created
+Mon Feb  1 16:04:12 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201160411.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201160411.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201160411.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201160411.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:04:14 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201160413.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201160413.zip was not created
+Mon Feb  1 16:04:14 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201160413.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201160413.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201160413.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201160413.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:04:17 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201160416.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201160416.zip was not created
+Mon Feb  1 16:04:17 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201160416.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201160416.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201160416.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201160416.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:04:20 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201160419.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201160419.zip was not created
+Mon Feb  1 16:04:20 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201160419.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201160419.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201160419.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201160419.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:04:36 EST 2016 virtual user pcXYZ started to upload file /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201160495879400020.zip
+ /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201160495879400020.zip was not created
+==========================================================================
+Mon Feb  1 16:04:36 EST 2016 virtual user awdnb2 started to upload file /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201160495879400020.pdf
+ /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201160495879400020.pdf was not created
+Mon Feb  1 16:04:36 EST 2016 virtual user pcXYZ uploaded file /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201160495879400020.zip
+chmod 600 /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201160495879400020.zip
+Mon Feb  1 16:04:36 EST 2016 virtual user awdnb2 uploaded file /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201160495879400020.pdf
+chmod 600 /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201160495879400020.pdf
+chown 99990353 /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201160495879400020.zip
+chown 999901156 /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201160495879400020.pdf
+chgrp 999901156 /export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201160495879400020.pdf
+chgrp 99990353 /export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201160495879400020.zip
+recipient is --awdnb2-- AND the full targetUid path is ---awdnb2outwin_awdnb2_int---
+uploaded file to self.
+recipient is --pcXYZ-- AND the full targetUid path is ---pcXYZoutpcdst---
+uploaded file to self.
+==========================================================================
+==========================================================================
+Mon Feb  1 16:05:03 EST 2016 virtual user primerica_bie_int started to upload file /export/home/pub/primerica_bie_int/out/AG6407XYZ16020104592.02
+ /export/home/pub/primerica_bie_int/out/AG6407XYZ16020104592.02 was not created
+Mon Feb  1 16:05:03 EST 2016 virtual user primerica_bie_int started to upload file /export/home/pub/primerica_bie_int/out/P6407XYZ16020106149.02
+ /export/home/pub/primerica_bie_int/out/P6407XYZ16020106149.02 was not created
+Mon Feb  1 16:05:03 EST 2016 virtual user primerica_bie_int uploaded file /export/home/pub/primerica_bie_int/out/P6407XYZ16020106149.02
+Mon Feb  1 16:05:03 EST 2016 virtual user primerica_bie_int uploaded file /export/home/pub/primerica_bie_int/out/AG6407XYZ16020104592.02
+chmod 600 /export/home/pub/primerica_bie_int/out/P6407XYZ16020106149.02
+chmod 600 /export/home/pub/primerica_bie_int/out/AG6407XYZ16020104592.02
+chown 9999046 /export/home/pub/primerica_bie_int/out/P6407XYZ16020106149.02
+chown 9999046 /export/home/pub/primerica_bie_int/out/AG6407XYZ16020104592.02
+chgrp 9999046 /export/home/pub/primerica_bie_int/out/P6407XYZ16020106149.02
+chgrp 9999046 /export/home/pub/primerica_bie_int/out/AG6407XYZ16020104592.02
+recipient is --primerica_bie_int-- AND the full targetUid path is ---primerica_bie_intout---
+uploaded file to self.
+recipient is --primerica_bie_int-- AND the full targetUid path is ---primerica_bie_intout---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:05:04 EST 2016 virtual user primerica_bie_int started to upload file /export/home/pub/primerica_bie_int/out/A6407XYZ16020104939.02
+ /export/home/pub/primerica_bie_int/out/A6407XYZ16020104939.02 was not created
+Mon Feb  1 16:05:05 EST 2016 virtual user primerica_bie_int uploaded file /export/home/pub/primerica_bie_int/out/A6407XYZ16020104939.02
+chmod 600 /export/home/pub/primerica_bie_int/out/A6407XYZ16020104939.02
+chown 9999046 /export/home/pub/primerica_bie_int/out/A6407XYZ16020104939.02
+chgrp 9999046 /export/home/pub/primerica_bie_int/out/A6407XYZ16020104939.02
+recipient is --primerica_bie_int-- AND the full targetUid path is ---primerica_bie_intout---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:13:19 EST 2016 virtual user awd_to_qa6_int started to upload file /export/home/pub/awd_to_qa6_int/in/NOCEM111515100248855.zip
+ /export/home/pub/awd_to_qa6_int/in/NOCEM111515100248855.zip was not created
+Mon Feb  1 16:13:19 EST 2016 virtual user awd_to_qa6_int uploaded file /export/home/pub/awd_to_qa6_int/in/NOCEM111515100248855.zip
+chmod 600 /export/home/pub/awd_to_qa6_int/in/NOCEM111515100248855.zip
+chown 999903264 /export/home/pub/awd_to_qa6_int/in/NOCEM111515100248855.zip
+chgrp 999903264 /export/home/pub/awd_to_qa6_int/in/NOCEM111515100248855.zip
+recipient is --awd_to_qa6_int-- AND the full targetUid path is ---awd_to_qa6_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:16:49 EST 2016 virtual user awd_to_qa6_int started to upload file /export/home/pub/awd_to_qa6_int/in/NOCEM111515100743554.zip
+ /export/home/pub/awd_to_qa6_int/in/NOCEM111515100743554.zip was not created
+Mon Feb  1 16:16:49 EST 2016 virtual user awd_to_qa6_int uploaded file /export/home/pub/awd_to_qa6_int/in/NOCEM111515100743554.zip
+chmod 600 /export/home/pub/awd_to_qa6_int/in/NOCEM111515100743554.zip
+chown 999903264 /export/home/pub/awd_to_qa6_int/in/NOCEM111515100743554.zip
+chgrp 999903264 /export/home/pub/awd_to_qa6_int/in/NOCEM111515100743554.zip
+recipient is --awd_to_qa6_int-- AND the full targetUid path is ---awd_to_qa6_intin---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:18:23 EST 2016 virtual user pfinity_bie_qa2 started to upload file /export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES
+ /export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES was not created
+Mon Feb  1 16:18:23 EST 2016 virtual user pfinity_bie_qa2 uploaded file /export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES
+chmod 600 /export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES
+chown 999900912 /export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES
+chgrp 999900912 /export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES
+recipient is --pfinity_bie_qa2-- AND the full targetUid path is ---pfinity_bie_qa2outpfinity_wma_qa2---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:18:26 EST 2016 virtual user pfinity_bie_qa2 started to upload file /export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST
+ /export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST was not created
+Mon Feb  1 16:18:26 EST 2016 virtual user pfinity_bie_qa2 uploaded file /export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST
+chmod 600 /export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST
+chown 999900912 /export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST
+chgrp 999900912 /export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST
+recipient is --pfinity_bie_qa2-- AND the full targetUid path is ---pfinity_bie_qa2outsftp403b_int---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:21:17 EST 2016 virtual user pfinity_bie_uat started to upload file /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_03_pfs.txt
+ /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_03_pfs.txt was not created
+Mon Feb  1 16:21:18 EST 2016 virtual user pfinity_bie_uat uploaded file /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_03_pfs.txt
+chmod 600 /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_03_pfs.txt
+chown 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_03_pfs.txt
+chgrp 999900968 /export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_03_pfs.txt
+recipient is --pfinity_bie_uat-- AND the full targetUid path is ---pfinity_bie_uatoutpfinity_nbfe_uat---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:22:03 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201162202.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201162202.zip was not created
+Mon Feb  1 16:22:04 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201162202.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201162202.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201162202.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201162202.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:22:07 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201162206.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201162206.zip was not created
+Mon Feb  1 16:22:08 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201162206.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201162206.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201162206.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201162206.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+Mon Feb  1 16:22:11 EST 2016 virtual user awduat10 started to upload file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201162210.zip
+ /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201162210.zip was not created
+Mon Feb  1 16:22:12 EST 2016 virtual user awduat10 uploaded file /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201162210.zip
+chmod 600 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201162210.zip
+chown 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201162210.zip
+chgrp 9999113 /export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201162210.zip
+recipient is --awduat10-- AND the full targetUid path is ---awduat10zip---
+uploaded file to self.
+==========================================================================
+

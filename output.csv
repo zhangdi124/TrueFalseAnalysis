@@ -1,0 +1,1583 @@
+ID,DATE,ACTION,PARAM,USERNAME,FILEPATH,VALID
+289771260123532main-566532092,Mon Feb 01 00:13:59 EST 2016,started to upload file,null,etransactiondev,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201171358.TXT,TRUE
+289771260123532main-566532092,null,was not created,null,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201171358.txt,TRUE
+289771260123532main-566532092,Mon Feb 01 00:14:00 EST 2016,uploaded file,null,etransactiondev,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201171358.TXT,TRUE
+289771260123532main-566532092,null,chmod,600,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201171358.txt,TRUE
+289771260123532main-566532092,null,chown,9999092,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201171358.TXT,TRUE
+289771260123532main-566532092,null,chgrp,9999092,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201171358.txt,TRUE
+289771260123532main-566532092,null,null,null,null,null,TRUE
+289771260123532main-566532092,null,null,null,null,null,TRUE
+289771285645066main1767864708,null,null,null,null,null,TRUE
+289771285645066main1767864708,Mon Feb 01 00:14:25 EST 2016,started to upload file,null,etransactiondev,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201171424.TXT,TRUE
+289771285645066main1767864708,null,was not created,null,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201171424.txt,TRUE
+289771285645066main1767864708,Mon Feb 01 00:14:25 EST 2016,uploaded file,null,etransactiondev,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201171424.TXT,TRUE
+289771285645066main1767864708,null,chmod,600,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201171424.txt,TRUE
+289771285645066main1767864708,null,chown,9999092,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201171424.TXT,TRUE
+289771285645066main1767864708,null,chgrp,9999092,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201171424.TXT,TRUE
+289771285645066main1767864708,null,null,null,null,null,TRUE
+289771285645066main1767864708,null,null,null,null,null,TRUE
+289771288181055main-1062391306,null,null,null,null,null,TRUE
+289771288181055main-1062391306,Mon Feb 01 00:20:23 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201122022.zip,TRUE
+289771288181055main-1062391306,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201122022.zip,TRUE
+289771288181055main-1062391306,Mon Feb 01 00:20:23 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201122022.zip,TRUE
+289771288181055main-1062391306,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201122022.zip,TRUE
+289771288181055main-1062391306,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201122022.zip,TRUE
+289771288181055main-1062391306,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201122022.zip,TRUE
+289771288181055main-1062391306,null,null,null,null,null,TRUE
+289771288181055main-1062391306,null,null,null,null,null,TRUE
+289771290238498main-555549496,null,null,null,null,null,TRUE
+289771290238498main-555549496,Mon Feb 01 00:20:26 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201122025.zip,TRUE
+289771290238498main-555549496,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201122025.zip,TRUE
+289771290238498main-555549496,Mon Feb 01 00:20:26 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201122025.zip,TRUE
+289771290238498main-555549496,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201122025.zip,TRUE
+289771290238498main-555549496,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201122025.zip,TRUE
+289771290238498main-555549496,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201122025.zip,TRUE
+289771290238498main-555549496,null,null,null,null,null,TRUE
+289771290238498main-555549496,null,null,null,null,null,TRUE
+289771292383610main1772606835,null,null,null,null,null,TRUE
+289771292383610main1772606835,Mon Feb 01 00:20:28 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201122027.zip,TRUE
+289771292383610main1772606835,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201122027.zip,TRUE
+289771292383610main1772606835,Mon Feb 01 00:20:29 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201122027.zip,TRUE
+289771292383610main1772606835,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201122027.zip,TRUE
+289771292383610main1772606835,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201122027.zip,TRUE
+289771292383610main1772606835,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201122027.zip,TRUE
+289771292383610main1772606835,null,null,null,null,null,TRUE
+289771292383610main1772606835,null,null,null,null,null,TRUE
+289771294269564main1288121763,null,null,null,null,null,TRUE
+289771294269564main1288121763,Mon Feb 01 00:20:30 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201122029.zip,TRUE
+289771294269564main1288121763,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201122029.zip,TRUE
+289771294269564main1288121763,Mon Feb 01 00:20:31 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201122029.zip,TRUE
+289771294269564main1288121763,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201122029.zip,TRUE
+289771294269564main1288121763,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201122029.zip,TRUE
+289771294269564main1288121763,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201122029.zip,TRUE
+289771294269564main1288121763,null,null,null,null,null,TRUE
+289771294269564main1288121763,null,null,null,null,null,TRUE
+289771296047750main-598108830,null,null,null,null,null,TRUE
+289771296047750main-598108830,Mon Feb 01 00:20:34 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201122033.zip,TRUE
+289771296047750main-598108830,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201122033.zip,TRUE
+289771296047750main-598108830,Mon Feb 01 00:20:34 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201122033.zip,TRUE
+289771296047750main-598108830,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201122033.zip,TRUE
+289771296047750main-598108830,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201122033.zip,TRUE
+289771296047750main-598108830,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201122033.zip,TRUE
+289771296047750main-598108830,null,null,null,null,null,TRUE
+289771296047750main-598108830,null,null,null,null,null,TRUE
+289771297753234main-1127676538,null,null,null,null,null,TRUE
+289771297753234main-1127676538,Mon Feb 01 00:22:04 EST 2016,started to upload file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_02_pfs.txt,TRUE
+289771297753234main-1127676538,null,was not created,null,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_02_pfs.txt,TRUE
+289771297753234main-1127676538,Mon Feb 01 00:22:05 EST 2016,uploaded file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_02_pfs.txt,TRUE
+289771297753234main-1127676538,null,chmod,600,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_02_pfs.txt,TRUE
+289771297753234main-1127676538,null,chown,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_02_pfs.txt,TRUE
+289771297753234main-1127676538,null,chgrp,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_02_pfs.txt,TRUE
+289771297753234main-1127676538,null,null,null,null,null,TRUE
+289771297753234main-1127676538,null,null,null,null,null,TRUE
+289771299956507main551655476,null,null,null,null,null,TRUE
+289771299956507main551655476,Mon Feb 01 00:27:26 EST 2016,started to upload file,null,pcXYZ,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201122785318200010.zip,TRUE
+289771299956507main551655476,null,was not created,null,null,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201122785318200010.zip,TRUE
+289771299956507main551655476,Mon Feb 01 00:27:27 EST 2016,uploaded file,null,pcXYZ,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201122785318200010.zip,TRUE
+289771299956507main551655476,null,chmod,600,null,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201122785318200010.zip,TRUE
+289771299956507main551655476,null,chown,99990353,null,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201122785318200010.zip,TRUE
+289771299956507main551655476,null,chgrp,99990353,null,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201122785318200010.zip,TRUE
+289771299956507main551655476,null,null,null,null,null,TRUE
+289771299956507main551655476,null,null,null,null,null,TRUE
+289771301878384main827177766,null,null,null,null,null,TRUE
+289771301878384main827177766,Mon Feb 01 00:28:23 EST 2016,started to upload file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011224.xml,TRUE
+289771301878384main827177766,null,was not created,null,null,/export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011224.xml,TRUE
+289771301878384main827177766,Mon Feb 01 00:28:23 EST 2016,uploaded file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011224.xml,TRUE
+289771301878384main827177766,null,chmod,600,null,/export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011224.xml,TRUE
+289771301878384main827177766,null,chown,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011224.xml,TRUE
+289771301878384main827177766,null,chgrp,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011224.xml,TRUE
+289771301878384main827177766,null,null,null,null,null,TRUE
+289771301878384main827177766,null,null,null,null,null,TRUE
+289771303452578main197340410,null,null,null,null,null,TRUE
+289771303452578main197340410,Mon Feb 01 00:28:25 EST 2016,started to upload file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt,TRUE
+289771303452578main197340410,null,was not created,null,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt,TRUE
+289771304099191main411330398,null,null,null,null,null,FALSE
+289771304099191main411330398,Mon Feb 01 00:28:25 EST 2016,started to upload file,null,pfinity_biert_uat,/export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A,FALSE
+289771304099191main411330398,null,was not created,null,null,/export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A,FALSE
+289771304099191main411330398,Mon Feb 01 00:28:26 EST 2016,uploaded file,null,pfinity_biert_uat,/export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A,FALSE
+289771304099191main411330398,Mon Feb 01 00:28:26 EST 2016,uploaded file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt,FALSE
+289771304099191main411330398,null,chmod,600,null,/export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A,FALSE
+289771304099191main411330398,null,chmod,600,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt,FALSE
+289771304099191main411330398,null,chown,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt,FALSE
+289771304099191main411330398,null,chown,999900977,null,/export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A,FALSE
+289771304099191main411330398,null,chgrp,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt,FALSE
+289771304099191main411330398,null,chgrp,999900977,null,/export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A,FALSE
+289771304099191main411330398,null,null,null,null,null,FALSE
+289771304099191main411330398,null,null,null,null,null,FALSE
+289771304099191main411330398,null,null,null,null,null,FALSE
+289771304099191main411330398,null,null,null,null,null,FALSE
+289771306382436main1497796298,null,null,null,null,null,FALSE
+289771306382436main1497796298,Mon Feb 01 00:28:28 EST 2016,started to upload file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL2.CYC2.APPFILE.POLNUM,FALSE
+289771306382436main1497796298,null,was not created,null,null,/export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL2.CYC2.APPFILE.POLNUM,FALSE
+289771306382436main1497796298,Mon Feb 01 00:28:28 EST 2016,uploaded file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL2.CYC2.APPFILE.POLNUM,FALSE
+289771306382436main1497796298,null,chmod,600,null,/export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL2.CYC2.APPFILE.POLNUM,FALSE
+289771306382436main1497796298,null,chown,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL2.CYC2.APPFILE.POLNUM,FALSE
+289771306382436main1497796298,null,chgrp,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL2.CYC2.APPFILE.POLNUM,FALSE
+289771306382436main1497796298,null,null,null,null,null,FALSE
+289771306382436main1497796298,null,null,null,null,null,FALSE
+289771307865968main-1185697922,null,null,null,null,null,TRUE
+289771307865968main-1185697922,Mon Feb 01 00:28:30 EST 2016,started to upload file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011224.xml,TRUE
+289771307865968main-1185697922,null,was not created,null,null,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011224.xml,TRUE
+289771307865968main-1185697922,Mon Feb 01 00:28:31 EST 2016,uploaded file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011224.xml,TRUE
+289771307865968main-1185697922,null,chmod,600,null,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011224.xml,TRUE
+289771307865968main-1185697922,null,chown,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011224.xml,TRUE
+289771307865968main-1185697922,null,chgrp,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011224.xml,TRUE
+289771307865968main-1185697922,null,null,null,null,null,TRUE
+289771307865968main-1185697922,null,null,null,null,null,TRUE
+289771309298181main2066484867,null,null,null,null,null,TRUE
+289771309298181main2066484867,Mon Feb 01 00:28:33 EST 2016,started to upload file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011224.xml,TRUE
+289771309298181main2066484867,null,was not created,null,null,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011224.xml,TRUE
+289771309298181main2066484867,Mon Feb 01 00:28:33 EST 2016,uploaded file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011224.xml,TRUE
+289771309298181main2066484867,null,chmod,600,null,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011224.xml,TRUE
+289771309298181main2066484867,null,chown,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011224.xml,TRUE
+289771309298181main2066484867,null,chgrp,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011224.xml,TRUE
+289771309298181main2066484867,null,null,null,null,null,TRUE
+289771309298181main2066484867,null,null,null,null,null,TRUE
+289771311066102main-844806768,null,null,null,null,null,FALSE
+289771311066102main-844806768,Mon Feb 01 00:28:34 EST 2016,started to upload file,null,pfinity_wma_qa5,/export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.QM3.ROR.EXTRACT.WMA,FALSE
+289771311066102main-844806768,null,was not created,null,null,/export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.QM3.ROR.EXTRACT.WMA,FALSE
+289771311066102main-844806768,Mon Feb 01 00:28:35 EST 2016,uploaded file,null,pfinity_wma_qa5,/export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.QM3.ROR.EXTRACT.WMA,FALSE
+289771311066102main-844806768,null,chmod,600,null,/export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.QM3.ROR.EXTRACT.WMA,FALSE
+289771311066102main-844806768,null,chown,999901088,null,/export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.QM3.ROR.EXTRACT.WMA,FALSE
+289771311066102main-844806768,null,chgrp,999901088,null,/export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.QM3.ROR.EXTRACT.WMA,FALSE
+289771311066102main-844806768,null,null,null,null,null,FALSE
+289771311066102main-844806768,null,null,null,null,null,FALSE
+289771312997388main554581396,null,null,null,null,null,TRUE
+289771312997388main554581396,Mon Feb 01 00:28:40 EST 2016,started to upload file,null,pcXYZ,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201122808031700025.zip,TRUE
+289771312997388main554581396,null,was not created,null,null,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201122808031700025.zip,TRUE
+289771313844998main319336923,null,null,null,null,null,TRUE
+289771313844998main319336923,Mon Feb 01 00:28:40 EST 2016,started to upload file,null,awdnb2,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201122808031700025.pdf,TRUE
+289771313844998main319336923,null,was not created,null,null,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201122808031700025.pdf,TRUE
+289771313844998main319336923,Mon Feb 01 00:28:41 EST 2016,uploaded file,null,awdnb2,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201122808031700025.pdf,TRUE
+289771313844998main319336923,null,chmod,600,null,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201122808031700025.pdf,TRUE
+289771313844998main319336923,Mon Feb 01 00:28:41 EST 2016,uploaded file,null,pcXYZ,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201122808031700025.zip,TRUE
+289771313844998main319336923,null,chmod,600,null,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201122808031700025.zip,TRUE
+289771313844998main319336923,null,chown,999901156,null,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201122808031700025.pdf,TRUE
+289771313844998main319336923,null,chown,99990353,null,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201122808031700025.zip,TRUE
+289771313844998main319336923,null,chgrp,99990353,null,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201122808031700025.zip,TRUE
+289771313844998main319336923,null,chgrp,999901156,null,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201122808031700025.pdf,TRUE
+289771313844998main319336923,null,null,null,null,null,TRUE
+289771313844998main319336923,null,null,null,null,null,TRUE
+289771313844998main319336923,null,null,null,null,null,TRUE
+289771313844998main319336923,null,null,null,null,null,TRUE
+289771317687041main-823948580,null,null,null,null,null,TRUE
+289771317687041main-823948580,Mon Feb 01 00:33:49 EST 2016,started to upload file,null,pcdst,/export/home/pub/pcdst/in/Nava_6407XYZ16020114921.zip,TRUE
+289771317687041main-823948580,null,was not created,null,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114921.zip,TRUE
+289771317687041main-823948580,Mon Feb 01 00:33:49 EST 2016,uploaded file,null,pcdst,/export/home/pub/pcdst/in/Nava_6407XYZ16020114921.zip,TRUE
+289771317687041main-823948580,null,chmod,600,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114921.zip,TRUE
+289771317687041main-823948580,null,chown,99990354,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114921.zip,TRUE
+289771317687041main-823948580,null,chgrp,99990354,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114921.zip,TRUE
+289771317687041main-823948580,null,null,null,null,null,TRUE
+289771317687041main-823948580,null,null,null,null,null,TRUE
+289771319250117main-533799313,null,null,null,null,null,TRUE
+289771319250117main-533799313,Mon Feb 01 00:34:45 EST 2016,started to upload file,null,pcdst,/export/home/pub/pcdst/in/Nava_6407XYZ16020114922.zip,TRUE
+289771319250117main-533799313,null,was not created,null,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114922.zip,TRUE
+289771319250117main-533799313,Mon Feb 01 00:34:46 EST 2016,uploaded file,null,pcdst,/export/home/pub/pcdst/in/Nava_6407XYZ16020114922.zip,TRUE
+289771319250117main-533799313,null,chmod,600,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114922.zip,TRUE
+289771319250117main-533799313,null,chown,99990354,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114922.zip,TRUE
+289771319250117main-533799313,null,chgrp,99990354,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114922.zip,TRUE
+289771319250117main-533799313,null,null,null,null,null,TRUE
+289771319250117main-533799313,null,null,null,null,null,TRUE
+289771320452680main-249821114,null,null,null,null,null,TRUE
+289771320452680main-249821114,Mon Feb 01 00:43:30 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201124329.zip,TRUE
+289771320452680main-249821114,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201124329.zip,TRUE
+289771320452680main-249821114,Mon Feb 01 00:43:30 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201124329.zip,TRUE
+289771320452680main-249821114,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201124329.zip,TRUE
+289771320452680main-249821114,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201124329.zip,TRUE
+289771320452680main-249821114,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201124329.zip,TRUE
+289771320452680main-249821114,null,null,null,null,null,TRUE
+289771320452680main-249821114,null,null,null,null,null,TRUE
+289771322005064main-1253746863,null,null,null,null,null,TRUE
+289771322005064main-1253746863,Mon Feb 01 00:43:32 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201124331.zip,TRUE
+289771322005064main-1253746863,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201124331.zip,TRUE
+289771322005064main-1253746863,Mon Feb 01 00:43:33 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201124331.zip,TRUE
+289771322005064main-1253746863,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201124331.zip,TRUE
+289771322005064main-1253746863,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201124331.zip,TRUE
+289771322005064main-1253746863,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201124331.zip,TRUE
+289771322005064main-1253746863,null,null,null,null,null,TRUE
+289771322005064main-1253746863,null,null,null,null,null,TRUE
+289771323397078main1804717209,null,null,null,null,null,TRUE
+289771323397078main1804717209,Mon Feb 01 00:43:35 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201124334.zip,TRUE
+289771323397078main1804717209,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201124334.zip,TRUE
+289771323397078main1804717209,Mon Feb 01 00:43:36 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201124334.zip,TRUE
+289771323397078main1804717209,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201124334.zip,TRUE
+289771323397078main1804717209,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201124334.zip,TRUE
+289771323397078main1804717209,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201124334.zip,TRUE
+289771323397078main1804717209,null,null,null,null,null,TRUE
+289771323397078main1804717209,null,null,null,null,null,TRUE
+289771324673197main458767911,null,null,null,null,null,TRUE
+289771324673197main458767911,Mon Feb 01 00:43:37 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201124337.zip,TRUE
+289771324673197main458767911,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201124337.zip,TRUE
+289771324673197main458767911,Mon Feb 01 00:43:38 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201124337.zip,TRUE
+289771324673197main458767911,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201124337.zip,TRUE
+289771324673197main458767911,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201124337.zip,TRUE
+289771324673197main458767911,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201124337.zip,TRUE
+289771324673197main458767911,null,null,null,null,null,TRUE
+289771324673197main458767911,null,null,null,null,null,TRUE
+289771325877471main-565998456,null,null,null,null,null,TRUE
+289771325877471main-565998456,Mon Feb 01 00:43:41 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201124340.zip,TRUE
+289771325877471main-565998456,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201124340.zip,TRUE
+289771325877471main-565998456,Mon Feb 01 00:43:41 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201124340.zip,TRUE
+289771325877471main-565998456,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201124340.zip,TRUE
+289771325877471main-565998456,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201124340.zip,TRUE
+289771325877471main-565998456,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201124340.zip,TRUE
+289771325877471main-565998456,null,null,null,null,null,TRUE
+289771325877471main-565998456,null,null,null,null,null,TRUE
+289771327029998main1522374964,null,null,null,null,null,
+289771327029998main1522374964,Mon Feb 01 00:53:54 EST 2016,started to upload file,null,fd_int,/export/home/pub/fd_int/in/String_List.txt,
+289771327029998main1522374964,null,chmod,666,null,/export/home/pub/fd_int/in/String_List.txt,
+289771327029998main1522374964,Mon Feb 01 00:53:55 EST 2016,uploaded file,null,fd_int,/export/home/pub/fd_int/in/String_List.txt,
+289771327029998main1522374964,null,chmod,600,null,/export/home/pub/fd_int/in/String_List.txt,
+289771327029998main1522374964,null,chown,root,null,/export/home/pub/fd_int/in/String_List.txt,
+289771327029998main1522374964,null,chgrp,root,null,/export/home/pub/fd_int/in/String_List.txt,
+289771327029998main1522374964,null,null,null,null,null,
+289771327029998main1522374964,null,null,null,null,null,
+289771328435269main-957540792,null,null,null,null,null,FALSE
+289771328435269main-957540792,Mon Feb 01 00:56:11 EST 2016,started to upload file,null,pfinity_bie_qa2,/export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771328435269main-957540792,null,was not created,null,null,/export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771328435269main-957540792,Mon Feb 01 00:56:12 EST 2016,uploaded file,null,pfinity_bie_qa2,/export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771328435269main-957540792,null,chmod,600,null,/export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771328435269main-957540792,null,chown,999900912,null,/export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771328435269main-957540792,null,chgrp,999900912,null,/export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771328435269main-957540792,null,null,null,null,null,FALSE
+289771328435269main-957540792,null,null,null,null,null,FALSE
+289771329579244main-967854364,null,null,null,null,null,FALSE
+289771329579244main-967854364,Mon Feb 01 00:56:13 EST 2016,started to upload file,null,pfinity_bie_qa2,/export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771329579244main-967854364,null,was not created,null,null,/export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771329579244main-967854364,Mon Feb 01 00:56:14 EST 2016,uploaded file,null,pfinity_bie_qa2,/export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771329579244main-967854364,null,chmod,600,null,/export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771329579244main-967854364,null,chown,999900912,null,/export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771329579244main-967854364,null,chgrp,999900912,null,/export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771329579244main-967854364,null,null,null,null,null,FALSE
+289771329579244main-967854364,null,null,null,null,null,FALSE
+289771330729633main815620599,null,null,null,null,null,
+289771330729633main815620599,Mon Feb 01 13:00:02 EST 2016,started to upload file,null,eedmetaid,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771330729633main815620599,null,chmod,666,null,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771330729633main815620599,Mon Feb 01 13:00:02 EST 2016,uploaded file,null,eedmetaid,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771330729633main815620599,null,chmod,600,null,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771330729633main815620599,null,chown,999903464,null,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771330729633main815620599,null,chgrp,999903464,null,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771330729633main815620599,null,null,null,null,null,
+289771330729633main815620599,null,null,null,null,null,
+289771333239962main447181484,null,null,null,null,null,TRUE
+289771333239962main447181484,Mon Feb 01 13:02:08 EST 2016,started to upload file,null,aplifi_int,/export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T130204,TRUE
+289771333239962main447181484,null,was not created,null,null,/export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T130204,TRUE
+289771333239962main447181484,Mon Feb 01 13:02:09 EST 2016,uploaded file,null,aplifi_int,/export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T130204,TRUE
+289771333239962main447181484,null,chmod,600,null,/export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T130204,TRUE
+289771333239962main447181484,null,chown,999903368,null,/export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T130204,TRUE
+289771333239962main447181484,null,chgrp,999903368,null,/export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T130204,TRUE
+289771333239962main447181484,null,null,null,null,null,TRUE
+289771333239962main447181484,null,null,null,null,null,TRUE
+289771334721783main1986444544,null,null,null,null,null,TRUE
+289771334721783main1986444544,Mon Feb 01 13:02:39 EST 2016,started to upload file,null,awd_to_qa6_int,/export/home/pub/awd_to_qa6_int/in/NOCEM011916112300154.zip,TRUE
+289771334721783main1986444544,null,was not created,null,null,/export/home/pub/awd_to_qa6_int/in/NOCEM011916112300154.zip,TRUE
+289771334721783main1986444544,Mon Feb 01 13:02:40 EST 2016,uploaded file,null,awd_to_qa6_int,/export/home/pub/awd_to_qa6_int/in/NOCEM011916112300154.zip,TRUE
+289771334721783main1986444544,null,chmod,600,null,/export/home/pub/awd_to_qa6_int/in/NOCEM011916112300154.zip,TRUE
+289771334721783main1986444544,null,chown,999903264,null,/export/home/pub/awd_to_qa6_int/in/NOCEM011916112300154.zip,TRUE
+289771334721783main1986444544,null,chgrp,999903264,null,/export/home/pub/awd_to_qa6_int/in/NOCEM011916112300154.zip,TRUE
+289771334721783main1986444544,null,null,null,null,null,TRUE
+289771334721783main1986444544,null,null,null,null,null,TRUE
+289771336283575main-502177950,null,null,null,null,null,FALSE
+289771336283575main-502177950,Mon Feb 01 13:10:26 EST 2016,started to upload file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_wma_uat/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771336283575main-502177950,null,was not created,null,null,/export/home/pub/pfinity_bie_uat/out/pfinity_wma_uat/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771336283575main-502177950,Mon Feb 01 13:10:27 EST 2016,uploaded file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_wma_uat/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771336283575main-502177950,null,chmod,600,null,/export/home/pub/pfinity_bie_uat/out/pfinity_wma_uat/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771336283575main-502177950,null,chown,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_wma_uat/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771336283575main-502177950,null,chgrp,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_wma_uat/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771336283575main-502177950,null,null,null,null,null,FALSE
+289771336283575main-502177950,null,null,null,null,null,FALSE
+289771337607164main1767845685,null,null,null,null,null,FALSE
+289771337607164main1767845685,Mon Feb 01 13:10:29 EST 2016,started to upload file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771337607164main1767845685,null,was not created,null,null,/export/home/pub/pfinity_bie_uat/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771337607164main1767845685,Mon Feb 01 13:10:30 EST 2016,uploaded file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771337607164main1767845685,null,chmod,600,null,/export/home/pub/pfinity_bie_uat/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771337607164main1767845685,null,chown,999900968,null,/export/home/pub/pfinity_bie_uat/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771337607164main1767845685,null,chgrp,999900968,null,/export/home/pub/pfinity_bie_uat/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771337607164main1767845685,null,null,null,null,null,FALSE
+289771337607164main1767845685,null,null,null,null,null,FALSE
+289771338778509main1261845615,null,null,null,null,null,TRUE
+289771338778509main1261845615,Mon Feb 01 13:12:01 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201131200.zip,TRUE
+289771338778509main1261845615,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201131200.zip,TRUE
+289771338778509main1261845615,Mon Feb 01 13:12:02 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201131200.zip,TRUE
+289771338778509main1261845615,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201131200.zip,TRUE
+289771338778509main1261845615,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201131200.zip,TRUE
+289771338778509main1261845615,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201131200.zip,TRUE
+289771338778509main1261845615,null,null,null,null,null,TRUE
+289771338778509main1261845615,null,null,null,null,null,TRUE
+289771340098676main-2117531103,null,null,null,null,null,TRUE
+289771340098676main-2117531103,Mon Feb 01 13:12:03 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201131203.zip,TRUE
+289771340098676main-2117531103,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201131203.zip,TRUE
+289771340098676main-2117531103,Mon Feb 01 13:12:04 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201131203.zip,TRUE
+289771340098676main-2117531103,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201131203.zip,TRUE
+289771340098676main-2117531103,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201131203.zip,TRUE
+289771340098676main-2117531103,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201131203.zip,TRUE
+289771340098676main-2117531103,null,null,null,null,null,TRUE
+289771340098676main-2117531103,null,null,null,null,null,TRUE
+289771341458616main1796186731,null,null,null,null,null,TRUE
+289771341458616main1796186731,Mon Feb 01 13:12:06 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201131205.zip,TRUE
+289771341458616main1796186731,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201131205.zip,TRUE
+289771341458616main1796186731,Mon Feb 01 13:12:07 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201131205.zip,TRUE
+289771341458616main1796186731,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201131205.zip,TRUE
+289771341458616main1796186731,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201131205.zip,TRUE
+289771341458616main1796186731,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201131205.zip,TRUE
+289771341458616main1796186731,null,null,null,null,null,TRUE
+289771341458616main1796186731,null,null,null,null,null,TRUE
+289771342551700main1305491195,null,null,null,null,null,TRUE
+289771342551700main1305491195,Mon Feb 01 13:12:08 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201131207.zip,TRUE
+289771342551700main1305491195,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201131207.zip,TRUE
+289771342551700main1305491195,Mon Feb 01 13:12:09 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201131207.zip,TRUE
+289771342551700main1305491195,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201131207.zip,TRUE
+289771342551700main1305491195,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201131207.zip,TRUE
+289771342551700main1305491195,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201131207.zip,TRUE
+289771342551700main1305491195,null,null,null,null,null,TRUE
+289771342551700main1305491195,null,null,null,null,null,TRUE
+289771345267730main-574528934,null,null,null,null,null,TRUE
+289771345267730main-574528934,Mon Feb 01 13:12:12 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201131211.zip,TRUE
+289771345267730main-574528934,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201131211.zip,TRUE
+289771345267730main-574528934,Mon Feb 01 13:12:12 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201131211.zip,TRUE
+289771345267730main-574528934,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201131211.zip,TRUE
+289771345267730main-574528934,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201131211.zip,TRUE
+289771345267730main-574528934,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201131211.zip,TRUE
+289771345267730main-574528934,null,null,null,null,null,TRUE
+289771345267730main-574528934,null,null,null,null,null,TRUE
+289771346471148main-627349470,null,null,null,null,null,TRUE
+289771346471148main-627349470,Mon Feb 01 13:18:46 EST 2016,started to upload file,null,awd_to_qa6_int,/export/home/pub/awd_to_qa6_int/in/NOCEM102615115300859.zip,TRUE
+289771346471148main-627349470,null,was not created,null,null,/export/home/pub/awd_to_qa6_int/in/NOCEM102615115300859.zip,TRUE
+289771346471148main-627349470,Mon Feb 01 13:18:46 EST 2016,uploaded file,null,awd_to_qa6_int,/export/home/pub/awd_to_qa6_int/in/NOCEM102615115300859.zip,TRUE
+289771346471148main-627349470,null,chmod,600,null,/export/home/pub/awd_to_qa6_int/in/NOCEM102615115300859.zip,TRUE
+289771346471148main-627349470,null,chown,999903264,null,/export/home/pub/awd_to_qa6_int/in/NOCEM102615115300859.zip,TRUE
+289771346471148main-627349470,null,chgrp,999903264,null,/export/home/pub/awd_to_qa6_int/in/NOCEM102615115300859.zip,TRUE
+289771346471148main-627349470,null,null,null,null,null,TRUE
+289771346471148main-627349470,null,null,null,null,null,TRUE
+289771347641210main278699289,null,null,null,null,null,TRUE
+289771347641210main278699289,Mon Feb 01 13:26:10 EST 2016,started to upload file,null,bie_xpression_int,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1325.xml,TRUE
+289771347641210main278699289,null,was not created,null,null,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1325.xml,TRUE
+289771347641210main278699289,Mon Feb 01 13:26:10 EST 2016,uploaded file,null,bie_xpression_int,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1325.xml,TRUE
+289771347641210main278699289,null,chmod,600,null,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1325.xml,TRUE
+289771347641210main278699289,null,chown,999903488,null,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1325.xml,TRUE
+289771347641210main278699289,null,chgrp,999903488,null,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1325.xml,TRUE
+289771347641210main278699289,null,null,null,null,null,TRUE
+289771347641210main278699289,null,null,null,null,null,TRUE
+289771349066581main813695651,null,null,null,null,null,FALSE
+289771349066581main813695651,Mon Feb 01 13:28:53 EST 2016,started to upload file,null,pfinity_wma_qa5,/export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.WMA.QM3CATVD.FEEINFO.EXT(0),FALSE
+289771349066581main813695651,null,was not created,null,null,/export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.WMA.QM3CATVD.FEEINFO.EXT(0),FALSE
+289771349066581main813695651,Mon Feb 01 13:28:53 EST 2016,uploaded file,null,pfinity_wma_qa5,/export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.WMA.QM3CATVD.FEEINFO.EXT(0),FALSE
+289771349066581main813695651,null,chmod,600,null,/export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.WMA.QM3CATVD.FEEINFO.EXT(0),FALSE
+289771349066581main813695651,null,chown,999901088,null,/export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.WMA.QM3CATVD.FEEINFO.EXT(0),FALSE
+289771349066581main813695651,null,chgrp,999901088,null,/export/home/pub/pfinity_wma_qa5/out/pfinity_bie_qa5/GMIMG.WMA.QM3CATVD.FEEINFO.EXT(0),FALSE
+289771349066581main813695651,null,null,null,null,null,FALSE
+289771349066581main813695651,null,null,null,null,null,FALSE
+289771350353819main1329260978,null,null,null,null,null,TRUE
+289771350353819main1329260978,Mon Feb 01 13:34:21 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201133420.zip,TRUE
+289771350353819main1329260978,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201133420.zip,TRUE
+289771350353819main1329260978,Mon Feb 01 13:34:21 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201133420.zip,TRUE
+289771350353819main1329260978,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201133420.zip,TRUE
+289771350353819main1329260978,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201133420.zip,TRUE
+289771350353819main1329260978,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201133420.zip,TRUE
+289771350353819main1329260978,null,null,null,null,null,TRUE
+289771350353819main1329260978,null,null,null,null,null,TRUE
+289771351759518main1836102788,null,null,null,null,null,TRUE
+289771351759518main1836102788,Mon Feb 01 13:34:24 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201133423.zip,TRUE
+289771351759518main1836102788,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201133423.zip,TRUE
+289771351759518main1836102788,Mon Feb 01 13:34:24 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201133423.zip,TRUE
+289771351759518main1836102788,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201133423.zip,TRUE
+289771351759518main1836102788,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201133423.zip,TRUE
+289771351759518main1836102788,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201133423.zip,TRUE
+289771351759518main1836102788,null,null,null,null,null,TRUE
+289771351759518main1836102788,null,null,null,null,null,TRUE
+289771352888524main599599564,null,null,null,null,null,TRUE
+289771352888524main599599564,Mon Feb 01 13:34:27 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201133426.zip,TRUE
+289771352888524main599599564,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201133426.zip,TRUE
+289771352888524main599599564,Mon Feb 01 13:34:27 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201133426.zip,TRUE
+289771352888524main599599564,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201133426.zip,TRUE
+289771352888524main599599564,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201133426.zip,TRUE
+289771352888524main599599564,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201133426.zip,TRUE
+289771352888524main599599564,null,null,null,null,null,TRUE
+289771352888524main599599564,null,null,null,null,null,TRUE
+289771353904630main1101616910,null,null,null,null,null,TRUE
+289771353904630main1101616910,Mon Feb 01 13:34:31 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201133430.zip,TRUE
+289771353904630main1101616910,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201133430.zip,TRUE
+289771353904630main1101616910,Mon Feb 01 13:34:31 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201133430.zip,TRUE
+289771353904630main1101616910,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201133430.zip,TRUE
+289771353904630main1101616910,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201133430.zip,TRUE
+289771353904630main1101616910,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201133430.zip,TRUE
+289771353904630main1101616910,null,null,null,null,null,TRUE
+289771353904630main1101616910,null,null,null,null,null,TRUE
+289771356523583main-734461606,null,null,null,null,null,TRUE
+289771356523583main-734461606,Mon Feb 01 13:34:34 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201133433.zip,TRUE
+289771356523583main-734461606,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201133433.zip,TRUE
+289771356523583main-734461606,Mon Feb 01 13:34:34 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201133433.zip,TRUE
+289771356523583main-734461606,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201133433.zip,TRUE
+289771356523583main-734461606,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201133433.zip,TRUE
+289771356523583main-734461606,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201133433.zip,TRUE
+289771356523583main-734461606,null,null,null,null,null,TRUE
+289771356523583main-734461606,null,null,null,null,null,TRUE
+289771357649168main-881610162,null,null,null,null,null,TRUE
+289771357649168main-881610162,Mon Feb 01 13:38:00 EST 2016,started to upload file,null,bie_xpression_int,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1337.xml,TRUE
+289771357649168main-881610162,null,was not created,null,null,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1337.xml,TRUE
+289771357649168main-881610162,Mon Feb 01 13:38:01 EST 2016,uploaded file,null,bie_xpression_int,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1337.xml,TRUE
+289771357649168main-881610162,null,chmod,600,null,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1337.xml,TRUE
+289771357649168main-881610162,null,chown,999903488,null,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1337.xml,TRUE
+289771357649168main-881610162,null,chgrp,999903488,null,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1337.xml,TRUE
+289771357649168main-881610162,null,null,null,null,null,TRUE
+289771357649168main-881610162,null,null,null,null,null,TRUE
+289771358787583main-921131019,null,null,null,null,null,FALSE
+289771358787583main-921131019,Mon Feb 01 13:44:52 EST 2016,started to upload file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_nt_qa5/ECOTG.QC3POLFD.POLFIL,FALSE
+289771358787583main-921131019,null,was not created,null,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_nt_qa5/ECOTG.QC3POLFD.POLFIL,FALSE
+289771358787583main-921131019,Mon Feb 01 13:44:54 EST 2016,uploaded file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_nt_qa5/ECOTG.QC3POLFD.POLFIL,FALSE
+289771358787583main-921131019,null,chmod,600,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_nt_qa5/ECOTG.QC3POLFD.POLFIL,FALSE
+289771358787583main-921131019,null,chown,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_nt_qa5/ECOTG.QC3POLFD.POLFIL,FALSE
+289771358787583main-921131019,null,chgrp,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_nt_qa5/ECOTG.QC3POLFD.POLFIL,FALSE
+289771358787583main-921131019,null,null,null,null,null,FALSE
+289771358787583main-921131019,null,null,null,null,null,FALSE
+289771359810959main2072427627,null,null,null,null,null,FALSE
+289771359810959main2072427627,Mon Feb 01 13:45:33 EST 2016,started to upload file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_MASTER.TXT,FALSE
+289771359810959main2072427627,null,was not created,null,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_MASTER.TXT,FALSE
+289771359810959main2072427627,Mon Feb 01 13:46:00 EST 2016,uploaded file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_MASTER.txt,FALSE
+289771359810959main2072427627,null,chmod,600,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_MASTER.TXT,FALSE
+289771359810959main2072427627,null,chown,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_MASTER.TXT,FALSE
+289771359810959main2072427627,null,chgrp,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_MASTER.TXT,FALSE
+289771359810959main2072427627,null,null,null,null,null,FALSE
+289771359810959main2072427627,null,null,null,null,null,FALSE
+289771360834763main-166327940,null,null,null,null,null,FALSE
+289771360834763main-166327940,Mon Feb 01 13:46:01 EST 2016,started to upload file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_FUND.TXT,FALSE
+289771360834763main-166327940,null,was not created,null,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_FUND.TXT,FALSE
+289771360834763main-166327940,Mon Feb 01 13:46:01 EST 2016,uploaded file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_FUND.TXT,FALSE
+289771360834763main-166327940,null,chmod,600,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_FUND.TXT,FALSE
+289771360834763main-166327940,null,chown,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_FUND.TXT,FALSE
+289771360834763main-166327940,null,chgrp,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_FUND.TXT,FALSE
+289771360834763main-166327940,null,null,null,null,null,FALSE
+289771360834763main-166327940,null,null,null,null,null,FALSE
+289771361837612main-1890158004,null,null,null,null,null,FALSE
+289771361837612main-1890158004,Mon Feb 01 13:46:02 EST 2016,started to upload file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_COMMISSION_DATA.TXT,FALSE
+289771361837612main-1890158004,null,was not created,null,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_COMMISSION_DATA.TXT,FALSE
+289771361837612main-1890158004,Mon Feb 01 13:46:04 EST 2016,uploaded file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_COMMISSION_DATA.TXT,FALSE
+289771361837612main-1890158004,null,chmod,600,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_COMMISSION_DATA.TXT,FALSE
+289771361837612main-1890158004,null,chown,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_COMMISSION_DATA.TXT,FALSE
+289771361837612main-1890158004,null,chgrp,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_COMMISSION_DATA.TXT,FALSE
+289771361837612main-1890158004,null,null,null,null,null,FALSE
+289771361837612main-1890158004,null,null,null,null,null,FALSE
+289771362854573main1196112561,null,null,null,null,null,FALSE
+289771362854573main1196112561,Mon Feb 01 13:46:05 EST 2016,started to upload file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_STATE.TXT,FALSE
+289771362854573main1196112561,null,was not created,null,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_STATE.TXT,FALSE
+289771362854573main1196112561,Mon Feb 01 13:46:06 EST 2016,uploaded file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_STATE.TXT,FALSE
+289771362854573main1196112561,null,chmod,600,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_STATE.TXT,FALSE
+289771362854573main1196112561,null,chown,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_STATE.TXT,FALSE
+289771362854573main1196112561,null,chgrp,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_STATE.txt,FALSE
+289771362854573main1196112561,null,null,null,null,null,FALSE
+289771362854573main1196112561,null,null,null,null,null,FALSE
+289771363707743main-1370631764,null,null,null,null,null,FALSE
+289771363707743main-1370631764,Mon Feb 01 13:46:07 EST 2016,started to upload file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_GOA.TXT,FALSE
+289771363707743main-1370631764,null,was not created,null,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_GOA.TXT,FALSE
+289771363707743main-1370631764,Mon Feb 01 13:46:10 EST 2016,uploaded file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_GOA.TXT,FALSE
+289771363707743main-1370631764,null,chmod,600,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_GOA.TXT,FALSE
+289771363707743main-1370631764,null,chown,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_GOA.TXT,FALSE
+289771363707743main-1370631764,null,chgrp,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/DVR_GOA.txt,FALSE
+289771363707743main-1370631764,null,null,null,null,null,FALSE
+289771363707743main-1370631764,null,null,null,null,null,FALSE
+289771364720855main1965847851,null,null,null,null,null,FALSE
+289771364720855main1965847851,Mon Feb 01 13:46:10 EST 2016,started to upload file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_PLANFUND.txt,FALSE
+289771364720855main1965847851,null,was not created,null,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_PLANFUND.TXT,FALSE
+289771364720855main1965847851,Mon Feb 01 13:46:31 EST 2016,uploaded file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_PLANFUND.TXT,FALSE
+289771364720855main1965847851,null,chmod,600,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_PLANFUND.TXT,FALSE
+289771364720855main1965847851,null,chown,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_PLANFUND.txt,FALSE
+289771364720855main1965847851,null,chgrp,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_PLANFUND.TXT,FALSE
+289771364720855main1965847851,null,null,null,null,null,FALSE
+289771364720855main1965847851,null,null,null,null,null,FALSE
+289771366103460main1962364998,null,null,null,null,null,FALSE
+289771366103460main1962364998,Mon Feb 01 13:47:24 EST 2016,started to upload file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUND_REBL.TXT,FALSE
+289771366103460main1962364998,null,was not created,null,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUND_REBL.TXT,FALSE
+289771366103460main1962364998,Mon Feb 01 13:47:26 EST 2016,uploaded file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUND_REBL.TXT,FALSE
+289771366103460main1962364998,null,chmod,600,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUND_REBL.txt,FALSE
+289771366103460main1962364998,null,chown,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUND_REBL.TXT,FALSE
+289771366103460main1962364998,null,chgrp,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUND_REBL.TXT,FALSE
+289771366103460main1962364998,null,null,null,null,null,FALSE
+289771366103460main1962364998,null,null,null,null,null,FALSE
+289771367300036main834064991,null,null,null,null,null,FALSE
+289771367300036main834064991,Mon Feb 01 13:47:27 EST 2016,started to upload file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_LST_FUND_REB.TXT,FALSE
+289771367300036main834064991,null,was not created,null,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_LST_FUND_REB.TXT,FALSE
+289771367300036main834064991,Mon Feb 01 13:47:28 EST 2016,uploaded file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_LST_FUND_REB.TXT,FALSE
+289771367300036main834064991,null,chmod,600,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_LST_FUND_REB.TXT,FALSE
+289771367300036main834064991,null,chown,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_LST_FUND_REB.TXT,FALSE
+289771367300036main834064991,null,chgrp,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_LST_FUND_REB.TXT,FALSE
+289771367300036main834064991,null,null,null,null,null,FALSE
+289771367300036main834064991,null,null,null,null,null,FALSE
+289771368254560main1620226934,null,null,null,null,null,FALSE
+289771368254560main1620226934,Mon Feb 01 13:47:29 EST 2016,started to upload file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_ALERT.TXT,FALSE
+289771368254560main1620226934,null,was not created,null,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_ALERT.TXT,FALSE
+289771368254560main1620226934,Mon Feb 01 13:47:29 EST 2016,uploaded file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_ALERT.TXT,FALSE
+289771368254560main1620226934,null,chmod,600,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_ALERT.TXT,FALSE
+289771368254560main1620226934,null,chown,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_ALERT.TXT,FALSE
+289771368254560main1620226934,null,chgrp,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_ALERT.TXT,FALSE
+289771368254560main1620226934,null,null,null,null,null,FALSE
+289771368254560main1620226934,null,null,null,null,null,FALSE
+289771369316425main1691011082,null,null,null,null,null,FALSE
+289771369316425main1691011082,Mon Feb 01 13:47:30 EST 2016,started to upload file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_EXER_ALERT.TXT,FALSE
+289771369316425main1691011082,null,was not created,null,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_EXER_ALERT.TXT,FALSE
+289771369316425main1691011082,Mon Feb 01 13:47:30 EST 2016,uploaded file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_EXER_ALERT.TXT,FALSE
+289771369316425main1691011082,null,chmod,600,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_EXER_ALERT.TXT,FALSE
+289771369316425main1691011082,null,chown,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_EXER_ALERT.TXT,FALSE
+289771369316425main1691011082,null,chgrp,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_EXER_ALERT.TXT,FALSE
+289771369316425main1691011082,null,null,null,null,null,FALSE
+289771369316425main1691011082,null,null,null,null,null,FALSE
+289771370391119main-1039703021,null,null,null,null,null,FALSE
+289771370391119main-1039703021,Mon Feb 01 13:47:30 EST 2016,started to upload file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_IE120_ALERT.TXT,FALSE
+289771370391119main-1039703021,null,was not created,null,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_IE120_ALERT.TXT,FALSE
+289771370391119main-1039703021,Mon Feb 01 13:47:31 EST 2016,uploaded file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_IE120_ALERT.TXT,FALSE
+289771370391119main-1039703021,null,chmod,600,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_IE120_ALERT.TXT,FALSE
+289771370391119main-1039703021,null,chown,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_IE120_ALERT.TXT,FALSE
+289771370391119main-1039703021,null,chgrp,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_DVR_IE120_ALERT.TXT,FALSE
+289771370391119main-1039703021,null,null,null,null,null,FALSE
+289771370391119main-1039703021,null,null,null,null,null,FALSE
+289771371837872main1302636696,null,null,null,null,null,FALSE
+289771371837872main1302636696,Mon Feb 01 13:47:55 EST 2016,started to upload file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUTURE_CONT.TXT,FALSE
+289771371837872main1302636696,null,was not created,null,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUTURE_CONT.TXT,FALSE
+289771372319839main1982488040,null,null,null,null,null,FALSE
+289771372319839main1982488040,Mon Feb 01 13:48:16 EST 2016,started to upload file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_transaction_DATA_CNTL.TXT,FALSE
+289771372319839main1982488040,null,was not created,null,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_transaction_DATA_CNTL.TXT,FALSE
+289771372319839main1982488040,Mon Feb 01 13:48:16 EST 2016,uploaded file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_transaction_DATA_CNTL.TXT,FALSE
+289771372319839main1982488040,Mon Feb 01 13:48:16 EST 2016,uploaded file,null,pfinity_rvd_qa5,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUTURE_CONT.TXT,FALSE
+289771372319839main1982488040,null,chmod,600,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_transaction_DATA_CNTL.TXT,FALSE
+289771372319839main1982488040,null,chmod,600,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUTURE_CONT.TXT,FALSE
+289771372319839main1982488040,null,chown,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_transaction_DATA_CNTL.TXT,FALSE
+289771372319839main1982488040,null,chown,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUTURE_CONT.TXT,FALSE
+289771372319839main1982488040,null,chgrp,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_transaction_DATA_CNTL.TXT,FALSE
+289771372319839main1982488040,null,chgrp,999901083,null,/export/home/pub/pfinity_rvd_qa5/out/pfinity_adl_qa5/GMI_POL_DATA_FUTURE_CONT.TXT,FALSE
+289771372319839main1982488040,null,null,null,null,null,FALSE
+289771372319839main1982488040,null,null,null,null,null,FALSE
+289771372319839main1982488040,null,null,null,null,null,FALSE
+289771372319839main1982488040,null,null,null,null,null,FALSE
+289771373585694main688968856,null,null,null,null,null,TRUE
+289771373585694main688968856,Mon Feb 01 13:59:29 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/in/IRONMTN_POLN_201602010915351.zip,TRUE
+289771373585694main688968856,null,was not created,null,null,/export/home/pub/awduat10/in/IRONMTN_POLN_201602010915351.zip,TRUE
+289771373585694main688968856,Mon Feb 01 13:59:32 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/in/IRONMTN_POLN_201602010915351.zip,TRUE
+289771373585694main688968856,null,chmod,600,null,/export/home/pub/awduat10/in/IRONMTN_POLN_201602010915351.zip,TRUE
+289771373585694main688968856,null,chown,9999113,null,/export/home/pub/awduat10/in/IRONMTN_POLN_201602010915351.zip,TRUE
+289771373585694main688968856,null,chgrp,9999113,null,/export/home/pub/awduat10/in/IRONMTN_POLN_201602010915351.zip,TRUE
+289771373585694main688968856,null,null,null,null,null,TRUE
+289771373585694main688968856,null,null,null,null,null,TRUE
+289771374394388main-275336161,null,null,null,null,null,TRUE
+289771374394388main-275336161,Mon Feb 01 14:00:01 EST 2016,started to upload file,null,wmb_cmod_int,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf.ind,TRUE
+289771374394388main-275336161,null,was not created,null,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf.ind,TRUE
+289771375147059main86164875,null,null,null,null,null,TRUE
+289771375147059main86164875,Mon Feb 01 14:00:01 EST 2016,started to upload file,null,wmb_cmod_int,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf,TRUE
+289771375147059main86164875,null,was not created,null,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf,TRUE
+289771375147059main86164875,Mon Feb 01 14:00:01 EST 2016,uploaded file,null,wmb_cmod_int,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf.ind,TRUE
+289771375147059main86164875,null,chmod,600,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf.ind,TRUE
+289771375147059main86164875,Mon Feb 01 14:00:01 EST 2016,uploaded file,null,wmb_cmod_int,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf,TRUE
+289771375147059main86164875,null,chmod,600,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf,TRUE
+289771375147059main86164875,null,chown,9999228,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf.ind,TRUE
+289771375147059main86164875,null,chown,9999228,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf,TRUE
+289771375147059main86164875,null,chgrp,9999228,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf.ind,TRUE
+289771375147059main86164875,null,chgrp,9999228,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201013404.pdf,TRUE
+289771375147059main86164875,null,null,null,null,null,TRUE
+289771375147059main86164875,null,null,null,null,null,TRUE
+289771375147059main86164875,null,null,null,null,null,TRUE
+289771375147059main86164875,null,null,null,null,null,TRUE
+289771377316975main-1312204137,null,null,null,null,null,
+289771377316975main-1312204137,Mon Feb 01 14:00:02 EST 2016,started to upload file,null,eedmetaid,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771377316975main-1312204137,null,chmod,666,null,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771377316975main-1312204137,Mon Feb 01 14:00:02 EST 2016,uploaded file,null,eedmetaid,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771377316975main-1312204137,null,chmod,600,null,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771377316975main-1312204137,null,chown,999903464,null,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771377316975main-1312204137,null,chgrp,999903464,null,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771377316975main-1312204137,null,null,null,null,null,
+289771377316975main-1312204137,null,null,null,null,null,
+289771378071357main-135315076,null,null,null,null,null,TRUE
+289771378071357main-135315076,Mon Feb 01 14:02:08 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201140207.zip,TRUE
+289771378071357main-135315076,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201140207.zip,TRUE
+289771378071357main-135315076,Mon Feb 01 14:02:08 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201140207.zip,TRUE
+289771378071357main-135315076,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201140207.zip,TRUE
+289771378071357main-135315076,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201140207.zip,TRUE
+289771378071357main-135315076,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201140207.zip,TRUE
+289771378071357main-135315076,null,null,null,null,null,TRUE
+289771378071357main-135315076,null,null,null,null,null,TRUE
+289771378978411main1641739728,null,null,null,null,null,TRUE
+289771378978411main1641739728,Mon Feb 01 14:02:10 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201140209.zip,TRUE
+289771378978411main1641739728,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201140209.zip,TRUE
+289771378978411main1641739728,Mon Feb 01 14:02:10 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201140209.zip,TRUE
+289771378978411main1641739728,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201140209.zip,TRUE
+289771378978411main1641739728,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201140209.zip,TRUE
+289771378978411main1641739728,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201140209.zip,TRUE
+289771378978411main1641739728,null,null,null,null,null,TRUE
+289771378978411main1641739728,null,null,null,null,null,TRUE
+289771379879478main-1639225844,null,null,null,null,null,TRUE
+289771379879478main-1639225844,Mon Feb 01 14:02:14 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201140213.zip,TRUE
+289771379879478main-1639225844,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201140213.zip,TRUE
+289771379879478main-1639225844,Mon Feb 01 14:02:14 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201140213.zip,TRUE
+289771379879478main-1639225844,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201140213.zip,TRUE
+289771379879478main-1639225844,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201140213.zip,TRUE
+289771379879478main-1639225844,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201140213.zip,TRUE
+289771379879478main-1639225844,null,null,null,null,null,TRUE
+289771379879478main-1639225844,null,null,null,null,null,TRUE
+289771380747188main-362959144,null,null,null,null,null,TRUE
+289771380747188main-362959144,Mon Feb 01 14:02:18 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201140217.zip,TRUE
+289771380747188main-362959144,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201140217.zip,TRUE
+289771380747188main-362959144,Mon Feb 01 14:02:18 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201140217.zip,TRUE
+289771380747188main-362959144,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201140217.zip,TRUE
+289771380747188main-362959144,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201140217.zip,TRUE
+289771380747188main-362959144,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201140217.zip,TRUE
+289771380747188main-362959144,null,null,null,null,null,TRUE
+289771380747188main-362959144,null,null,null,null,null,TRUE
+289771381824448main-672629989,null,null,null,null,null,TRUE
+289771381824448main-672629989,Mon Feb 01 14:02:21 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201140220.zip,TRUE
+289771381824448main-672629989,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201140220.zip,TRUE
+289771381824448main-672629989,Mon Feb 01 14:02:22 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201140220.zip,TRUE
+289771381824448main-672629989,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201140220.zip,TRUE
+289771381824448main-672629989,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201140220.zip,TRUE
+289771381824448main-672629989,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201140220.zip,TRUE
+289771381824448main-672629989,null,null,null,null,null,TRUE
+289771381824448main-672629989,null,null,null,null,null,TRUE
+289771382679756main-1494362949,null,null,null,null,null,
+289771382679756main-1494362949,Mon Feb 01 14:04:44 EST 2016,started to upload file,null,fd_int,/export/home/pub/fd_int/String_List.txt,
+289771382679756main-1494362949,null,chmod,666,null,/export/home/pub/fd_int/String_List.txt,
+289771382679756main-1494362949,Mon Feb 01 14:04:45 EST 2016,uploaded file,null,fd_int,/export/home/pub/fd_int/String_List.txt,
+289771382679756main-1494362949,null,chmod,600,null,/export/home/pub/fd_int/String_List.txt,
+289771382679756main-1494362949,null,chown,root,null,/export/home/pub/fd_int/String_List.txt,
+289771382679756main-1494362949,null,chgrp,root,null,/export/home/pub/fd_int/String_List.txt,
+289771382679756main-1494362949,null,null,null,null,null,
+289771382679756main-1494362949,null,null,null,null,null,
+289771383440981main-238514136,null,null,null,null,null,TRUE
+289771383440981main-238514136,Mon Feb 01 14:05:03 EST 2016,started to upload file,null,primerica_bie_int,/export/home/pub/primerica_bie_int/out/AG6407XYZ16020104591.01,TRUE
+289771383440981main-238514136,null,was not created,null,null,/export/home/pub/primerica_bie_int/out/AG6407XYZ16020104591.01,TRUE
+289771383440981main-238514136,Mon Feb 01 14:05:04 EST 2016,uploaded file,null,primerica_bie_int,/export/home/pub/primerica_bie_int/out/AG6407XYZ16020104591.01,TRUE
+289771383440981main-238514136,null,chmod,600,null,/export/home/pub/primerica_bie_int/out/AG6407XYZ16020104591.01,TRUE
+289771383440981main-238514136,null,chown,9999046,null,/export/home/pub/primerica_bie_int/out/AG6407XYZ16020104591.01,TRUE
+289771383440981main-238514136,null,chgrp,9999046,null,/export/home/pub/primerica_bie_int/out/AG6407XYZ16020104591.01,TRUE
+289771383440981main-238514136,null,null,null,null,null,TRUE
+289771383440981main-238514136,null,null,null,null,null,TRUE
+289771384203488main1962181683,null,null,null,null,null,TRUE
+289771384203488main1962181683,Mon Feb 01 14:05:04 EST 2016,started to upload file,null,primerica_bie_int,/export/home/pub/primerica_bie_int/out/A6407XYZ16020104929.01,TRUE
+289771384203488main1962181683,null,was not created,null,null,/export/home/pub/primerica_bie_int/out/A6407XYZ16020104929.01,TRUE
+289771384203488main1962181683,Mon Feb 01 14:05:06 EST 2016,uploaded file,null,primerica_bie_int,/export/home/pub/primerica_bie_int/out/A6407XYZ16020104929.01,TRUE
+289771384203488main1962181683,null,chmod,600,null,/export/home/pub/primerica_bie_int/out/A6407XYZ16020104929.01,TRUE
+289771384203488main1962181683,null,chown,9999046,null,/export/home/pub/primerica_bie_int/out/A6407XYZ16020104929.01,TRUE
+289771384203488main1962181683,null,chgrp,9999046,null,/export/home/pub/primerica_bie_int/out/A6407XYZ16020104929.01,TRUE
+289771384203488main1962181683,null,null,null,null,null,TRUE
+289771384203488main1962181683,null,null,null,null,null,TRUE
+289771385113963main-2062549273,null,null,null,null,null,
+289771385113963main-2062549273,Mon Feb 01 14:10:16 EST 2016,started to upload file,null,fd_int,/export/home/pub/fd_int/String_List.txt,
+289771385113963main-2062549273,null,chmod,666,null,/export/home/pub/fd_int/String_List.txt,
+289771385113963main-2062549273,Mon Feb 01 14:10:17 EST 2016,uploaded file,null,fd_int,/export/home/pub/fd_int/String_List.txt,
+289771385113963main-2062549273,null,chmod,600,null,/export/home/pub/fd_int/String_List.txt,
+289771385113963main-2062549273,null,chown,root,null,/export/home/pub/fd_int/String_List.txt,
+289771385113963main-2062549273,null,chgrp,root,null,/export/home/pub/fd_int/String_List.txt,
+289771385113963main-2062549273,null,null,null,null,null,
+289771385113963main-2062549273,null,null,null,null,null,
+289771385894859main-609302161,null,null,null,null,null,FALSE
+289771385894859main-609302161,Mon Feb 01 14:10:26 EST 2016,started to upload file,null,etransactiondev,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPG3_D_M_20160201191025.TXT,FALSE
+289771385894859main-609302161,null,was not created,null,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPG3_D_M_20160201191025.TXT,FALSE
+289771385894859main-609302161,Mon Feb 01 14:10:27 EST 2016,uploaded file,null,etransactiondev,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPG3_D_M_20160201191025.TXT,FALSE
+289771385894859main-609302161,null,chmod,600,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPG3_D_M_20160201191025.TXT,FALSE
+289771385894859main-609302161,null,chown,9999092,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPG3_D_M_20160201191025.TXT,FALSE
+289771385894859main-609302161,null,chgrp,9999092,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPG3_D_M_20160201191025.TXT,FALSE
+289771385894859main-609302161,null,null,null,null,null,FALSE
+289771385894859main-609302161,null,null,null,null,null,FALSE
+289771386843396main-1840745521,null,null,null,null,null,FALSE
+289771386843396main-1840745521,Mon Feb 01 14:11:14 EST 2016,started to upload file,null,etransactiondev,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPOL_D_M_20160201191113.TXT,FALSE
+289771386843396main-1840745521,null,was not created,null,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPOL_D_M_20160201191113.TXT,FALSE
+289771386843396main-1840745521,Mon Feb 01 14:11:15 EST 2016,uploaded file,null,etransactiondev,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPOL_D_M_20160201191113.TXT,FALSE
+289771386843396main-1840745521,null,chmod,600,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPOL_D_M_20160201191113.TXT,FALSE
+289771386843396main-1840745521,null,chown,9999092,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPOL_D_M_20160201191113.TXT,FALSE
+289771386843396main-1840745521,null,chgrp,9999092,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CPOL_D_M_20160201191113.TXT,FALSE
+289771386843396main-1840745521,null,null,null,null,null,FALSE
+289771386843396main-1840745521,null,null,null,null,null,FALSE
+289771387766701main-622655273,null,null,null,null,null,FALSE
+289771387766701main-622655273,Mon Feb 01 14:13:07 EST 2016,started to upload file,null,etransactiondev,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CMIX_D_M_20160201191306.TXT,FALSE
+289771387766701main-622655273,null,was not created,null,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CMIX_D_M_20160201191306.TXT,FALSE
+289771387766701main-622655273,Mon Feb 01 14:13:08 EST 2016,uploaded file,null,etransactiondev,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CMIX_D_M_20160201191306.TXT,FALSE
+289771387766701main-622655273,null,chmod,600,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CMIX_D_M_20160201191306.TXT,FALSE
+289771387766701main-622655273,null,chown,9999092,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CMIX_D_M_20160201191306.TXT,FALSE
+289771387766701main-622655273,null,chgrp,9999092,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_CMIX_D_M_20160201191306.TXT,FALSE
+289771387766701main-622655273,null,null,null,null,null,FALSE
+289771387766701main-622655273,null,null,null,null,null,FALSE
+289771388625002main-34359766,null,null,null,null,null,FALSE
+289771388625002main-34359766,Mon Feb 01 14:13:34 EST 2016,started to upload file,null,etransactiondev,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APG3_D_M_20160201191333.TXT,FALSE
+289771388625002main-34359766,null,was not created,null,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APG3_D_M_20160201191333.TXT,FALSE
+289771388625002main-34359766,Mon Feb 01 14:13:34 EST 2016,uploaded file,null,etransactiondev,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APG3_D_M_20160201191333.TXT,FALSE
+289771388625002main-34359766,null,chmod,600,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APG3_D_M_20160201191333.TXT,FALSE
+289771388625002main-34359766,null,chown,9999092,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APG3_D_M_20160201191333.TXT,FALSE
+289771388625002main-34359766,null,chgrp,9999092,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APG3_D_M_20160201191333.TXT,FALSE
+289771388625002main-34359766,null,null,null,null,null,FALSE
+289771388625002main-34359766,null,null,null,null,null,FALSE
+289771389432413main-1159449350,null,null,null,null,null,FALSE
+289771389432413main-1159449350,Mon Feb 01 14:14:00 EST 2016,started to upload file,null,etransactiondev,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201191359.TXT,FALSE
+289771389432413main-1159449350,null,was not created,null,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201191359.TXT,FALSE
+289771389432413main-1159449350,Mon Feb 01 14:14:00 EST 2016,uploaded file,null,etransactiondev,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201191359.TXT,FALSE
+289771389432413main-1159449350,null,chmod,600,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201191359.TXT,FALSE
+289771389432413main-1159449350,null,chown,9999092,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201191359.TXT,FALSE
+289771389432413main-1159449350,null,chgrp,9999092,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_APOL_D_M_20160201191359.TXT,FALSE
+289771389432413main-1159449350,null,null,null,null,null,FALSE
+289771389432413main-1159449350,null,null,null,null,null,FALSE
+289771390210743main-1274480419,null,null,null,null,null,FALSE
+289771390210743main-1274480419,Mon Feb 01 14:14:25 EST 2016,started to upload file,null,etransactiondev,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201191425.TXT,FALSE
+289771390210743main-1274480419,null,was not created,null,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201191425.TXT,FALSE
+289771390210743main-1274480419,Mon Feb 01 14:14:26 EST 2016,uploaded file,null,etransactiondev,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201191425.TXT,FALSE
+289771390210743main-1274480419,null,chmod,600,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201191425.TXT,FALSE
+289771390210743main-1274480419,null,chown,9999092,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201191425.TXT,FALSE
+289771390210743main-1274480419,null,chgrp,9999092,null,/export/home/pub/etransactiondev/uploads/etransactionenvironment/ABC/rrd/in/WCWT.SMR.XYZ0002.PLSE.INPUT01.LFEP_AMIX_D_M_20160201191425.TXT,FALSE
+289771390210743main-1274480419,null,null,null,null,null,FALSE
+289771390210743main-1274480419,null,null,null,null,null,FALSE
+289771390995061main902864153,null,null,null,null,null,FALSE
+289771390995061main902864153,Mon Feb 01 14:15:04 EST 2016,started to upload file,null,wmb_bpel_int,/export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC,FALSE
+289771390995061main902864153,null,was not created,null,null,/export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC,FALSE
+289771390995061main902864153,Mon Feb 01 14:15:04 EST 2016,uploaded file,null,wmb_bpel_int,/export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC,FALSE
+289771390995061main902864153,null,chmod,600,null,/export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC,FALSE
+289771390995061main902864153,null,chown,9999240,null,/export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC,FALSE
+289771390995061main902864153,null,chgrp,9999240,null,/export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC,FALSE
+289771390995061main902864153,null,null,null,null,null,FALSE
+289771390995061main902864153,null,null,null,null,null,FALSE
+289771391849513main-1934804078,null,null,null,null,null,TRUE
+289771391849513main-1934804078,Mon Feb 01 14:16:37 EST 2016,started to upload file,null,awd_to_qa6_int,/export/home/pub/awd_to_qa6_int/in/NOCEM091615135032195.zip,TRUE
+289771391849513main-1934804078,null,was not created,null,null,/export/home/pub/awd_to_qa6_int/in/NOCEM091615135032195.zip,TRUE
+289771391849513main-1934804078,Mon Feb 01 14:16:37 EST 2016,uploaded file,null,awd_to_qa6_int,/export/home/pub/awd_to_qa6_int/in/NOCEM091615135032195.zip,TRUE
+289771391849513main-1934804078,null,chmod,600,null,/export/home/pub/awd_to_qa6_int/in/NOCEM091615135032195.zip,TRUE
+289771391849513main-1934804078,null,chown,999903264,null,/export/home/pub/awd_to_qa6_int/in/NOCEM091615135032195.zip,TRUE
+289771391849513main-1934804078,null,chgrp,999903264,null,/export/home/pub/awd_to_qa6_int/in/NOCEM091615135032195.zip,TRUE
+289771391849513main-1934804078,null,null,null,null,null,TRUE
+289771391849513main-1934804078,null,null,null,null,null,TRUE
+289771392614159main1168263588,null,null,null,null,null,
+289771392614159main1168263588,Mon Feb 01 14:21:39 EST 2016,started to upload file,null,wmb_bpel_int,/export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC,
+289771392614159main1168263588,null,chmod,666,null,/export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC,
+289771392614159main1168263588,Mon Feb 01 14:21:39 EST 2016,uploaded file,null,wmb_bpel_int,/export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC,
+289771392614159main1168263588,null,chmod,600,null,/export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC,
+289771392614159main1168263588,null,chown,9999240,null,/export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC,
+289771392614159main1168263588,null,chgrp,9999240,null,/export/home/pub/wmb_bpel_int/out/FileBuilder_CBANC,
+289771392614159main1168263588,null,null,null,null,null,
+289771392614159main1168263588,null,null,null,null,null,
+289771393269752main1981977137,null,null,null,null,null,TRUE
+289771393269752main1981977137,Mon Feb 01 14:22:52 EST 2016,started to upload file,null,awd_to_qa6_int,/export/home/pub/awd_to_qa6_int/in/NOCEM102615141639158.zip,TRUE
+289771393269752main1981977137,null,was not created,null,null,/export/home/pub/awd_to_qa6_int/in/NOCEM102615141639158.zip,TRUE
+289771393269752main1981977137,Mon Feb 01 14:22:53 EST 2016,uploaded file,null,awd_to_qa6_int,/export/home/pub/awd_to_qa6_int/in/NOCEM102615141639158.zip,TRUE
+289771393269752main1981977137,null,chmod,600,null,/export/home/pub/awd_to_qa6_int/in/NOCEM102615141639158.zip,TRUE
+289771393269752main1981977137,null,chown,999903264,null,/export/home/pub/awd_to_qa6_int/in/NOCEM102615141639158.zip,TRUE
+289771393269752main1981977137,null,chgrp,999903264,null,/export/home/pub/awd_to_qa6_int/in/NOCEM102615141639158.zip,TRUE
+289771393269752main1981977137,null,null,null,null,null,TRUE
+289771393269752main1981977137,null,null,null,null,null,TRUE
+289771393942024main-59255667,null,null,null,null,null,TRUE
+289771393942024main-59255667,Mon Feb 01 14:24:44 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201142443.zip,TRUE
+289771393942024main-59255667,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201142443.zip,TRUE
+289771393942024main-59255667,Mon Feb 01 14:24:45 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201142443.zip,TRUE
+289771393942024main-59255667,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201142443.zip,TRUE
+289771393942024main-59255667,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201142443.zip,TRUE
+289771393942024main-59255667,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201142443.zip,TRUE
+289771393942024main-59255667,null,null,null,null,null,TRUE
+289771393942024main-59255667,null,null,null,null,null,TRUE
+289771394710091main447586143,null,null,null,null,null,TRUE
+289771394710091main447586143,Mon Feb 01 14:24:47 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201142446.zip,TRUE
+289771394710091main447586143,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201142446.zip,TRUE
+289771394710091main447586143,Mon Feb 01 14:24:48 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201142446.zip,TRUE
+289771394710091main447586143,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201142446.zip,TRUE
+289771394710091main447586143,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201142446.zip,TRUE
+289771394710091main447586143,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201142446.zip,TRUE
+289771394710091main447586143,null,null,null,null,null,TRUE
+289771394710091main447586143,null,null,null,null,null,TRUE
+289771395526482main1211603654,null,null,null,null,null,TRUE
+289771395526482main1211603654,Mon Feb 01 14:24:50 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201142449.zip,TRUE
+289771395526482main1211603654,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201142449.zip,TRUE
+289771395526482main1211603654,Mon Feb 01 14:24:50 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201142449.zip,TRUE
+289771395526482main1211603654,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201142449.zip,TRUE
+289771395526482main1211603654,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201142449.zip,TRUE
+289771395526482main1211603654,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201142449.zip,TRUE
+289771395526482main1211603654,null,null,null,null,null,TRUE
+289771395526482main1211603654,null,null,null,null,null,TRUE
+289771396307806main-2053861971,null,null,null,null,null,TRUE
+289771396307806main-2053861971,Mon Feb 01 14:24:52 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201142451.zip,TRUE
+289771396307806main-2053861971,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201142451.zip,TRUE
+289771396307806main-2053861971,Mon Feb 01 14:24:53 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201142451.zip,TRUE
+289771396307806main-2053861971,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201142451.zip,TRUE
+289771396307806main-2053861971,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201142451.zip,TRUE
+289771396307806main-2053861971,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201142451.zip,TRUE
+289771396307806main-2053861971,null,null,null,null,null,TRUE
+289771396307806main-2053861971,null,null,null,null,null,TRUE
+289771397171667main-450226953,null,null,null,null,null,TRUE
+289771397171667main-450226953,Mon Feb 01 14:24:55 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201142455.zip,TRUE
+289771397171667main-450226953,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201142455.zip,TRUE
+289771397171667main-450226953,Mon Feb 01 14:24:56 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201142455.zip,TRUE
+289771397171667main-450226953,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201142455.zip,TRUE
+289771397171667main-450226953,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201142455.zip,TRUE
+289771397171667main-450226953,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201142455.zip,TRUE
+289771397171667main-450226953,null,null,null,null,null,TRUE
+289771397171667main-450226953,null,null,null,null,null,TRUE
+289771397913219main1357956652,null,null,null,null,null,TRUE
+289771397913219main1357956652,Mon Feb 01 14:33:41 EST 2016,started to upload file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_01_pfs.txt,TRUE
+289771397913219main1357956652,null,was not created,null,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_01_pfs.txt,TRUE
+289771397913219main1357956652,Mon Feb 01 14:33:42 EST 2016,uploaded file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_01_pfs.txt,TRUE
+289771397913219main1357956652,null,chmod,600,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_01_pfs.txt,TRUE
+289771397913219main1357956652,null,chown,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_01_pfs.txt,TRUE
+289771397913219main1357956652,null,chgrp,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_01_pfs.txt,TRUE
+289771397913219main1357956652,null,null,null,null,null,TRUE
+289771397913219main1357956652,null,null,null,null,null,TRUE
+289771399197036main684680004,null,null,null,null,null,FALSE
+289771399197036main684680004,Mon Feb 01 14:38:07 EST 2016,started to upload file,null,pfinity_wma_qa5,/export/home/pub/pfinity_wma_qa5/out/pfinity_rvd_qa5/KKTP.U8XYZMPE.REFfile.EXTRACT,FALSE
+289771399197036main684680004,null,was not created,null,null,/export/home/pub/pfinity_wma_qa5/out/pfinity_rvd_qa5/KKTP.U8XYZMPE.REFfile.EXTRACT,FALSE
+289771399197036main684680004,Mon Feb 01 14:38:08 EST 2016,uploaded file,null,pfinity_wma_qa5,/export/home/pub/pfinity_wma_qa5/out/pfinity_rvd_qa5/KKTP.U8XYZMPE.REFfile.EXTRACT,FALSE
+289771399197036main684680004,null,chmod,600,null,/export/home/pub/pfinity_wma_qa5/out/pfinity_rvd_qa5/KKTP.U8XYZMPE.REFfile.EXTRACT,FALSE
+289771399197036main684680004,null,chown,999901088,null,/export/home/pub/pfinity_wma_qa5/out/pfinity_rvd_qa5/KKTP.U8XYZMPE.REFfile.EXTRACT,FALSE
+289771399197036main684680004,null,chgrp,999901088,null,/export/home/pub/pfinity_wma_qa5/out/pfinity_rvd_qa5/KKTP.U8XYZMPE.REFfile.EXTRACT,FALSE
+289771399197036main684680004,null,null,null,null,null,FALSE
+289771399197036main684680004,null,null,null,null,null,FALSE
+289771399968524main-210532102,null,null,null,null,null,FALSE
+289771399968524main-210532102,Mon Feb 01 14:40:06 EST 2016,started to upload file,null,pfinity_v1_qa5,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771399968524main-210532102,null,was not created,null,null,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771399968524main-210532102,Mon Feb 01 14:40:07 EST 2016,uploaded file,null,pfinity_v1_qa5,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771399968524main-210532102,null,chmod,600,null,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771399968524main-210532102,null,chown,999901084,null,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771399968524main-210532102,null,chgrp,999901084,null,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771399968524main-210532102,null,null,null,null,null,FALSE
+289771399968524main-210532102,null,null,null,null,null,FALSE
+289771400748137main-14424552,null,null,null,null,null,TRUE
+289771400748137main-14424552,Mon Feb 01 14:40:59 EST 2016,started to upload file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011436.xml,TRUE
+289771400748137main-14424552,null,was not created,null,null,/export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011436.xml,TRUE
+289771400748137main-14424552,Mon Feb 01 14:40:59 EST 2016,uploaded file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011436.xml,TRUE
+289771400748137main-14424552,null,chmod,600,null,/export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011436.xml,TRUE
+289771400748137main-14424552,null,chown,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011436.xml,TRUE
+289771400748137main-14424552,null,chgrp,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_biert_uat/103ApplicationXML_5100_201602011436.xml,TRUE
+289771400748137main-14424552,null,null,null,null,null,TRUE
+289771400748137main-14424552,null,null,null,null,null,TRUE
+289771401729603main-1320955088,null,null,null,null,null,FALSE
+289771401729603main-1320955088,Mon Feb 01 14:41:02 EST 2016,started to upload file,null,pfinity_biert_uat,/export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A,FALSE
+289771401729603main-1320955088,null,was not created,null,null,/export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A,FALSE
+289771402081563main395214024,null,null,null,null,null,TRUE
+289771402081563main395214024,Mon Feb 01 14:41:02 EST 2016,started to upload file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt,TRUE
+289771402081563main395214024,null,was not created,null,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt,TRUE
+289771402081563main395214024,Mon Feb 01 14:41:02 EST 2016,uploaded file,null,pfinity_biert_uat,/export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A,TRUE
+289771402081563main395214024,null,chmod,600,null,/export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A,TRUE
+289771402081563main395214024,Mon Feb 01 14:41:02 EST 2016,uploaded file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt,TRUE
+289771402081563main395214024,null,chmod,600,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt,TRUE
+289771402081563main395214024,null,chown,999900977,null,/export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A,TRUE
+289771402081563main395214024,null,chown,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt,TRUE
+289771402081563main395214024,null,chgrp,999900977,null,/export/home/pub/pfinity_biert_uat/out/SFTT.QANGPPEA.A,TRUE
+289771402081563main395214024,null,chgrp,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp.txt,TRUE
+289771402081563main395214024,null,null,null,null,null,TRUE
+289771402081563main395214024,null,null,null,null,null,TRUE
+289771402081563main395214024,null,null,null,null,null,TRUE
+289771402081563main395214024,null,null,null,null,null,TRUE
+289771403186193main-1609662498,null,null,null,null,null,FALSE
+289771403186193main-1609662498,Mon Feb 01 14:41:05 EST 2016,started to upload file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL1.CYC1.APPFILE.POLNUM,FALSE
+289771403186193main-1609662498,null,was not created,null,null,/export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL1.CYC1.APPFILE.POLNUM,FALSE
+289771403186193main-1609662498,Mon Feb 01 14:41:05 EST 2016,uploaded file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL1.CYC1.APPFILE.POLNUM,FALSE
+289771403186193main-1609662498,null,chmod,600,null,/export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL1.CYC1.APPFILE.POLNUM,FALSE
+289771403186193main-1609662498,null,chown,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL1.CYC1.APPFILE.POLNUM,FALSE
+289771403186193main-1609662498,null,chgrp,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_rvd_uat/bieUG.bieGUPL1.CYC1.APPFILE.POLNUM,FALSE
+289771403186193main-1609662498,null,null,null,null,null,FALSE
+289771403186193main-1609662498,null,null,null,null,null,FALSE
+289771403996597main-800638403,null,null,null,null,null,TRUE
+289771403996597main-800638403,Mon Feb 01 14:41:08 EST 2016,started to upload file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011436.xml,TRUE
+289771403996597main-800638403,null,was not created,null,null,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011436.xml,TRUE
+289771403996597main-800638403,Mon Feb 01 14:41:08 EST 2016,uploaded file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011436.xml,TRUE
+289771403996597main-800638403,null,chmod,600,null,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011436.xml,TRUE
+289771403996597main-800638403,null,chown,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011436.xml,TRUE
+289771403996597main-800638403,null,chgrp,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_103ApplicationXML_5100_201602011436.xml,TRUE
+289771403996597main-800638403,null,null,null,null,null,TRUE
+289771403996597main-800638403,null,null,null,null,null,TRUE
+289771404851477main1570252397,null,null,null,null,null,TRUE
+289771404851477main1570252397,Mon Feb 01 14:41:11 EST 2016,started to upload file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011436.xml,TRUE
+289771404851477main1570252397,null,was not created,null,null,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011436.xml,TRUE
+289771404851477main1570252397,Mon Feb 01 14:41:11 EST 2016,uploaded file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011436.xml,TRUE
+289771404851477main1570252397,null,chmod,600,null,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011436.xml,TRUE
+289771404851477main1570252397,null,chown,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011436.xml,TRUE
+289771404851477main1570252397,null,chgrp,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_exp_uat/GMI_508FinancialXML_5100_201602011436.xml,TRUE
+289771404851477main1570252397,null,null,null,null,null,TRUE
+289771404851477main1570252397,null,null,null,null,null,TRUE
+289771405746985main1920255494,null,null,null,null,null,
+289771405746985main1920255494,Mon Feb 01 14:41:41 EST 2016,started to upload file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_CONTROL,
+289771405746985main1920255494,null,chmod,666,null,/export/home/pub/ff_bie_int/in/FF_CONTROL,
+289771406165658main-861809393,null,null,null,null,null,
+289771406165658main-861809393,Mon Feb 01 14:41:42 EST 2016,started to upload file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_PERSON,
+289771406165658main-861809393,null,chmod,666,null,/export/home/pub/ff_bie_int/in/FF_PERSON,
+289771406165658main-861809393,Mon Feb 01 14:41:42 EST 2016,uploaded file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_CONTROL,
+289771406165658main-861809393,null,chmod,600,null,/export/home/pub/ff_bie_int/in/FF_CONTROL,
+289771406165658main-861809393,null,chown,999903474,null,/export/home/pub/ff_bie_int/in/FF_CONTROL,
+289771406165658main-861809393,null,chgrp,999903474,null,/export/home/pub/ff_bie_int/in/FF_CONTROL,
+289771406165658main-861809393,null,null,null,null,null,
+289771406165658main-861809393,null,null,null,null,null,
+289771406828094main904524199,null,null,null,null,null,
+289771406828094main904524199,Mon Feb 01 14:41:43 EST 2016,started to upload file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_ORGANIZATION,
+289771406828094main904524199,null,chmod,666,null,/export/home/pub/ff_bie_int/in/FF_ORGANIZATION,
+289771406828094main904524199,Mon Feb 01 14:41:43 EST 2016,uploaded file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_PERSON,
+289771406828094main904524199,null,chmod,600,null,/export/home/pub/ff_bie_int/in/FF_PERSON,
+289771406828094main904524199,null,chown,999903474,null,/export/home/pub/ff_bie_int/in/FF_PERSON,
+289771406828094main904524199,null,chgrp,999903474,null,/export/home/pub/ff_bie_int/in/FF_PERSON,
+289771406828094main904524199,null,null,null,null,null,
+289771406828094main904524199,null,null,null,null,null,
+289771407572640main-1286717227,null,null,null,null,null,
+289771407572640main-1286717227,Mon Feb 01 14:41:44 EST 2016,started to upload file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_AGREEMENT,
+289771407572640main-1286717227,null,chmod,666,null,/export/home/pub/ff_bie_int/in/FF_AGREEMENT,
+289771407572640main-1286717227,Mon Feb 01 14:41:44 EST 2016,uploaded file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_ORGANIZATION,
+289771407572640main-1286717227,null,chmod,600,null,/export/home/pub/ff_bie_int/in/FF_ORGANIZATION,
+289771407572640main-1286717227,null,chown,999903474,null,/export/home/pub/ff_bie_int/in/FF_ORGANIZATION,
+289771407572640main-1286717227,null,chgrp,999903474,null,/export/home/pub/ff_bie_int/in/FF_ORGANIZATION,
+289771407572640main-1286717227,null,null,null,null,null,
+289771407572640main-1286717227,null,null,null,null,null,
+289771408230799main-512943468,null,null,null,null,null,
+289771408230799main-512943468,Mon Feb 01 14:41:45 EST 2016,started to upload file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_CONTACT_POINT,
+289771408230799main-512943468,null,chmod,666,null,/export/home/pub/ff_bie_int/in/FF_CONTACT_POINT,
+289771408230799main-512943468,Mon Feb 01 14:41:45 EST 2016,uploaded file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_AGREEMENT,
+289771408230799main-512943468,null,chmod,600,null,/export/home/pub/ff_bie_int/in/FF_AGREEMENT,
+289771408230799main-512943468,null,chown,999903474,null,/export/home/pub/ff_bie_int/in/FF_AGREEMENT,
+289771408230799main-512943468,null,chgrp,999903474,null,/export/home/pub/ff_bie_int/in/FF_AGREEMENT,
+289771408230799main-512943468,null,null,null,null,null,
+289771408230799main-512943468,null,null,null,null,null,
+289771408230799main-512943468,Mon Feb 01 14:41:49 EST 2016,uploaded file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_CONTACT_POINT,
+289771408230799main-512943468,null,chmod,600,null,/export/home/pub/ff_bie_int/in/FF_CONTACT_POINT,
+289771408230799main-512943468,null,chown,999903474,null,/export/home/pub/ff_bie_int/in/FF_CONTACT_POINT,
+289771408230799main-512943468,null,chgrp,999903474,null,/export/home/pub/ff_bie_int/in/FF_CONTACT_POINT,
+289771408230799main-512943468,null,null,null,null,null,
+289771408230799main-512943468,null,null,null,null,null,
+289771409409841main-826481637,null,null,null,null,null,
+289771409409841main-826481637,Mon Feb 01 14:41:49 EST 2016,started to upload file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_CONTACT_POINT,
+289771409409841main-826481637,null,chmod,666,null,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_CONTACT_POINT,
+289771409409841main-826481637,Mon Feb 01 14:41:50 EST 2016,uploaded file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_CONTACT_POINT,
+289771409409841main-826481637,null,chmod,600,null,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_CONTACT_POINT,
+289771409409841main-826481637,null,chown,999903474,null,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_CONTACT_POINT,
+289771409409841main-826481637,null,chgrp,999903474,null,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_CONTACT_POINT,
+289771409409841main-826481637,null,null,null,null,null,
+289771409409841main-826481637,null,null,null,null,null,
+289771410197580main-1833066007,null,null,null,null,null,
+289771410197580main-1833066007,Mon Feb 01 14:41:50 EST 2016,started to upload file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_AGREEMENT,
+289771410197580main-1833066007,null,chmod,666,null,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_AGREEMENT,
+289771410197580main-1833066007,Mon Feb 01 14:41:57 EST 2016,uploaded file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_AGREEMENT,
+289771410197580main-1833066007,null,chmod,600,null,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_AGREEMENT,
+289771410756951main1722649733,null,null,null,null,null,
+289771410756951main1722649733,null,chown,999903474,null,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_AGREEMENT,
+289771410756951main1722649733,Mon Feb 01 14:41:57 EST 2016,started to upload file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_PARTY_NAME,
+289771410756951main1722649733,null,chmod,666,null,/export/home/pub/ff_bie_int/in/FF_PARTY_NAME,
+289771410756951main1722649733,null,chgrp,999903474,null,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_IN_AGREEMENT,
+289771410756951main1722649733,null,null,null,null,null,
+289771410756951main1722649733,null,null,null,null,null,
+289771410756951main1722649733,Mon Feb 01 14:41:58 EST 2016,uploaded file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_PARTY_NAME,
+289771410756951main1722649733,null,chmod,600,null,/export/home/pub/ff_bie_int/in/FF_PARTY_NAME,
+289771410756951main1722649733,null,chown,999903474,null,/export/home/pub/ff_bie_int/in/FF_PARTY_NAME,
+289771410756951main1722649733,null,chgrp,999903474,null,/export/home/pub/ff_bie_int/in/FF_PARTY_NAME,
+289771410756951main1722649733,null,null,null,null,null,
+289771410756951main1722649733,null,null,null,null,null,
+289771411400143main2039863692,null,null,null,null,null,
+289771411400143main2039863692,Mon Feb 01 14:41:58 EST 2016,started to upload file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_RELATIONSHIP,
+289771411400143main2039863692,null,chmod,666,null,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_RELATIONSHIP,
+289771411765787main-823299083,null,null,null,null,null,
+289771411765787main-823299083,Mon Feb 01 14:41:59 EST 2016,started to upload file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_INTERMEDIARY,
+289771411765787main-823299083,null,chmod,666,null,/export/home/pub/ff_bie_int/in/FF_INTERMEDIARY,
+289771411765787main-823299083,Mon Feb 01 14:41:59 EST 2016,uploaded file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_RELATIONSHIP,
+289771411765787main-823299083,null,chmod,600,null,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_RELATIONSHIP,
+289771411765787main-823299083,null,chown,999903474,null,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_RELATIONSHIP,
+289771411765787main-823299083,null,chgrp,999903474,null,/export/home/pub/ff_bie_int/in/FF_ROLE_PLAYER_RELATIONSHIP,
+289771411765787main-823299083,null,null,null,null,null,
+289771411765787main-823299083,null,null,null,null,null,
+289771412310191main-1246761503,null,null,null,null,null,
+289771412310191main-1246761503,Mon Feb 01 14:42:00 EST 2016,started to upload file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_PRIVACY,
+289771412310191main-1246761503,Mon Feb 01 14:42:00 EST 2016,uploaded file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_INTERMEDIARY,
+289771412310191main-1246761503,null,chmod,666,null,/export/home/pub/ff_bie_int/in/FF_PRIVACY,
+289771412310191main-1246761503,null,chmod,600,null,/export/home/pub/ff_bie_int/in/FF_INTERMEDIARY,
+289771412310191main-1246761503,null,chown,999903474,null,/export/home/pub/ff_bie_int/in/FF_INTERMEDIARY,
+289771412310191main-1246761503,null,chgrp,999903474,null,/export/home/pub/ff_bie_int/in/FF_INTERMEDIARY,
+289771412310191main-1246761503,null,null,null,null,null,
+289771412310191main-1246761503,null,null,null,null,null,
+289771412774623main-1727662353,null,null,null,null,null,
+289771412774623main-1727662353,Mon Feb 01 14:42:01 EST 2016,started to upload file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_PARTY,
+289771412774623main-1727662353,null,chmod,666,null,/export/home/pub/ff_bie_int/in/FF_PARTY,
+289771412774623main-1727662353,Mon Feb 01 14:42:01 EST 2016,uploaded file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_PRIVACY,
+289771412774623main-1727662353,null,chmod,600,null,/export/home/pub/ff_bie_int/in/FF_PRIVACY,
+289771412774623main-1727662353,null,chown,999903474,null,/export/home/pub/ff_bie_int/in/FF_PRIVACY,
+289771412774623main-1727662353,null,chgrp,999903474,null,/export/home/pub/ff_bie_int/in/FF_PRIVACY,
+289771412774623main-1727662353,null,null,null,null,null,
+289771412774623main-1727662353,null,null,null,null,null,
+289771413200566main26446228,null,null,null,null,null,
+289771413200566main26446228,Mon Feb 01 14:42:02 EST 2016,started to upload file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_GULNO,
+289771413200566main26446228,null,chmod,666,null,/export/home/pub/ff_bie_int/in/FF_GULNO,
+289771413200566main26446228,Mon Feb 01 14:42:02 EST 2016,uploaded file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_GULNO,
+289771413200566main26446228,Mon Feb 01 14:42:02 EST 2016,uploaded file,null,ff_bie_int,/export/home/pub/ff_bie_int/in/FF_PARTY,
+289771413200566main26446228,null,chmod,600,null,/export/home/pub/ff_bie_int/in/FF_PARTY,
+289771413200566main26446228,null,chmod,600,null,/export/home/pub/ff_bie_int/in/FF_GULNO,
+289771413200566main26446228,null,chown,999903474,null,/export/home/pub/ff_bie_int/in/FF_PARTY,
+289771413200566main26446228,null,chown,999903474,null,/export/home/pub/ff_bie_int/in/FF_GULNO,
+289771413200566main26446228,null,chgrp,999903474,null,/export/home/pub/ff_bie_int/in/FF_PARTY,
+289771413200566main26446228,null,chgrp,999903474,null,/export/home/pub/ff_bie_int/in/FF_GULNO,
+289771413200566main26446228,null,null,null,null,null,
+289771413200566main26446228,null,null,null,null,null,
+289771413200566main26446228,null,null,null,null,null,
+289771413200566main26446228,null,null,null,null,null,
+289771414081106main1327862865,null,null,null,null,null,TRUE
+289771414081106main1327862865,Mon Feb 01 14:43:48 EST 2016,started to upload file,null,pcdst,/export/home/pub/pcdst/in/Nava_6407XYZ16020114925.zip,TRUE
+289771414081106main1327862865,null,was not created,null,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114925.zip,TRUE
+289771414081106main1327862865,Mon Feb 01 14:43:49 EST 2016,uploaded file,null,pcdst,/export/home/pub/pcdst/in/Nava_6407XYZ16020114925.zip,TRUE
+289771414081106main1327862865,null,chmod,600,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114925.zip,TRUE
+289771414081106main1327862865,null,chown,99990354,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114925.zip,TRUE
+289771414081106main1327862865,null,chgrp,99990354,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114925.zip,TRUE
+289771414081106main1327862865,null,null,null,null,null,TRUE
+289771414081106main1327862865,null,null,null,null,null,TRUE
+289771414928716main552369647,null,null,null,null,null,TRUE
+289771414928716main552369647,Mon Feb 01 14:44:13 EST 2016,started to upload file,null,pcdst,/export/home/pub/pcdst/in/Nava_6407XYZ16020114924.zip,TRUE
+289771414928716main552369647,null,was not created,null,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114924.zip,TRUE
+289771414928716main552369647,Mon Feb 01 14:44:14 EST 2016,uploaded file,null,pcdst,/export/home/pub/pcdst/in/Nava_6407XYZ16020114924.zip,TRUE
+289771414928716main552369647,null,chmod,600,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114924.zip,TRUE
+289771414928716main552369647,null,chown,99990354,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114924.zip,TRUE
+289771414928716main552369647,null,chgrp,99990354,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114924.zip,TRUE
+289771414928716main552369647,null,null,null,null,null,TRUE
+289771414928716main552369647,null,null,null,null,null,TRUE
+289771415659577main-279357248,null,null,null,null,null,TRUE
+289771415659577main-279357248,Mon Feb 01 14:44:45 EST 2016,started to upload file,null,pcdst,/export/home/pub/pcdst/in/Nava_6407XYZ16020114927.zip,TRUE
+289771415659577main-279357248,null,was not created,null,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114927.zip,TRUE
+289771415659577main-279357248,Mon Feb 01 14:44:45 EST 2016,uploaded file,null,pcdst,/export/home/pub/pcdst/in/Nava_6407XYZ16020114927.zip,TRUE
+289771415659577main-279357248,null,chmod,600,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114927.zip,TRUE
+289771415659577main-279357248,null,chown,99990354,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114927.zip,TRUE
+289771415659577main-279357248,null,chgrp,99990354,null,/export/home/pub/pcdst/in/Nava_6407XYZ16020114927.zip,TRUE
+289771415659577main-279357248,null,null,null,null,null,TRUE
+289771415659577main-279357248,null,null,null,null,null,TRUE
+289771417185018main2035725461,null,null,null,null,null,TRUE
+289771417185018main2035725461,Mon Feb 01 14:52:23 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201145222.zip,TRUE
+289771417185018main2035725461,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201145222.zip,TRUE
+289771417185018main2035725461,Mon Feb 01 14:52:24 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201145222.zip,TRUE
+289771417185018main2035725461,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201145222.zip,TRUE
+289771417185018main2035725461,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201145222.zip,TRUE
+289771417185018main2035725461,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201145222.zip,TRUE
+289771417185018main2035725461,null,null,null,null,null,TRUE
+289771417185018main2035725461,null,null,null,null,null,TRUE
+289771419596559main241910246,null,null,null,null,null,TRUE
+289771419596559main241910246,Mon Feb 01 14:52:26 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201145225.zip,TRUE
+289771419596559main241910246,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201145225.zip,TRUE
+289771419596559main241910246,Mon Feb 01 14:52:26 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201145225.zip,TRUE
+289771419596559main241910246,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201145225.zip,TRUE
+289771419596559main241910246,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201145225.zip,TRUE
+289771419596559main241910246,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201145225.zip,TRUE
+289771419596559main241910246,null,null,null,null,null,TRUE
+289771419596559main241910246,null,null,null,null,null,TRUE
+289771420164056main-1919745980,null,null,null,null,null,TRUE
+289771420164056main-1919745980,Mon Feb 01 14:52:29 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201145228.zip,TRUE
+289771420164056main-1919745980,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201145228.zip,TRUE
+289771420164056main-1919745980,Mon Feb 01 14:52:30 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201145228.zip,TRUE
+289771420164056main-1919745980,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201145228.zip,TRUE
+289771420164056main-1919745980,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201145228.zip,TRUE
+289771420164056main-1919745980,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201145228.zip,TRUE
+289771420164056main-1919745980,null,null,null,null,null,TRUE
+289771420164056main-1919745980,null,null,null,null,null,TRUE
+289771420628061main771426898,null,null,null,null,null,TRUE
+289771420628061main771426898,Mon Feb 01 14:52:32 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201145231.zip,TRUE
+289771420628061main771426898,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201145231.zip,TRUE
+289771420628061main771426898,Mon Feb 01 14:52:32 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201145231.zip,TRUE
+289771420628061main771426898,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201145231.zip,TRUE
+289771420628061main771426898,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201145231.zip,TRUE
+289771420628061main771426898,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201145231.zip,TRUE
+289771420628061main771426898,null,null,null,null,null,TRUE
+289771420628061main771426898,null,null,null,null,null,TRUE
+289771421317439main380751645,null,null,null,null,null,TRUE
+289771421317439main380751645,Mon Feb 01 14:52:35 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201145235.zip,TRUE
+289771421317439main380751645,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201145235.zip,TRUE
+289771421317439main380751645,Mon Feb 01 14:52:36 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201145235.zip,TRUE
+289771421317439main380751645,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201145235.zip,TRUE
+289771421317439main380751645,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201145235.zip,TRUE
+289771421317439main380751645,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201145235.zip,TRUE
+289771421317439main380751645,null,null,null,null,null,TRUE
+289771421317439main380751645,null,null,null,null,null,TRUE
+289771422004251main1455931192,null,null,null,null,null,
+289771422004251main1455931192,Mon Feb 01 15:00:02 EST 2016,started to upload file,null,eedmetaid,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771422004251main1455931192,null,chmod,666,null,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771422004251main1455931192,Mon Feb 01 15:00:03 EST 2016,uploaded file,null,eedmetaid,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771422004251main1455931192,null,chmod,600,null,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771422004251main1455931192,null,chown,999903464,null,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771422004251main1455931192,null,chgrp,999903464,null,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771422004251main1455931192,null,null,null,null,null,
+289771422004251main1455931192,null,null,null,null,null,
+289771422470822main1316019632,null,null,null,null,null,TRUE
+289771422470822main1316019632,Mon Feb 01 15:00:29 EST 2016,started to upload file,null,l2012bie_int,/export/home/pub/l2012bie_int/out/l2012olsa_int/NBACOLLN_020116150013,TRUE
+289771422470822main1316019632,null,was not created,null,null,/export/home/pub/l2012bie_int/out/l2012olsa_int/NBACOLLN_020116150013,TRUE
+289771422470822main1316019632,Mon Feb 01 15:00:30 EST 2016,uploaded file,null,l2012bie_int,/export/home/pub/l2012bie_int/out/l2012olsa_int/NBACOLLN_020116150013,TRUE
+289771422470822main1316019632,null,chmod,600,null,/export/home/pub/l2012bie_int/out/l2012olsa_int/NBACOLLN_020116150013,TRUE
+289771422470822main1316019632,null,chown,999901069,null,/export/home/pub/l2012bie_int/out/l2012olsa_int/NBACOLLN_020116150013,TRUE
+289771422470822main1316019632,null,chgrp,99990001,null,/export/home/pub/l2012bie_int/out/l2012olsa_int/NBACOLLN_020116150013,TRUE
+289771422470822main1316019632,null,null,null,null,null,TRUE
+289771422470822main1316019632,null,null,null,null,null,TRUE
+289771423054997main1197630876,null,null,null,null,null,FALSE
+289771423054997main1197630876,Mon Feb 01 15:00:42 EST 2016,started to upload file,null,l2012bie_int,/export/home/pub/l2012bie_int/out/l2012tai_int/L2012_20160201_1500.TXT,FALSE
+289771423054997main1197630876,null,was not created,null,null,/export/home/pub/l2012bie_int/out/l2012tai_int/L2012_20160201_1500.TXT,FALSE
+289771423054997main1197630876,Mon Feb 01 15:00:43 EST 2016,uploaded file,null,l2012bie_int,/export/home/pub/l2012bie_int/out/l2012tai_int/L2012_20160201_1500.TXT,FALSE
+289771423054997main1197630876,null,chmod,600,null,/export/home/pub/l2012bie_int/out/l2012tai_int/L2012_20160201_1500.TXT,FALSE
+289771423054997main1197630876,null,chown,999901069,null,/export/home/pub/l2012bie_int/out/l2012tai_int/L2012_20160201_1500.TXT,FALSE
+289771423054997main1197630876,null,chgrp,99990001,null,/export/home/pub/l2012bie_int/out/l2012tai_int/L2012_20160201_1500.TXT,FALSE
+289771423054997main1197630876,null,null,null,null,null,FALSE
+289771423054997main1197630876,null,null,null,null,null,FALSE
+289771423897048main1798649458,null,null,null,null,null,TRUE
+289771423897048main1798649458,Mon Feb 01 15:00:46 EST 2016,started to upload file,null,l2012bie_int,/export/home/pub/l2012bie_int/out/l2012checkwriting_int/NBAFILE_020116150013,TRUE
+289771423897048main1798649458,null,was not created,null,null,/export/home/pub/l2012bie_int/out/l2012checkwriting_int/NBAFILE_020116150013,TRUE
+289771423897048main1798649458,Mon Feb 01 15:00:47 EST 2016,uploaded file,null,l2012bie_int,/export/home/pub/l2012bie_int/out/l2012checkwriting_int/NBAFILE_020116150013,TRUE
+289771423897048main1798649458,null,chmod,600,null,/export/home/pub/l2012bie_int/out/l2012checkwriting_int/NBAFILE_020116150013,TRUE
+289771423897048main1798649458,null,chown,999901069,null,/export/home/pub/l2012bie_int/out/l2012checkwriting_int/NBAFILE_020116150013,TRUE
+289771423897048main1798649458,null,chgrp,99990001,null,/export/home/pub/l2012bie_int/out/l2012checkwriting_int/NBAFILE_020116150013,TRUE
+289771423897048main1798649458,null,null,null,null,null,TRUE
+289771423897048main1798649458,null,null,null,null,null,TRUE
+289771424549220main158115000,null,null,null,null,null,TRUE
+289771424549220main158115000,Mon Feb 01 15:14:08 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201151407.zip,TRUE
+289771424549220main158115000,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201151407.zip,TRUE
+289771424549220main158115000,Mon Feb 01 15:14:08 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201151407.zip,TRUE
+289771424549220main158115000,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201151407.zip,TRUE
+289771424549220main158115000,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201151407.zip,TRUE
+289771424549220main158115000,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201151407.zip,TRUE
+289771424549220main158115000,null,null,null,null,null,TRUE
+289771424549220main158115000,null,null,null,null,null,TRUE
+289771425329261main-1694854047,null,null,null,null,null,TRUE
+289771425329261main-1694854047,Mon Feb 01 15:14:10 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201151410.zip,TRUE
+289771425329261main-1694854047,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201151410.zip,TRUE
+289771425329261main-1694854047,Mon Feb 01 15:14:11 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201151410.zip,TRUE
+289771425329261main-1694854047,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201151410.zip,TRUE
+289771425329261main-1694854047,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201151410.zip,TRUE
+289771425329261main-1694854047,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201151410.zip,TRUE
+289771425329261main-1694854047,null,null,null,null,null,TRUE
+289771425329261main-1694854047,null,null,null,null,null,TRUE
+289771426058411main1363610025,null,null,null,null,null,TRUE
+289771426058411main1363610025,Mon Feb 01 15:14:13 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201151413.zip,TRUE
+289771426058411main1363610025,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201151413.zip,TRUE
+289771426058411main1363610025,Mon Feb 01 15:14:14 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201151413.zip,TRUE
+289771426058411main1363610025,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201151413.zip,TRUE
+289771426058411main1363610025,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201151413.zip,TRUE
+289771426058411main1363610025,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201151413.zip,TRUE
+289771426058411main1363610025,null,null,null,null,null,TRUE
+289771426058411main1363610025,null,null,null,null,null,TRUE
+289771427157054main464165721,null,null,null,null,null,TRUE
+289771427157054main464165721,Mon Feb 01 15:14:16 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201151415.zip,TRUE
+289771427157054main464165721,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201151415.zip,TRUE
+289771427157054main464165721,Mon Feb 01 15:14:17 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201151415.zip,TRUE
+289771427157054main464165721,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201151415.zip,TRUE
+289771427157054main464165721,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201151415.zip,TRUE
+289771427157054main464165721,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201151415.zip,TRUE
+289771427157054main464165721,null,null,null,null,null,TRUE
+289771427157054main464165721,null,null,null,null,null,TRUE
+289771427820346main-302755526,null,null,null,null,null,TRUE
+289771427820346main-302755526,Mon Feb 01 15:14:19 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201151418.zip,TRUE
+289771427820346main-302755526,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201151418.zip,TRUE
+289771427820346main-302755526,Mon Feb 01 15:14:20 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201151418.zip,TRUE
+289771427820346main-302755526,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201151418.zip,TRUE
+289771427820346main-302755526,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201151418.zip,TRUE
+289771427820346main-302755526,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201151418.zip,TRUE
+289771427820346main-302755526,null,null,null,null,null,TRUE
+289771427820346main-302755526,null,null,null,null,null,TRUE
+289771429267099main660461628,null,null,null,null,null,TRUE
+289771429267099main660461628,Mon Feb 01 15:19:05 EST 2016,started to upload file,null,awd_to_qa6_int,/export/home/pub/awd_to_qa6_int/in/NOCEM012616094045895.zip,TRUE
+289771429267099main660461628,null,was not created,null,null,/export/home/pub/awd_to_qa6_int/in/NOCEM012616094045895.zip,TRUE
+289771429267099main660461628,Mon Feb 01 15:19:05 EST 2016,uploaded file,null,awd_to_qa6_int,/export/home/pub/awd_to_qa6_int/in/NOCEM012616094045895.zip,TRUE
+289771429267099main660461628,null,chmod,600,null,/export/home/pub/awd_to_qa6_int/in/NOCEM012616094045895.zip,TRUE
+289771429267099main660461628,null,chown,999903264,null,/export/home/pub/awd_to_qa6_int/in/NOCEM012616094045895.zip,TRUE
+289771429267099main660461628,null,chgrp,999903264,null,/export/home/pub/awd_to_qa6_int/in/NOCEM012616094045895.zip,TRUE
+289771429267099main660461628,null,null,null,null,null,TRUE
+289771429267099main660461628,null,null,null,null,null,TRUE
+289771430160040main484578513,null,null,null,null,null,
+289771430160040main484578513,Mon Feb 01 15:20:31 EST 2016,started to upload file,null,fd_int,/export/home/pub/fd_int/in/UAT_CA7_JobList.txt,
+289771430160040main484578513,null,chmod,666,null,/export/home/pub/fd_int/in/UAT_CA7_JobList.txt,
+289771430160040main484578513,Mon Feb 01 15:20:31 EST 2016,uploaded file,null,fd_int,/export/home/pub/fd_int/in/UAT_CA7_JobList.txt,
+289771430160040main484578513,null,chmod,600,null,/export/home/pub/fd_int/in/UAT_CA7_JobList.txt,
+289771430160040main484578513,null,chown,root,null,/export/home/pub/fd_int/in/UAT_CA7_JobList.txt,
+289771430160040main484578513,null,chgrp,root,null,/export/home/pub/fd_int/in/UAT_CA7_JobList.txt,
+289771430160040main484578513,null,null,null,null,null,
+289771430160040main484578513,null,null,null,null,null,
+289771430867380main-1666320497,null,null,null,null,null,TRUE
+289771430867380main-1666320497,Mon Feb 01 15:21:52 EST 2016,started to upload file,null,bie_xpression_int,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1520.xml,TRUE
+289771430867380main-1666320497,null,was not created,null,null,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1520.xml,TRUE
+289771430867380main-1666320497,Mon Feb 01 15:21:52 EST 2016,uploaded file,null,bie_xpression_int,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1520.xml,TRUE
+289771430867380main-1666320497,null,chmod,600,null,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1520.xml,TRUE
+289771430867380main-1666320497,null,chown,999903488,null,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1520.xml,TRUE
+289771430867380main-1666320497,null,chgrp,999903488,null,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_DentalCertificate_20160201_1520.xml,TRUE
+289771430867380main-1666320497,null,null,null,null,null,TRUE
+289771430867380main-1666320497,null,null,null,null,null,TRUE
+289771432027178main1305975257,null,null,null,null,null,TRUE
+289771432027178main1305975257,Mon Feb 01 15:24:34 EST 2016,started to upload file,null,bie_xpression_int,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1524.xml,TRUE
+289771432027178main1305975257,null,was not created,null,null,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1524.xml,TRUE
+289771432027178main1305975257,Mon Feb 01 15:24:34 EST 2016,uploaded file,null,bie_xpression_int,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1524.xml,TRUE
+289771432027178main1305975257,null,chmod,600,null,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1524.xml,TRUE
+289771432027178main1305975257,null,chown,999903488,null,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1524.xml,TRUE
+289771432027178main1305975257,null,chgrp,999903488,null,/export/home/pub/bie_xpression_int/out/UAT/EB_MLOA_VisionCertificate_20160201_1524.xml,TRUE
+289771432027178main1305975257,null,null,null,null,null,TRUE
+289771432027178main1305975257,null,null,null,null,null,TRUE
+289771432846563main-427463421,null,null,null,null,null,TRUE
+289771432846563main-427463421,Mon Feb 01 15:30:01 EST 2016,started to upload file,null,wmb_cmod_int,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf.ind,TRUE
+289771432846563main-427463421,null,was not created,null,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf.ind,TRUE
+289771433131380main-1512693161,null,null,null,null,null,TRUE
+289771433131380main-1512693161,Mon Feb 01 15:30:01 EST 2016,started to upload file,null,wmb_cmod_int,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf,TRUE
+289771433131380main-1512693161,null,was not created,null,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf,TRUE
+289771433131380main-1512693161,Mon Feb 01 15:30:02 EST 2016,uploaded file,null,wmb_cmod_int,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf,TRUE
+289771433131380main-1512693161,Mon Feb 01 15:30:02 EST 2016,uploaded file,null,wmb_cmod_int,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf.ind,TRUE
+289771433131380main-1512693161,null,chmod,600,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf,TRUE
+289771433131380main-1512693161,null,chmod,600,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf.ind,TRUE
+289771433131380main-1512693161,null,chown,9999228,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf.ind,TRUE
+289771433131380main-1512693161,null,chown,9999228,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf,TRUE
+289771433131380main-1512693161,null,chgrp,9999228,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf.ind,TRUE
+289771433131380main-1512693161,null,chgrp,9999228,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201031849.pdf,TRUE
+289771433131380main-1512693161,null,null,null,null,null,TRUE
+289771433131380main-1512693161,null,null,null,null,null,TRUE
+289771433131380main-1512693161,null,null,null,null,null,TRUE
+289771433131380main-1512693161,null,null,null,null,null,TRUE
+289771434130808main317005797,null,null,null,null,null,TRUE
+289771434130808main317005797,Mon Feb 01 15:42:28 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201154228.zip,TRUE
+289771434130808main317005797,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201154228.zip,TRUE
+289771434130808main317005797,Mon Feb 01 15:42:29 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201154228.zip,TRUE
+289771434130808main317005797,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201154228.zip,TRUE
+289771434130808main317005797,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201154228.zip,TRUE
+289771434130808main317005797,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201154228.zip,TRUE
+289771434130808main317005797,null,null,null,null,null,TRUE
+289771434130808main317005797,null,null,null,null,null,TRUE
+289771434680771main904852015,null,null,null,null,null,TRUE
+289771434680771main904852015,Mon Feb 01 15:42:31 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201154230.zip,TRUE
+289771434680771main904852015,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201154230.zip,TRUE
+289771434680771main904852015,Mon Feb 01 15:42:32 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201154230.zip,TRUE
+289771434680771main904852015,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201154230.zip,TRUE
+289771434680771main904852015,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201154230.zip,TRUE
+289771434680771main904852015,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201154230.zip,TRUE
+289771434680771main904852015,null,null,null,null,null,TRUE
+289771434680771main904852015,null,null,null,null,null,TRUE
+289771435280342main-331651209,null,null,null,null,null,TRUE
+289771435280342main-331651209,Mon Feb 01 15:42:34 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201154233.zip,TRUE
+289771435280342main-331651209,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201154233.zip,TRUE
+289771435280342main-331651209,Mon Feb 01 15:42:35 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201154233.zip,TRUE
+289771435280342main-331651209,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201154233.zip,TRUE
+289771435280342main-331651209,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201154233.zip,TRUE
+289771435280342main-331651209,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201154233.zip,TRUE
+289771435280342main-331651209,null,null,null,null,null,TRUE
+289771435280342main-331651209,null,null,null,null,null,TRUE
+289771435871359main-822346745,null,null,null,null,null,TRUE
+289771435871359main-822346745,Mon Feb 01 15:42:36 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201154235.zip,TRUE
+289771435871359main-822346745,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201154235.zip,TRUE
+289771435871359main-822346745,Mon Feb 01 15:42:37 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201154235.zip,TRUE
+289771435871359main-822346745,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201154235.zip,TRUE
+289771435871359main-822346745,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201154235.zip,TRUE
+289771435871359main-822346745,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201154235.zip,TRUE
+289771435871359main-822346745,null,null,null,null,null,TRUE
+289771435871359main-822346745,null,null,null,null,null,TRUE
+289771436396091main378749969,null,null,null,null,null,TRUE
+289771436396091main378749969,Mon Feb 01 15:42:40 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201154239.zip,TRUE
+289771436396091main378749969,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201154239.zip,TRUE
+289771436396091main378749969,Mon Feb 01 15:42:41 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201154239.zip,TRUE
+289771436396091main378749969,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201154239.zip,TRUE
+289771436396091main378749969,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201154239.zip,TRUE
+289771436396091main378749969,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201154239.zip,TRUE
+289771436396091main378749969,null,null,null,null,null,TRUE
+289771436396091main378749969,null,null,null,null,null,TRUE
+289771436961450main2111839323,null,null,null,null,null,TRUE
+289771436961450main2111839323,Mon Feb 01 15:48:35 EST 2016,started to upload file,null,pcXYZ,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201154887596000019.zip,TRUE
+289771436961450main2111839323,null,was not created,null,null,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201154887596000019.zip,TRUE
+289771436961450main2111839323,Mon Feb 01 15:48:35 EST 2016,uploaded file,null,pcXYZ,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201154887596000019.zip,TRUE
+289771436961450main2111839323,null,chmod,600,null,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201154887596000019.zip,TRUE
+289771436961450main2111839323,null,chown,99990353,null,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201154887596000019.zip,TRUE
+289771436961450main2111839323,null,chgrp,99990353,null,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201154887596000019.zip,TRUE
+289771436961450main2111839323,null,null,null,null,null,TRUE
+289771436961450main2111839323,null,null,null,null,null,TRUE
+289771437592667main105033018,null,null,null,null,null,FALSE
+289771437592667main105033018,Mon Feb 01 15:49:40 EST 2016,started to upload file,null,pfinity_v1_qa5,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771437592667main105033018,null,was not created,null,null,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771437592667main105033018,Mon Feb 01 15:49:41 EST 2016,uploaded file,null,pfinity_v1_qa5,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771437592667main105033018,null,chmod,600,null,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771437592667main105033018,null,chown,999901084,null,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771437592667main105033018,null,chgrp,999901084,null,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771437592667main105033018,null,null,null,null,null,FALSE
+289771437592667main105033018,null,null,null,null,null,FALSE
+289771438152894main-2114932169,null,null,null,null,null,TRUE
+289771438152894main-2114932169,Mon Feb 01 15:49:45 EST 2016,started to upload file,null,pcXYZ,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201154976457400029.zip,TRUE
+289771438152894main-2114932169,null,was not created,null,null,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201154976457400029.zip,TRUE
+289771438438566main1093206454,null,null,null,null,null,TRUE
+289771438438566main1093206454,Mon Feb 01 15:49:45 EST 2016,started to upload file,null,awdnb2,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201154976457400029.pdf,TRUE
+289771438438566main1093206454,null,was not created,null,null,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201154976457400029.pdf,TRUE
+289771438438566main1093206454,Mon Feb 01 15:49:45 EST 2016,uploaded file,null,pcXYZ,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201154976457400029.zip,TRUE
+289771438438566main1093206454,Mon Feb 01 15:49:45 EST 2016,uploaded file,null,awdnb2,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201154976457400029.pdf,TRUE
+289771438438566main1093206454,null,chmod,600,null,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201154976457400029.zip,TRUE
+289771438438566main1093206454,null,chmod,600,null,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201154976457400029.pdf,TRUE
+289771438438566main1093206454,null,chown,99990353,null,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201154976457400029.zip,TRUE
+289771438438566main1093206454,null,chown,999901156,null,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201154976457400029.pdf,TRUE
+289771438438566main1093206454,null,chgrp,99990353,null,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201154976457400029.zip,TRUE
+289771438438566main1093206454,null,chgrp,999901156,null,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201154976457400029.pdf,TRUE
+289771438438566main1093206454,null,null,null,null,null,TRUE
+289771438438566main1093206454,null,null,null,null,null,TRUE
+289771438438566main1093206454,null,null,null,null,null,TRUE
+289771438438566main1093206454,null,null,null,null,null,TRUE
+289771439482042main-1290161923,null,null,null,null,null,
+289771439482042main-1290161923,Mon Feb 01 15:50:04 EST 2016,started to upload file,null,oaasftp_int,/export/home/pub/oaasftp_int/in/CAPSBeneUpdate,
+289771439482042main-1290161923,null,chmod,666,null,/export/home/pub/oaasftp_int/in/CAPSBeneUpdate,
+289771439482042main-1290161923,Mon Feb 01 15:50:04 EST 2016,uploaded file,null,oaasftp_int,/export/home/pub/oaasftp_int/in/CAPSBeneUpdate,
+289771439482042main-1290161923,null,chmod,600,null,/export/home/pub/oaasftp_int/in/CAPSBeneUpdate,
+289771439482042main-1290161923,null,chown,999903381,null,/export/home/pub/oaasftp_int/in/CAPSBeneUpdate,
+289771439482042main-1290161923,null,chgrp,999903381,null,/export/home/pub/oaasftp_int/in/CAPSBeneUpdate,
+289771439482042main-1290161923,null,null,null,null,null,
+289771439482042main-1290161923,null,null,null,null,null,
+289771442644543main631550353,null,null,null,null,null,
+289771442644543main631550353,Mon Feb 01 15:50:05 EST 2016,started to upload file,null,oaasftp_int,/export/home/pub/oaasftp_int/in/CAPSSystematicUpdate,
+289771442644543main631550353,null,chmod,666,null,/export/home/pub/oaasftp_int/in/CAPSSystematicUpdate,
+289771442644543main631550353,Mon Feb 01 15:50:05 EST 2016,uploaded file,null,oaasftp_int,/export/home/pub/oaasftp_int/in/CAPSSystematicUpdate,
+289771442644543main631550353,null,chmod,600,null,/export/home/pub/oaasftp_int/in/CAPSSystematicUpdate,
+289771442644543main631550353,null,chown,999903381,null,/export/home/pub/oaasftp_int/in/CAPSSystematicUpdate,
+289771442644543main631550353,null,chgrp,999903381,null,/export/home/pub/oaasftp_int/in/CAPSSystematicUpdate,
+289771442644543main631550353,null,null,null,null,null,
+289771442644543main631550353,null,null,null,null,null,
+289771443092297main1897889490,null,null,null,null,null,
+289771443092297main1897889490,Mon Feb 01 15:50:05 EST 2016,started to upload file,null,oaasftp_int,/export/home/pub/oaasftp_int/in/CAPSModeUpdate,
+289771443092297main1897889490,null,chmod,666,null,/export/home/pub/oaasftp_int/in/CAPSModeUpdate,
+289771443334349main-685412929,null,null,null,null,null,
+289771443334349main-685412929,Mon Feb 01 15:50:06 EST 2016,started to upload file,null,oaasftp_int,/export/home/pub/oaasftp_int/in/CAPSBillingUpdate,
+289771443334349main-685412929,null,chmod,666,null,/export/home/pub/oaasftp_int/in/CAPSBillingUpdate,
+289771443530642main756126521,null,null,null,null,null,FALSE
+289771443530642main756126521,Mon Feb 01 15:50:06 EST 2016,started to upload file,null,pfinity_v1_qa5,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771443530642main756126521,null,was not created,null,null,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771443530642main756126521,Mon Feb 01 15:50:06 EST 2016,uploaded file,null,oaasftp_int,/export/home/pub/oaasftp_int/in/CAPSBillingUpdate,FALSE
+289771443530642main756126521,Mon Feb 01 15:50:06 EST 2016,uploaded file,null,pfinity_v1_qa5,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771443530642main756126521,Mon Feb 01 15:50:06 EST 2016,uploaded file,null,oaasftp_int,/export/home/pub/oaasftp_int/in/CAPSModeUpdate,FALSE
+289771443530642main756126521,null,chmod,600,null,/export/home/pub/oaasftp_int/in/CAPSBillingUpdate,FALSE
+289771443530642main756126521,null,chmod,600,null,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771443530642main756126521,null,chmod,600,null,/export/home/pub/oaasftp_int/in/CAPSModeUpdate,FALSE
+289771443530642main756126521,null,chown,999903381,null,/export/home/pub/oaasftp_int/in/CAPSBillingUpdate,FALSE
+289771443530642main756126521,null,chown,999901084,null,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771443530642main756126521,null,chown,999903381,null,/export/home/pub/oaasftp_int/in/CAPSModeUpdate,FALSE
+289771443530642main756126521,null,chgrp,999903381,null,/export/home/pub/oaasftp_int/in/CAPSBillingUpdate,FALSE
+289771443530642main756126521,null,chgrp,999901084,null,/export/home/pub/pfinity_v1_qa5/out/pfinity_bie_qa5/GMIMG.QM3REFVD.EXTRACT,FALSE
+289771443530642main756126521,null,null,null,null,null,FALSE
+289771443530642main756126521,null,null,null,null,null,FALSE
+289771443530642main756126521,null,chgrp,999903381,null,/export/home/pub/oaasftp_int/in/CAPSModeUpdate,FALSE
+289771443530642main756126521,null,null,null,null,null,FALSE
+289771443530642main756126521,null,null,null,null,null,FALSE
+289771443530642main756126521,null,null,null,null,null,FALSE
+289771443530642main756126521,null,null,null,null,null,FALSE
+289771444334204main513332728,null,null,null,null,null,
+289771444334204main513332728,Mon Feb 01 15:50:26 EST 2016,started to upload file,null,oaasftp_int,/export/home/pub/oaasftp_int/in/GMIChaseExtract,
+289771444334204main513332728,null,chmod,666,null,/export/home/pub/oaasftp_int/in/GMIChaseExtract,
+289771444334204main513332728,Mon Feb 01 15:50:27 EST 2016,uploaded file,null,oaasftp_int,/export/home/pub/oaasftp_int/in/GMIChaseExtract,
+289771444334204main513332728,null,chmod,600,null,/export/home/pub/oaasftp_int/in/GMIChaseExtract,
+289771444334204main513332728,null,chown,999903381,null,/export/home/pub/oaasftp_int/in/GMIChaseExtract,
+289771444334204main513332728,null,chgrp,999903381,null,/export/home/pub/oaasftp_int/in/GMIChaseExtract,
+289771444334204main513332728,null,null,null,null,null,
+289771444334204main513332728,null,null,null,null,null,
+289771445003055main125758655,null,null,null,null,null,FALSE
+289771445003055main125758655,Mon Feb 01 15:51:17 EST 2016,started to upload file,null,bie_file70_uat,/export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES,FALSE
+289771445003055main125758655,null,was not created,null,null,/export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES,FALSE
+289771445003055main125758655,Mon Feb 01 15:51:17 EST 2016,uploaded file,null,bie_file70_uat,/export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES,FALSE
+289771445003055main125758655,null,chmod,600,null,/export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES,FALSE
+289771445003055main125758655,null,chown,999901317,null,/export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES,FALSE
+289771445003055main125758655,null,chgrp,999901317,null,/export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES,FALSE
+289771445003055main125758655,null,null,null,null,null,FALSE
+289771445003055main125758655,null,null,null,null,null,FALSE
+289771445598777main479559070,null,null,null,null,null,FALSE
+289771445598777main479559070,Mon Feb 01 15:53:00 EST 2016,started to upload file,null,bie_file70_uat,/export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES,FALSE
+289771445598777main479559070,null,was not created,null,null,/export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES,FALSE
+289771445598777main479559070,Mon Feb 01 15:53:01 EST 2016,uploaded file,null,bie_file70_uat,/export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES,FALSE
+289771445598777main479559070,null,chmod,600,null,/export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES,FALSE
+289771445598777main479559070,null,chown,999901317,null,/export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES,FALSE
+289771445598777main479559070,null,chgrp,999901317,null,/export/home/pub/bie_file70_uat/out/to_file70_uat/KKPP.USXYZMPF.FTPIN.MSOIUL.PRICES,FALSE
+289771445598777main479559070,null,null,null,null,null,FALSE
+289771445598777main479559070,null,null,null,null,null,FALSE
+289771446333059main-25072222,null,null,null,null,null,TRUE
+289771446333059main-25072222,Mon Feb 01 16:00:02 EST 2016,started to upload file,null,wmb_cmod_int,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf.ind,TRUE
+289771446333059main-25072222,null,was not created,null,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf.ind,TRUE
+289771446661497main2023943874,null,null,null,null,null,TRUE
+289771446661497main2023943874,Mon Feb 01 16:00:02 EST 2016,started to upload file,null,wmb_cmod_int,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf.ind,TRUE
+289771446661497main2023943874,null,was not created,null,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf.ind,TRUE
+289771446966415main-639668606,null,null,null,null,null,TRUE
+289771446966415main-639668606,Mon Feb 01 16:00:02 EST 2016,started to upload file,null,wmb_cmod_int,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf,TRUE
+289771446966415main-639668606,null,was not created,null,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf,TRUE
+289771447312814main-1302588638,null,null,null,null,null,TRUE
+289771447312814main-1302588638,Mon Feb 01 16:00:02 EST 2016,started to upload file,null,wmb_cmod_int,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf,TRUE
+289771447312814main-1302588638,null,was not created,null,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf,TRUE
+289771447608751main-597480009,null,null,null,null,null,
+289771447608751main-597480009,Mon Feb 01 16:00:02 EST 2016,started to upload file,null,eedmetaid,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771447608751main-597480009,null,chmod,666,null,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771447608751main-597480009,Mon Feb 01 16:00:02 EST 2016,uploaded file,null,wmb_cmod_int,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf.ind,
+289771447608751main-597480009,Mon Feb 01 16:00:02 EST 2016,uploaded file,null,wmb_cmod_int,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf,
+289771447608751main-597480009,null,chmod,600,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf.ind,
+289771447608751main-597480009,null,chmod,600,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf,
+289771447608751main-597480009,Mon Feb 01 16:00:02 EST 2016,uploaded file,null,wmb_cmod_int,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf.ind,
+289771447608751main-597480009,Mon Feb 01 16:00:02 EST 2016,uploaded file,null,eedmetaid,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771447608751main-597480009,null,chmod,600,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf.ind,
+289771447608751main-597480009,null,chmod,600,null,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771447608751main-597480009,Mon Feb 01 16:00:02 EST 2016,uploaded file,null,wmb_cmod_int,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf,
+289771447608751main-597480009,null,chown,9999228,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf,
+289771447608751main-597480009,null,chmod,600,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf,
+289771447608751main-597480009,null,chown,9999228,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf.ind,
+289771447608751main-597480009,null,chown,9999228,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf.ind,
+289771447608751main-597480009,null,chown,999903464,null,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771447608751main-597480009,null,chown,9999228,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf,
+289771447608751main-597480009,null,chgrp,9999228,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf.ind,
+289771447608751main-597480009,null,chgrp,9999228,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033640.pdf,
+289771447608751main-597480009,null,chgrp,9999228,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf.ind,
+289771447608751main-597480009,null,null,null,null,null,
+289771447608751main-597480009,null,null,null,null,null,
+289771447608751main-597480009,null,chgrp,999903464,null,/export/home/pub/EEDMETAID_TO_bie/in/EBExtractFeed.txt,
+289771447608751main-597480009,null,null,null,null,null,
+289771447608751main-597480009,null,null,null,null,null,
+289771447608751main-597480009,null,chgrp,9999228,null,/export/home/pub/wmb_cmod_int/out/EB_Proposal_Data-DF.AG_DASD_2555_OD_3.20160201033759.pdf,
+289771447608751main-597480009,null,null,null,null,null,
+289771447608751main-597480009,null,null,null,null,null,
+289771447608751main-597480009,null,null,null,null,null,
+289771447608751main-597480009,null,null,null,null,null,
+289771447608751main-597480009,null,null,null,null,null,
+289771447608751main-597480009,null,null,null,null,null,
+289771449533194main-1525133963,null,null,null,null,null,TRUE
+289771449533194main-1525133963,Mon Feb 01 16:02:26 EST 2016,started to upload file,null,aplifi_int,/export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T160221,TRUE
+289771449533194main-1525133963,null,was not created,null,null,/export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T160221,TRUE
+289771449533194main-1525133963,Mon Feb 01 16:02:26 EST 2016,uploaded file,null,aplifi_int,/export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T160221,TRUE
+289771449533194main-1525133963,null,chmod,600,null,/export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T160221,TRUE
+289771449533194main-1525133963,null,chown,999903368,null,/export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T160221,TRUE
+289771449533194main-1525133963,null,chgrp,999903368,null,/export/home/pub/aplifi_int/out/pfinity_bie_qa5/S46033.D160201.T160221,TRUE
+289771449533194main-1525133963,null,null,null,null,null,TRUE
+289771449533194main-1525133963,null,null,null,null,null,TRUE
+289771450050655main1217817919,null,null,null,null,null,TRUE
+289771450050655main1217817919,Mon Feb 01 16:03:20 EST 2016,started to upload file,null,pcXYZ,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201160362074400004.zip,TRUE
+289771450050655main1217817919,null,was not created,null,null,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201160362074400004.zip,TRUE
+289771450050655main1217817919,Mon Feb 01 16:03:20 EST 2016,uploaded file,null,pcXYZ,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201160362074400004.zip,TRUE
+289771450050655main1217817919,null,chmod,600,null,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201160362074400004.zip,TRUE
+289771450050655main1217817919,null,chown,99990353,null,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201160362074400004.zip,TRUE
+289771450050655main1217817919,null,chgrp,99990353,null,/export/home/pub/pcXYZ/out/pcdst/AppTicket103_20160201160362074400004.zip,TRUE
+289771450050655main1217817919,null,null,null,null,null,TRUE
+289771450050655main1217817919,null,null,null,null,null,TRUE
+289771450742599main55691922,null,null,null,null,null,TRUE
+289771450742599main55691922,Mon Feb 01 16:04:09 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201160408.zip,TRUE
+289771450742599main55691922,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201160408.zip,TRUE
+289771450742599main55691922,Mon Feb 01 16:04:09 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201160408.zip,TRUE
+289771450742599main55691922,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201160408.zip,TRUE
+289771450742599main55691922,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201160408.zip,TRUE
+289771450742599main55691922,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201160408.zip,TRUE
+289771450742599main55691922,null,null,null,null,null,TRUE
+289771450742599main55691922,null,null,null,null,null,TRUE
+289771451422569main-1797277125,null,null,null,null,null,TRUE
+289771451422569main-1797277125,Mon Feb 01 16:04:11 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201160411.zip,TRUE
+289771451422569main-1797277125,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201160411.zip,TRUE
+289771451422569main-1797277125,Mon Feb 01 16:04:12 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201160411.zip,TRUE
+289771451422569main-1797277125,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201160411.zip,TRUE
+289771451422569main-1797277125,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201160411.zip,TRUE
+289771451422569main-1797277125,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201160411.zip,TRUE
+289771451422569main-1797277125,null,null,null,null,null,TRUE
+289771451422569main-1797277125,null,null,null,null,null,TRUE
+289771452025561main-184216316,null,null,null,null,null,TRUE
+289771452025561main-184216316,Mon Feb 01 16:04:14 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201160413.zip,TRUE
+289771452025561main-184216316,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201160413.zip,TRUE
+289771452025561main-184216316,Mon Feb 01 16:04:14 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201160413.zip,TRUE
+289771452025561main-184216316,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201160413.zip,TRUE
+289771452025561main-184216316,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201160413.zip,TRUE
+289771452025561main-184216316,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201160413.zip,TRUE
+289771452025561main-184216316,null,null,null,null,null,TRUE
+289771452025561main-184216316,null,null,null,null,null,TRUE
+289771452540029main-1938914382,null,null,null,null,null,TRUE
+289771452540029main-1938914382,Mon Feb 01 16:04:17 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201160416.zip,TRUE
+289771452540029main-1938914382,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201160416.zip,TRUE
+289771452540029main-1938914382,Mon Feb 01 16:04:17 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201160416.zip,TRUE
+289771452540029main-1938914382,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201160416.zip,TRUE
+289771452540029main-1938914382,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201160416.zip,TRUE
+289771452540029main-1938914382,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693639_20160201160416.zip,TRUE
+289771452540029main-1938914382,null,null,null,null,null,TRUE
+289771452540029main-1938914382,null,null,null,null,null,TRUE
+289771453029693main526184862,null,null,null,null,null,TRUE
+289771453029693main526184862,Mon Feb 01 16:04:20 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201160419.zip,TRUE
+289771453029693main526184862,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201160419.zip,TRUE
+289771453029693main526184862,Mon Feb 01 16:04:20 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201160419.zip,TRUE
+289771453029693main526184862,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201160419.zip,TRUE
+289771453029693main526184862,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201160419.zip,TRUE
+289771453029693main526184862,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693940_20160201160419.zip,TRUE
+289771453029693main526184862,null,null,null,null,null,TRUE
+289771453029693main526184862,null,null,null,null,null,TRUE
+289771453624987main-1706385873,null,null,null,null,null,TRUE
+289771453624987main-1706385873,Mon Feb 01 16:04:36 EST 2016,started to upload file,null,pcXYZ,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201160495879400020.zip,TRUE
+289771453624987main-1706385873,null,was not created,null,null,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201160495879400020.zip,TRUE
+289771453886284main988635944,null,null,null,null,null,TRUE
+289771453886284main988635944,Mon Feb 01 16:04:36 EST 2016,started to upload file,null,awdnb2,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201160495879400020.pdf,TRUE
+289771453886284main988635944,null,was not created,null,null,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201160495879400020.pdf,TRUE
+289771453886284main988635944,Mon Feb 01 16:04:36 EST 2016,uploaded file,null,pcXYZ,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201160495879400020.zip,TRUE
+289771453886284main988635944,null,chmod,600,null,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201160495879400020.zip,TRUE
+289771453886284main988635944,Mon Feb 01 16:04:36 EST 2016,uploaded file,null,awdnb2,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201160495879400020.pdf,TRUE
+289771453886284main988635944,null,chmod,600,null,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201160495879400020.pdf,TRUE
+289771453886284main988635944,null,chown,99990353,null,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201160495879400020.zip,TRUE
+289771453886284main988635944,null,chown,999901156,null,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201160495879400020.pdf,TRUE
+289771453886284main988635944,null,chgrp,999901156,null,/export/home/pub/awdnb2/out/win_awdnb2_int/PaymentTicket_20160201160495879400020.pdf,TRUE
+289771453886284main988635944,null,chgrp,99990353,null,/export/home/pub/pcXYZ/out/pcdst/PaymentTicket508_20160201160495879400020.zip,TRUE
+289771453886284main988635944,null,null,null,null,null,TRUE
+289771453886284main988635944,null,null,null,null,null,TRUE
+289771453886284main988635944,null,null,null,null,null,TRUE
+289771453886284main988635944,null,null,null,null,null,TRUE
+289771454822418main-1345669525,null,null,null,null,null,TRUE
+289771454822418main-1345669525,Mon Feb 01 16:05:03 EST 2016,started to upload file,null,primerica_bie_int,/export/home/pub/primerica_bie_int/out/AG6407XYZ16020104592.02,TRUE
+289771454822418main-1345669525,null,was not created,null,null,/export/home/pub/primerica_bie_int/out/AG6407XYZ16020104592.02,TRUE
+289771454822418main-1345669525,Mon Feb 01 16:05:03 EST 2016,started to upload file,null,primerica_bie_int,/export/home/pub/primerica_bie_int/out/P6407XYZ16020106149.02,TRUE
+289771454822418main-1345669525,null,was not created,null,null,/export/home/pub/primerica_bie_int/out/P6407XYZ16020106149.02,TRUE
+289771454822418main-1345669525,Mon Feb 01 16:05:03 EST 2016,uploaded file,null,primerica_bie_int,/export/home/pub/primerica_bie_int/out/P6407XYZ16020106149.02,TRUE
+289771454822418main-1345669525,Mon Feb 01 16:05:03 EST 2016,uploaded file,null,primerica_bie_int,/export/home/pub/primerica_bie_int/out/AG6407XYZ16020104592.02,TRUE
+289771454822418main-1345669525,null,chmod,600,null,/export/home/pub/primerica_bie_int/out/P6407XYZ16020106149.02,TRUE
+289771454822418main-1345669525,null,chmod,600,null,/export/home/pub/primerica_bie_int/out/AG6407XYZ16020104592.02,TRUE
+289771454822418main-1345669525,null,chown,9999046,null,/export/home/pub/primerica_bie_int/out/P6407XYZ16020106149.02,TRUE
+289771454822418main-1345669525,null,chown,9999046,null,/export/home/pub/primerica_bie_int/out/AG6407XYZ16020104592.02,TRUE
+289771454822418main-1345669525,null,chgrp,9999046,null,/export/home/pub/primerica_bie_int/out/P6407XYZ16020106149.02,TRUE
+289771454822418main-1345669525,null,chgrp,9999046,null,/export/home/pub/primerica_bie_int/out/AG6407XYZ16020104592.02,TRUE
+289771454822418main-1345669525,null,null,null,null,null,TRUE
+289771454822418main-1345669525,null,null,null,null,null,TRUE
+289771454822418main-1345669525,null,null,null,null,null,TRUE
+289771454822418main-1345669525,null,null,null,null,null,TRUE
+289771456145152main998376404,null,null,null,null,null,TRUE
+289771456145152main998376404,Mon Feb 01 16:05:04 EST 2016,started to upload file,null,primerica_bie_int,/export/home/pub/primerica_bie_int/out/A6407XYZ16020104939.02,TRUE
+289771456145152main998376404,null,was not created,null,null,/export/home/pub/primerica_bie_int/out/A6407XYZ16020104939.02,TRUE
+289771456145152main998376404,Mon Feb 01 16:05:05 EST 2016,uploaded file,null,primerica_bie_int,/export/home/pub/primerica_bie_int/out/A6407XYZ16020104939.02,TRUE
+289771456145152main998376404,null,chmod,600,null,/export/home/pub/primerica_bie_int/out/A6407XYZ16020104939.02,TRUE
+289771456145152main998376404,null,chown,9999046,null,/export/home/pub/primerica_bie_int/out/A6407XYZ16020104939.02,TRUE
+289771456145152main998376404,null,chgrp,9999046,null,/export/home/pub/primerica_bie_int/out/A6407XYZ16020104939.02,TRUE
+289771456145152main998376404,null,null,null,null,null,TRUE
+289771456145152main998376404,null,null,null,null,null,TRUE
+289771456617710main-1718762550,null,null,null,null,null,TRUE
+289771456617710main-1718762550,Mon Feb 01 16:13:19 EST 2016,started to upload file,null,awd_to_qa6_int,/export/home/pub/awd_to_qa6_int/in/NOCEM111515100248855.zip,TRUE
+289771456617710main-1718762550,null,was not created,null,null,/export/home/pub/awd_to_qa6_int/in/NOCEM111515100248855.zip,TRUE
+289771456617710main-1718762550,Mon Feb 01 16:13:19 EST 2016,uploaded file,null,awd_to_qa6_int,/export/home/pub/awd_to_qa6_int/in/NOCEM111515100248855.zip,TRUE
+289771456617710main-1718762550,null,chmod,600,null,/export/home/pub/awd_to_qa6_int/in/NOCEM111515100248855.zip,TRUE
+289771456617710main-1718762550,null,chown,999903264,null,/export/home/pub/awd_to_qa6_int/in/NOCEM111515100248855.zip,TRUE
+289771456617710main-1718762550,null,chgrp,999903264,null,/export/home/pub/awd_to_qa6_int/in/NOCEM111515100248855.zip,TRUE
+289771456617710main-1718762550,null,null,null,null,null,TRUE
+289771456617710main-1718762550,null,null,null,null,null,TRUE
+289771457082142main-393040126,null,null,null,null,null,TRUE
+289771457082142main-393040126,Mon Feb 01 16:16:49 EST 2016,started to upload file,null,awd_to_qa6_int,/export/home/pub/awd_to_qa6_int/in/NOCEM111515100743554.zip,TRUE
+289771457082142main-393040126,null,was not created,null,null,/export/home/pub/awd_to_qa6_int/in/NOCEM111515100743554.zip,TRUE
+289771457082142main-393040126,Mon Feb 01 16:16:49 EST 2016,uploaded file,null,awd_to_qa6_int,/export/home/pub/awd_to_qa6_int/in/NOCEM111515100743554.zip,TRUE
+289771457082142main-393040126,null,chmod,600,null,/export/home/pub/awd_to_qa6_int/in/NOCEM111515100743554.zip,TRUE
+289771457082142main-393040126,null,chown,999903264,null,/export/home/pub/awd_to_qa6_int/in/NOCEM111515100743554.zip,TRUE
+289771457082142main-393040126,null,chgrp,999903264,null,/export/home/pub/awd_to_qa6_int/in/NOCEM111515100743554.zip,TRUE
+289771457082142main-393040126,null,null,null,null,null,TRUE
+289771457082142main-393040126,null,null,null,null,null,TRUE
+289771457628256main-1620581307,null,null,null,null,null,FALSE
+289771457628256main-1620581307,Mon Feb 01 16:18:23 EST 2016,started to upload file,null,pfinity_bie_qa2,/export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771457628256main-1620581307,null,was not created,null,null,/export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771457628256main-1620581307,Mon Feb 01 16:18:23 EST 2016,uploaded file,null,pfinity_bie_qa2,/export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771457628256main-1620581307,null,chmod,600,null,/export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771457628256main-1620581307,null,chown,999900912,null,/export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771457628256main-1620581307,null,chgrp,999900912,null,/export/home/pub/pfinity_bie_qa2/out/pfinity_wma_qa2/KKTP.U8XYZMPE.FTPIN.UVHPIO.PRICES,FALSE
+289771457628256main-1620581307,null,null,null,null,null,FALSE
+289771457628256main-1620581307,null,null,null,null,null,FALSE
+289771458152988main576498821,null,null,null,null,null,FALSE
+289771458152988main576498821,Mon Feb 01 16:18:26 EST 2016,started to upload file,null,pfinity_bie_qa2,/export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771458152988main576498821,null,was not created,null,null,/export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771458152988main576498821,Mon Feb 01 16:18:26 EST 2016,uploaded file,null,pfinity_bie_qa2,/export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771458152988main576498821,null,chmod,600,null,/export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771458152988main576498821,null,chown,999900912,null,/export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771458152988main576498821,null,chgrp,999900912,null,/export/home/pub/pfinity_bie_qa2/out/sftp403b_int/ANNTN.PZSIOPRC.SEGPRC.TEST,FALSE
+289771458152988main576498821,null,null,null,null,null,FALSE
+289771458152988main576498821,null,null,null,null,null,FALSE
+289771458758546main-1799321700,null,null,null,null,null,TRUE
+289771458758546main-1799321700,Mon Feb 01 16:21:17 EST 2016,started to upload file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_03_pfs.txt,TRUE
+289771458758546main-1799321700,null,was not created,null,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_03_pfs.txt,TRUE
+289771458758546main-1799321700,Mon Feb 01 16:21:18 EST 2016,uploaded file,null,pfinity_bie_uat,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_03_pfs.txt,TRUE
+289771458758546main-1799321700,null,chmod,600,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_03_pfs.txt,TRUE
+289771458758546main-1799321700,null,chown,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_03_pfs.txt,TRUE
+289771458758546main-1799321700,null,chgrp,999900968,null,/export/home/pub/pfinity_bie_uat/out/pfinity_nbfe_uat/nsccapp_03_pfs.txt,TRUE
+289771458758546main-1799321700,null,null,null,null,null,TRUE
+289771458758546main-1799321700,null,null,null,null,null,TRUE
+289771459246927main1341845863,null,null,null,null,null,TRUE
+289771459246927main1341845863,Mon Feb 01 16:22:03 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201162202.zip,TRUE
+289771459246927main1341845863,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201162202.zip,TRUE
+289771459246927main1341845863,Mon Feb 01 16:22:04 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201162202.zip,TRUE
+289771459246927main1341845863,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201162202.zip,TRUE
+289771459246927main1341845863,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201162202.zip,TRUE
+289771459246927main1341845863,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693939_20160201162202.zip,TRUE
+289771459246927main1341845863,null,null,null,null,null,TRUE
+289771459246927main1341845863,null,null,null,null,null,TRUE
+289771459763105main584685143,null,null,null,null,null,TRUE
+289771459763105main584685143,Mon Feb 01 16:22:07 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201162206.zip,TRUE
+289771459763105main584685143,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201162206.zip,TRUE
+289771459763105main584685143,Mon Feb 01 16:22:08 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201162206.zip,TRUE
+289771459763105main584685143,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201162206.zip,TRUE
+289771459763105main584685143,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201162206.zip,TRUE
+289771459763105main584685143,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693638_20160201162206.zip,TRUE
+289771459763105main584685143,null,null,null,null,null,TRUE
+289771459763105main584685143,null,null,null,null,null,TRUE
+289771460328463main1604897331,null,null,null,null,null,TRUE
+289771460328463main1604897331,Mon Feb 01 16:22:11 EST 2016,started to upload file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201162210.zip,TRUE
+289771460328463main1604897331,null,was not created,null,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201162210.zip,TRUE
+289771460328463main1604897331,Mon Feb 01 16:22:12 EST 2016,uploaded file,null,awduat10,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201162210.zip,TRUE
+289771460328463main1604897331,null,chmod,600,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201162210.zip,TRUE
+289771460328463main1604897331,null,chown,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201162210.zip,TRUE
+289771460328463main1604897331,null,chgrp,9999113,null,/export/home/pub/awduat10/zip/PPEA_GROUP_099693640_20160201162210.zip,TRUE
+289771460328463main1604897331,null,null,null,null,null,TRUE
+289771460328463main1604897331,null,null,null,null,null,TRUE
